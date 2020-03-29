@@ -1,6 +1,8 @@
-title: 
-description:
+title:wishlist_template
+description:wishlist template for copying
 
 //comment
+dimwishlist:item=1234&perks=456,567#notes:pvp or gambit
 
-dimwishlist:item=3027844941&perks=194952923,3868766766,280464955,1600092898
+//trashlist
+dimwishlist:item=-1234&#notes:I don't care for it.
