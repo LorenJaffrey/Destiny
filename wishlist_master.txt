@@ -1,5 +1,0 @@
-title:wishlist_master
-description:master wishlist containing all rolls
-
-3993415705
-dimwishlist:item=3993415705
