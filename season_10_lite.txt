@@ -1,0 +1,48 @@
+title:season_10
+description:all new weapons of season 10 excluding seventh seraph and trials
+
+//Dire Promise
+//Snapshot, Rangefinder
+dimwishlist:item=2742838701&perks=957782887,2846385770#notes:PvP godroll
+//Snapshot, Swashbuckler
+dimwishlist:item=2742838701&perks=957782887,4082225868#notes:PvP
+//Overflow, Swashbuckler
+dimwishlist:item=2742838701&perks=3643424744,4082225868#notes:PvE godroll
+//Overflow, Osmosis
+dimwishlist:item=2742838701&perks=3643424744,1774574192#notes:PvE situational
+
+//True Prophecy
+dimwishlist:item=-2742838700
+
+//Enigma's Draw
+//Graverobber, Swashbuckler
+dimwishlist:item=1723380073&perks=1631667848,4082225868#notes:PvE Godroll
+//Full-Auto, Demo
+dimwishlist:item=1723380073&perks=4267945040,3523296417#notes:PvP Godroll
+//Full-Auto, Rapid Hit
+dimwishlist:item=1723380073&perks=4267945040,247725512#notes:PvE
+
+//Escape Velocity
+//Overflow, Vorpal
+dimwishlist:item=1786797708&perks=3643424744,1546637391#notes:PvP Godroll
+//Overflow, Osmosis
+dimwishlist:item=1786797708&perks=3643424744,1774574192#notes:PvE situational
+
+//Timelines Vertex
+//Firmly Planted, Demo
+dimwishlist:item=3055192515&perks=280464955,3523296417#notes:PvE situational
+
+//Jian 7 Rifle
+//Full-Auto, Rampage
+dimwishlist:item=1162247618&perks=4267945040,3425386926#notes:PvP/PvE
+
+//Distant Tumulus
+//Clown Cartridge, Firing Line
+dimwishlist:item=2807687156&perks=2284787283,1771339417#notes:PvE
+
+//Interference VI
+dimwishlist:item=2257180473&perks=3301904089,2284787283,1771339417#notes:PvE Godroll
+
+//Honor's Edge
+//Relentless Strikes, Surrounded
+dimwishlist:item=2257180473&perks=1749209109,3708227201
