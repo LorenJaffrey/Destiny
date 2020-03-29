@@ -1,0 +1,9 @@
+title:wishlist_master
+description:master wishlist containing all rolls
+
+//comment
+dimwishlist:item=1234&perks=456,567#notes:pvp or gambit
+
+//trashlist
+dimwishlist:item=-1234&#notes:I don't care for it.
+
