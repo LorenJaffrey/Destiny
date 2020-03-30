@@ -27,3 +27,15 @@ dimwishlist:item=3863882743&perks=280464955,1015611457#notes:PvE
 dimwishlist:item=3863882743&perks=280464955,1890422124#notes:PvE
 //Quickdraw, Kill Clip
 dimwishlist:item=3863882743&perks=706527188,1015611457#notes:PvE
+
+//Elatha FR-4
+//Firmly Planted, Demo
+dimwishlist:item=4106983932&perks=280464955,3523296417#notes:PvE
+
+//Last Hope
+
+//Trophy Hunter
+
+//Mos Epoch III
+
+Pyroclastic Flow
