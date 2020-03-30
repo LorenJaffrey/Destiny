@@ -28,15 +28,50 @@ dimwishlist:item=3393519051&perks=3523296417,2360754333#notes:PvE
 dimwishlist:item=3393519051&perks=3523296417,4082225868#notes:PvE
 
 //Breachlight
+//Outlaw, Multikill Clip
+dimwishlist:item=1289997971&perks=1168162263,2458213969#notes:PvE
+//Outlaw, Vorpal
+dimwishlist:item=1289997971&perks=1168162263,1546637391#notes:PvP
+//Demo, Vorpal
+dimwishlist:item=1289997971&perks=3523296417,1546637391#notes:PvP
+//Demo, Osmosis
+dimwishlist:item=1289997971&perks=3523296417,1774574192#notes:PvE Situational
 
 //Gallant Charge
 
 //Martyr's Retribution
+//Field Prep, Demo
+dimwishlist:item=3850168899&perks=2869569095,3523296417#notes:PvE
+//Auto-Loading, Demo
+dimwishlist:item=3850168899&perks=3300816228,3523296417#notes:PvP
 
 //Jack Queen King 3
+//Subsistence, Swashbuckler
+dimwishlist:item=410996590&perks=1820235745,4082225868#notes:PvE
+//Subsistence, Rampage
+dimwishlist:item=410996590&perks=1820235745,3425386926#notes:PvE
+//Subsistence, Dragonfly
+dimwishlist:item=410996590&perks=1820235745,2848615171#notes:PvE
+//Demo, Rampage
+dimwishlist:item=410996590&perks=3523296417,3425386926#notes:PvE
+//Demo, Swashbuckler
+dimwishlist:item=410996590&perks=3523296417,4082225868#notes:PvE/PvP
+//Demo, Dragonfly
+dimwishlist:item=410996590&perks=3523296417,2848615171#notes:PvE
 
 //Infinite Paths 8
+dimwishlist:item=-3233390913
 
 //Traveler's Judgement 5
+//Feeding Frenzy, Tap the Trigger
+dimwishlist:item=2779035018&perks=2779035018,1890422124#notes:PvP
+//Feeding Frenzy, Disruption Break
+dimwishlist:item=2779035018&perks=2779035018,1683379515#notes:PvE
+//Rapid Hit, Tap the Trigger
+dimwishlist:item=2779035018&perks=247725512,1890422124#notes:PvP
+//Auto-Loading, Disruption Break
+dimwishlist:item=2779035018&perks=3300816228,1683379515#notes:PvE
 
 //Line in the Sand
+//Rapid Hit, Firing Line
+dimwishlist:item=946443267&perks=247725512,1771339417#notes:PvE Godroll
