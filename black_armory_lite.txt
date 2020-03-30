@@ -1,0 +1,14 @@
+title:black_armory_lite
+description:contains all black armory weapons including random drops
+
+//Galliard-42 XN7568
+//Outlaw, KillClip
+dimwishlist:item=1775804198&perks=1168162263,1015611457#notes:PvP max lethality
+//Outlaw, Rampage
+dimwishlist:item=1775804198&perks=1168162263,3425386926#notes:PvE max lethality
+//Dynamic Sway, Rangefinder
+dimwishlist:item=1775804198&perks=1359896290,2846385770#notes:PvE/PvP consistency/range
+//Dynamic Sway, Kill Clip
+dimwishlist:item=1775804198&perks=1359896290,1015611457#notes:PvP consitency/lethality
+//Dynamic Sway, Rampage
+dimwishlist:item=1775804198&perks=1359896290,3425386926#notes:PvE consistency/lethality
