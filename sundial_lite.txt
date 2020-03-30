@@ -1,0 +1,42 @@
+title:wishlist_template
+description:wishlist template for copying
+
+//Steelfeather Repeater
+//Feeding Frenzy, Multikill Clip 
+dimwishlist:item=1251729046&perks=2779035018,2458213969#notes:PvE Godroll
+//Subsistence, Swashbuckler
+dimwishlist:item=1251729046&perks=1820235745,4082225868#notes:PvE
+//Firmly Planted, Swashbuckler
+dimwishlist:item=1251729046&perks=280464955,4082225868#notes:PvE
+//Firmly Planted, Vorpal
+dimwishlist:item=1251729046&perks=280464955,1546637391#notes:PvE
+
+//Patron of Lost Causes
+//Full-Auto, Explosive
+dimwishlist:item=2723241847&perks=280464955,3038247973#notes:PvP Godroll
+//Full-Auto, Vorpal
+dimwishlist:item=2723241847&perks=280464955,1546637391#notes:PvP Situational
+//Rapid Hit, Explosive
+dimwishlist:item=2723241847&perks=247725512,3038247973#notes:PvE/PvP
+
+//Perfect Paradox
+//Demo, One-Two Punch
+dimwishlist:item=3393519051&perks=3523296417,2679249093#notes:PvE
+//Demo, Trench Barrel
+dimwishlist:item=3393519051&perks=3523296417,2360754333#notes:PvE
+//Demo, Swashbuckler
+dimwishlist:item=3393519051&perks=3523296417,4082225868#notes:PvE
+
+//Breachlight
+
+//Gallant Charge
+
+//Martyr's Retribution
+
+//Jack Queen King 3
+
+//Infinite Paths 8
+
+//Traveler's Judgement 5
+
+//Line in the Sand
