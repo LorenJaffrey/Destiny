@@ -30,8 +30,9 @@ dimwishlist:item=1786797708&perks=3643424744,1774574192#notes:PvE situational
 
 //Timelines Vertex
 //Firmly Planted, Demo
-dimwishlist:item=3055192515&perks=280464955,3523296417#notes:PvE situational
+dimwishlist:item=3055192515&perks=280464955,3523296417#notes:PvP/PvE
 //Shield Disorient, Disruption Break
+dimwishlist:item=3055192515&perks=3275789089,1683379515#notes:PvE situational
 
 //Jian 7 Rifle
 //Full-Auto, Rampage
@@ -43,8 +44,9 @@ dimwishlist:item=2807687156&perks=2284787283,1771339417#notes:PvE
 
 //Interference VI
 //Spike Grenades, Clown Cartridge, Full Court
-dimwishlist:item=2257180473&perks=3301904089,2284787283,1771339417#notes:PvE Godroll
+dimwishlist:item=2257180473&perks=3301904089,2284787283,1771339417#notes:PvE
 //Spike Grenades, Field Prep, Full Court
+dimwishlist:item=2257180473&perks=3301904089,2869569095,1771339417#notes:PvE
 
 //Honor's Edge
 //Relentless Strikes, Surrounded

@@ -1,0 +1,59 @@
+title:pinnacle
+description:contains all pinnacle and signature weapons
+
+//Mountaintop
+dimwishlist:item=-3993415705
+
+//Revoker
+dimwishlist:item=654608616
+
+//Luna's Howl
+dimwishlist:item=153979396
+
+//Not Forgotten
+dimwishlist:item=153979399
+
+//Redrix's Broadsword
+dimwishlist:item=1161276682
+
+//Komodo-4FR
+dimwishlist:item=2697058914
+
+//The Recluse
+dimwishlist:item=3354242550
+
+//Randy's Throwing Knife
+dimwishlist:item=3535742959
+
+//Exit Strategy
+dimwishlist:item=4227181568
+
+//Breakneck
+dimwishlist:item=324382200
+
+//Hush
+dimwishlist:item=1584643826
+
+//Python
+dimwishlist:item=838556752
+
+//21% Delirium
+dimwishlist:item=1600633250
+
+//Wendigo GL3
+dimwishlist:item=578459533
+
+//Edgewise
+dimwishlist:item=847329160
+
+//Oxygen SR3
+dimwishlist:item=3907337522
+
+//Loaded Question
+dimwishlist:item=580961571
+
+//Buzzard
+dimwishlist:item=805677041
+
+//Point of the Stag
+dimwishlist:item=3434944005
