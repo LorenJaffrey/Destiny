@@ -2,7 +2,7 @@ title:pinnacle
 description:contains all pinnacle and signature weapons
 
 //Mountaintop
-dimwishlist:item=-3993415705
+dimwishlist:item=3993415705
 
 //Revoker
 dimwishlist:item=654608616
