@@ -1,0 +1,29 @@
+title:trials_lite
+description:wishlist template for copying
+
+//The Scholar
+//Opening Shot, Vorpal
+//Opening Shot, No Distractions
+dimwishlist:item=1234&perks=456,567#notes:pvp or gambit
+
+//Astral Horizon
+//Quickdraw, Opening Shot
+//Threat Detector, One-Two Punch
+dimwishlist:item=1234&perks=456,567#notes:pvp or gambit
+
+//Eye of Sol
+//Snapshot, Box Breathing
+//Snapshot, Vorpal
+//Snapshot, Opening Shot
+
+//The Summoner
+//Dynamic Sway, Rangefinder
+//Dynamic Sway, Rampage
+//Dynamic Sway, Dragonfly
+//Overflow, Rampage
+//Overflow, Dragonfly
+
+//Exile's Curse
+//Firmly Planted
+
+//Tomorrow's Answer
