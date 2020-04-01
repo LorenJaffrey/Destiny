@@ -91,9 +91,11 @@ dimwishlist:item=2807687156&perks=2284787283,1771339417#notes:PvE
 
 //Interference VI
 //Spike Grenades, Clown Cartridge, Full Court
-dimwishlist:item=2257180473&perks=3301904089,2284787283,1771339417#notes:PvE
+dimwishlist:item=2257180473&perks=3301904089,2284787283,2888557110#notes:PvE
 //Spike Grenades, Field Prep, Full Court
 dimwishlist:item=2257180473&perks=3301904089,2869569095,1771339417#notes:PvE
+//Spike Grenades, Graverobber, Swashbuckler
+dimwishlist:item=2257180473&perks=3301904089,1631667848,4082225868#notes:PvE
 
 //Honor's Edge
 //Relentless Strikes, Surrounded
