@@ -4,6 +4,9 @@ description:only containing traits (excludes barrels, scopes, magazines, etc.)
 //Seventh Seraph
 //Season 10
 //Sundial
+//Pinnacle
+//Season 9
+//Season 8
 
 //Seventh Seraph SI-2 (Sidearm)
 //Full-Auto, Vorpal
@@ -290,3 +293,22 @@ dimwishlist:item=1529450902&perks=3300816228,1275731761#notes:PvE
 dimwishlist:item=1289324202&perks=706527188,1275731761#notes:PvE
 //Auto-Loading, Cluster Bomb
 dimwishlist:item=1289324202&perks=3300816228,1275731761#notes:PvE
+
+
+//BrayTech Werewolf
+//Zen Moment, Multikill Clip
+dimwishlist:item=528834068&perks=2387244414,2458213969#notes:PvE
+//Dynamic Sway, Kill Clip
+dimwishlist:item=528834068&perks=1359896290,1015611457#notes:PvP
+
+//Pluperfect
+//Zen Moment, Rampage
+dimwishlist:item=1952163498&perks=2387244414,3425386926#notes:PvE
+//Outlaw, Kill Clip
+dimwishlist:item=1952163498&perks=1168162263,1015611457#notes:PvP lethality
+//Rangefinder, Dynamic Sway
+dimwishlist:item=1952163498&perks=2846385770,1359896290#notes:PvP consistecy
+
+//Temporal Clause
+//Firmly Planted, Rampage
+dimwishlist:item=3369545945&perks=280464955,3425386926#notes:PvE

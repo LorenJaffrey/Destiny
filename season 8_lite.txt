@@ -1,0 +1,19 @@
+title:season_8
+
+//BrayTech Werewolf
+//Zen Moment, Multikill Clip
+dimwishlist:item=528834068&perks=2387244414,2458213969#notes:PvE
+//Dynamic Sway, Kill Clip
+dimwishlist:item=528834068&perks=1359896290,1015611457#notes:PvP
+
+//Pluperfect
+//Zen Moment, Rampage
+dimwishlist:item=1952163498&perks=2387244414,3425386926#notes:PvE
+//Outlaw, Kill Clip
+dimwishlist:item=1952163498&perks=1168162263,1015611457#notes:PvP lethality
+//Rangefinder, Dynamic Sway
+dimwishlist:item=1952163498&perks=2846385770,1359896290#notes:PvP consistecy
+
+//Temporal Clause
+//Firmly Planted, Rampage
+dimwishlist:item=3369545945&perks=280464955,3425386926#notes:PvE

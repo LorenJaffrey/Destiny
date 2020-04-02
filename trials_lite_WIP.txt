@@ -3,13 +3,15 @@ description:wishlist template for copying
 
 //The Scholar
 //Opening Shot, Vorpal
+dimwishlist:item=2478792241&perks=47981717,1546637391#notes:pvp
 //Opening Shot, No Distractions
-dimwishlist:item=1234&perks=456,567#notes:pvp or gambit
+dimwishlist:item=2478792241&perks=47981717,2866798147#notes:pvp
+//Opening Shot, Snapshot
+dimwishlist:item=2478792241&perks=47981717,957782887#notes:pvp
 
 //Astral Horizon
 //Quickdraw, Opening Shot
-//Threat Detector, One-Two Punch
-dimwishlist:item=1234&perks=456,567#notes:pvp or gambit
+dimwishlist:item=1697682876&perks=706527188,47981717#notes:pvp
 
 //Eye of Sol
 //Snapshot, Box Breathing
