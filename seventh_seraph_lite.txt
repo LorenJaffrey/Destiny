@@ -14,6 +14,8 @@ dimwishlist:item=3937866388&perks=3523296417,2848615171#notes:PvE Godroll
 dimwishlist:item=1821724780&perks=706527188,1546637391#notes:PvP
 //Autoloading, Trench Barrel
 dimwishlist:item=1821724780&perks=3300816228,2360754333#notes:PvE
+//Quickdraw, Trench Barrel
+dimwishlist:item=1821724780&perks=706527188,2360754333#notes:PvE
 
 //Seventh Seraph Carbine
 //Fourth Time's the Charm, Swashbuckler

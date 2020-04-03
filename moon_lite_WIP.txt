@@ -1,0 +1,70 @@
+title:moon_lite
+description:contains all moon weapons
+
+//Loud Lullaby
+//Outlaw, Multikill Clip
+dimwishlist:item=3924212056&perks=1168162263,2458213969#notes:PvE
+
+//Blasphemer
+//Quickdraw, Opening Shot
+dimwishlist:item=2782847179&perks=706527188,47981717#notes:PvP
+//Snapshot, Opening Shot
+dimwishlist:item=2782847179&perks=957782887,47981717#notes:PvP
+//Quickdraw, Swashbuckler
+dimwishlist:item=2782847179&perks=706527188,4082225868#notes:PvE
+
+//One Small Step
+dimwishlist:item=-1016668089#notes:perfect paradox is better
+
+//Tranquility
+//Auto-Loading, Firing Line
+dimwishlist:item=1645386487&perks=3300816228,1771339417#notes:PvE 2nd best roll
+//Field Prep, Firing Line
+dimwishlist:item=1645386487&perks=2869569095,1771339417#notes:PvE godroll
+//No Distractions, Firing Line
+dimwishlist:item=1645386487&perks=2866798147,1771339417#notes:PvE 3rd best roll, situational
+//No Distractions, Opening Shot
+dimwishlist:item=1645386487&perks=2866798147,47981717#notes:PvP
+
+//Arc Logic
+//Overflow, Rampage
+dimwishlist:item=2723909519&perks=3643424744,3425386926#notes:PvE godroll
+//Subsistence, Rampage
+dimwishlist:item=2723909519&perks=1820235745,3425386926#notes:PvE 2nd best roll
+//Moving Target, Rangefinder
+dimwishlist:item=2723909519&perks=588594999,3425386926#notes:PvP
+
+//Dream Breaker
+
+//Premonition
+//Outlaw, Kill Clip
+dimwishlist:item=208088207&perks=588594999,1015611457#notes:PvP
+//Firmly Planted, Dragonfly
+dimwishlist:item=208088207&perks=280464955,2848615171#notes:PvE godroll
+//Outlaw, Dragonfly
+dimwishlist:item=208088207&perks=1168162263,2848615171#notes:PvE 2nd best roll
+
+//Apostate
+//Moving Target, Snapshot
+dimwishlist:item=2164448701&perks=588594999,957782887#notes:PvP
+//Firmly Planted, Rapid Hit
+dimwishlist:item=2164448701&perks=280464955,247725512#notes:PvE
+
+//Every Waking Moment
+//Outlaw, Kill Clip
+dimwishlist:item=4277547616&perks=1168162263,1015611457#notes:PvP
+//Subsistence, Swashbuckler
+dimwishlist:item=4277547616&perks=1820235745,4082225868#notes:PvE godroll
+//Slideways, Swashbuckler
+dimwishlist:item=4277547616&perks=2039302152,4082225868#notes:PvE 2nd best roll
+
+//Love and Death
+//Spike Grenades, Field Prep, Full Court
+dimwishlist:item=3690523502&perks=3301904089,2869569095,2888557110#notes:PvE godroll
+
+//A Fine Memorial
+dimwishlist:item=-3325778512#notes:use Hammerhead, Avalanche or Delirium
+
+//Heretic
+
+//Night Terror
