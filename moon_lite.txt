@@ -66,5 +66,10 @@ dimwishlist:item=3690523502&perks=3301904089,2869569095,2888557110#notes:PvE god
 dimwishlist:item=-3325778512#notes:use Hammerhead, Avalanche or Delirium
 
 //Heretic
+dimwishlist:item=-3067821200
 
 //Night Terror
+//Relentless Strikes, Whirlwind Blade
+dimwishlist:item=3870811754&perks=1749209109,3913600130
+//Relentless Strikes, Assassin's Blade
+dimwishlist:item=3870811754&perks=1749209109,354401740

@@ -13,5 +13,5 @@
 - [ ] Season 8
     - [x] season_8
     - [ ] GoS
-    - [ ] moon
+    - [x] moon
     - [ ] vex offensive
