@@ -11,10 +11,32 @@ dimwishlist:item=2314999489&perks=2866798147,47981717#notes:PvP lethality
 //Subsistence, Rampage
 dimwishlist:item=2314999489&perks=1820235745,3425386926#notes:PvE 2nd best roll
 
-
-
 //Optative (Precision Hand Cannon)
+//Rapid Hit, Kill Clip
+dimwishlist:item=2138599001&perks=247725512,1015611457#notes:PvP
+//Rapid Hit, Demolitionist
+dimwishlist:item=2138599001&perks=247725512,3523296417#notes:PvE
+//Outlaw, Kill Clip
+dimwishlist:item=2138599001&perks=1168162263,1015611457#notes:PvP
 
 //Adhortative (Adaptive Pulse Rifle)
+//Feeding Frenzy, Multikill Clip
+dimwishlist:item=1167153950&perks=2779035018,2458213969#notes:PvE Godroll
+//Feeding Frenzy, Dragonfly
+dimwishlist:item=1167153950&perks=2779035018,2848615171#notes:PvE 2nd best roll
+//Feeding Frenzy, Rampage
+dimwishlist:item=1167153950&perks=2779035018,3425386926#notes:PvE 2nd best roll
+//Firmly Planted, Rangefinder
+dimwishlist:item=1167153950&perks=280464955,2846385770#notes:PvP
 
 //Subjunctive (Lightweight SMG)
+//Outlaw, Multikill Clip
+dimwishlist:item=2663204025&perks=1168162263,2458213969#notes:PvE
+//Quickdraw, Swashbuckler
+dimwishlist:item=2663204025&perks=706527188,4082225868#notes:PvP
+//Outlaw, Rampage
+dimwishlist:item=2663204025&perks=1168162263,3425386926#notes:PvE
+//Threat Detector, Surrounded
+dimwishlist:item=2663204025&perks=4071163871,3708227201#notes:PvE
+//Threat Detector, Swashbuckler
+dimwishlist:item=2663204025&perks=4071163871,4082225868#notes:PvE
