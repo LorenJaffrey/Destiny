@@ -12,6 +12,9 @@
     - [x] sundial
 - [ ] Season 8
     - [x] season_8
-    - [ ] GoS
+    - [ ] garden_of_salvation 
     - [x] moon
-    - [ ] vex offensive
+    - [x] vex_offensive
+- [ ] Season 7
+    - [ ] menagerie
+    - [ ] crown_of_sorrow
