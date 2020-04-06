@@ -3,6 +3,7 @@
 ## ToC
 
 - [x] Pinnacle
+- [ ] Iron Banner
 - [ ] Season 10
     - [x] season_10
     - [ ] trials
@@ -16,5 +17,5 @@
     - [x] moon
     - [x] vex_offensive
 - [ ] Season 7
-    - [ ] menagerie
+    - [x] menagerie
     - [ ] crown_of_sorrow
