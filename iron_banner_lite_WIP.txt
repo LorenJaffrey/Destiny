@@ -1,8 +1,29 @@
-title:wishlist_template
-description:wishlist template for copying
+title:iron_banner
+description:contains all weapons aquired through iron banner
 
-//comment
-dimwishlist:item=1234&perks=456,567#notes:pvp or gambit
+//Gunnora's Axe (Arc Precision Slug Shotgun)
+//Quickdraw, Snapshot
+dimwishlist:item=2326716489&perks=706527188,957782887#notes:PvP extra snappy
+//Quickdraw, Opening Shot
+dimwishlist:item=2326716489&perks=706527188,47981717#notes:PvP Godroll
+//Quickdraw, Slideshot
+dimwishlist:item=2326716489&perks=706527188,3161816588#notes:PvP 2nd best roll
 
-//trashlist
-dimwishlist:item=-1234&#notes:I don't care for it.
+//Shining Sphere (Arc Adaptive Rocket Launcher)
+dimwishlist:item=-136525518
+
+//Wizened Rebuke (Arc High Impact Fusion Rifle)
+//Firmly Planted, Rangefinder
+dimwishlist:item=930590127&perks=280464955,2846385770#notes:PvP
+//Firmly Planted, Tap the Trigger
+dimwishlist:item=930590127&perks=280464955,1890422124#notes:PvP
+
+//Orewing's Maul (Void Lightweight Grenade Launcher)
+//Proximity Nades, Quickdraw, Demolitionist
+dimwishlist:item=2108920981&perks=409831596,706527188,3523296417#notes:PvP
+//Proximity Nades, Quickdraw, Auto-Loading
+dimwishlist:item=2108920981&perks=409831596,706527188,3300816228#notes:PvP
+//Spike Grenades, Field Prep, Demolitionist
+dimwishlist:item=2108920981&perks=3301904089,2869569095,3523296417#notes:PvP
+//Spike Grenades, Field Prep, Auto-Loading
+dimwishlist:item=2108920981&perks=3301904089,2869569095,3300816228#notes:PvP

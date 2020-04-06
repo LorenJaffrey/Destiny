@@ -1,0 +1,10 @@
+title:crucible
+description:contains all weapons obtained via crucible
+
+//Last Perdition
+//Outlaw, Kill Clip
+dimwishlist:item=188882152&perks=1168162263,1015611457#notes:PvP lethality
+//Outlaw, Rampage
+dimwishlist:item=188882152&perks=1168162263,3425386926#notes:PvE
+//Rangefinder, Zen Moment
+dimwishlist:item=188882152&perks=2846385770,2387244414#notes:PvP consistency

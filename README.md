@@ -4,6 +4,9 @@
 
 - [x] Pinnacle
 - [ ] Iron Banner
+- [ ] Crucible
+- [ ] Vanguard
+- [ ] Gambit
 - [ ] Season 10
     - [x] season_10
     - [ ] trials
@@ -19,3 +22,7 @@
 - [ ] Season 7
     - [x] menagerie
     - [ ] crown_of_sorrow
+- [ ] Season 6
+    - [ ] season_6
+    - [ ] reckoning
+    - 

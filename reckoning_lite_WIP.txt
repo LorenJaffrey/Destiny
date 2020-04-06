@@ -1,0 +1,64 @@
+title:reckoning_lite
+description:contains all weapons aquired via reckoning or gambit prime
+
+//Spare Rations
+//Rapid Hit, Kill Clip
+dimwishlist:item=3116356268&perks=247725512,1015611457#notes:PvP lethality
+//Snapshot, Kill Clip
+dimwishlist:item=3116356268&perks=957782887,1015611457#notes:PvP lethality
+//Rapid Hit, Multikill Clip
+dimwishlist:item=3116356268&perks=247725512,2458213969#notes:PvE
+//Subsistence, Rampage
+dimwishlist:item=3116356268&perks=1820235745,3425386926#notes:PvE
+//Rapid Hit, Rangefinder
+dimwishlist:item=3116356268&perks=247725512,2846385770#notes:PvP consistency
+//Snapshot, Rangefinder
+dimwishlist:item=3116356268&perks=957782887,2846385770#notes:PvP consistency
+
+//Night Watch
+//Rapid Hit, Explosive
+dimwishlist:item=3504336176&perks=247725512,3038247973#notes:PvP
+//Rapid Hit, Multikill Clip
+dimwishlist:item=3504336176&perks=247725512,2458213969#notes:PvE
+//Subsistence, Rampage
+dimwishlist:item=3504336176&perks=1820235745,3425386926#notes:PvE
+//Outlaw, Multikill Clip
+dimwishlist:item=3504336176&perks=1168162263,2458213969#notes:PvE
+
+//Lonesome
+//Full-Auto, Kill Clip
+dimwishlist:item=2199171672&perks=4267945040,1015611457#notes:PvP
+//Grave Robber, Swashbuckler
+dimwishlist:item=2199171672&perks=1631667848,4082225868#notes:PvE
+//Zen Moment, Kill Clip
+dimwishlist:item=2199171672&perks=2387244414,1015611457#notes:PvP
+//Full-Auto, Demolitionist
+dimwishlist:item=2199171672&perks=4267945040,3523296417#notes:PvE/PvP
+//Full-Auto, Multikill-Clip
+dimwishlist:item=2199171672&perks=4267945040,2458213969#notes:PvE
+//Zen Moment, Demolitionist
+dimwishlist:item=2199171672&perks=2387244414,3523296417#notes:PvE/PvP
+
+//Gnawing Hunger
+//Overflow, Rampage
+dimwishlist:item=821154603&perks=3643424744,3425386926#notes:PvE
+//Tap the Trigger, Kill Clip
+dimwishlist:item=821154603&perks=1890422124,1015611457#notes:PvP
+//Zen Moment, Kill Clip
+dimwishlist:item=821154603&perks=2387244414,1015611457#notes:PvP
+//Subsistence, Rampage
+dimwishlist:item=821154603&perks=1820235745,3425386926#notes:PvE
+//Zen Moment, Demolitionist
+dimwishlist:item=821154603&perks=2387244414,3523296417#notes:PvP
+
+//Outlast
+
+//Last Man Standing
+
+//Sole Survivor
+
+//Bug-Out Bag
+
+//Doomsday
+
+//Just in Case
