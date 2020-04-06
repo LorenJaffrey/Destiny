@@ -25,7 +25,7 @@ dimwishlist:item=1561006927&perks=1354429876,3425386926#notes:PvE
 //Threat Detector, Vorpal
 dimwishlist:item=1561006927&perks=4071163871,1546637391#notes:PvP Godroll
 
-//Seventh Seraph VY-7
+//Seventh Seraph VY-7 (SMG)
 //Firmly Planted, Vorpal
 dimwishlist:item=766323545&perks=280464955,1546637391#notes:PvP Godroll
 //Fourth Time's the Charm, Dragonfly
