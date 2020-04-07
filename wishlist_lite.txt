@@ -11,6 +11,7 @@ description:only containing traits (excludes barrels, scopes, magazines, etc.)
 //Moon
 //Vex Offensive
 //Menagerie
+//Reckoning
 
 //Mountaintop
 dimwishlist:item=3993415705
@@ -524,3 +525,101 @@ dimwishlist:item=1642384931&perks=706527188,1890422124#notes:PvP
 dimwishlist:item=1642384931&perks=2779035018,3425386926#notes:PvP
 //No Distractions, Rangefinder
 dimwishlist:item=1642384931&perks=588594999,2846385770#notes:PvP
+
+//reckoning
+
+//Spare Rations
+//Rapid Hit, Kill Clip
+dimwishlist:item=3116356268&perks=247725512,1015611457#notes:PvP lethality
+//Snapshot, Kill Clip
+dimwishlist:item=3116356268&perks=957782887,1015611457#notes:PvP lethality
+//Rapid Hit, Multikill Clip
+dimwishlist:item=3116356268&perks=247725512,2458213969#notes:PvE
+//Subsistence, Rampage
+dimwishlist:item=3116356268&perks=1820235745,3425386926#notes:PvE
+//Rapid Hit, Rangefinder
+dimwishlist:item=3116356268&perks=247725512,2846385770#notes:PvP consistency
+//Snapshot, Rangefinder
+dimwishlist:item=3116356268&perks=957782887,2846385770#notes:PvP consistency
+
+//Night Watch
+//Rapid Hit, Explosive
+dimwishlist:item=3504336176&perks=247725512,3038247973#notes:PvP
+//Rapid Hit, Multikill Clip
+dimwishlist:item=3504336176&perks=247725512,2458213969#notes:PvE
+//Subsistence, Rampage
+dimwishlist:item=3504336176&perks=1820235745,3425386926#notes:PvE
+//Outlaw, Multikill Clip
+dimwishlist:item=3504336176&perks=1168162263,2458213969#notes:PvE
+
+//Lonesome
+//Full-Auto, Kill Clip
+dimwishlist:item=2199171672&perks=4267945040,1015611457#notes:PvP
+//Grave Robber, Swashbuckler
+dimwishlist:item=2199171672&perks=1631667848,4082225868#notes:PvE
+//Zen Moment, Kill Clip
+dimwishlist:item=2199171672&perks=2387244414,1015611457#notes:PvP
+//Full-Auto, Demolitionist
+dimwishlist:item=2199171672&perks=4267945040,3523296417#notes:PvE/PvP
+//Full-Auto, Multikill-Clip
+dimwishlist:item=2199171672&perks=4267945040,2458213969#notes:PvE
+//Zen Moment, Demolitionist
+dimwishlist:item=2199171672&perks=2387244414,3523296417#notes:PvE/PvP
+
+//Gnawing Hunger
+//Overflow, Rampage
+dimwishlist:item=821154603&perks=3643424744,3425386926#notes:PvE
+//Tap the Trigger, Kill Clip
+dimwishlist:item=821154603&perks=1890422124,1015611457#notes:PvP
+//Zen Moment, Kill Clip
+dimwishlist:item=821154603&perks=2387244414,1015611457#notes:PvP
+//Subsistence, Rampage
+dimwishlist:item=821154603&perks=1820235745,3425386926#notes:PvE
+//Zen Moment, Demolitionist
+dimwishlist:item=821154603&perks=2387244414,3523296417#notes:PvP
+
+//Outlast
+//Full-Auto, Kill Clip
+dimwishlist:item=299665907&perks=4267945040,1015611457#notes:PvP
+//Full-Auto, Rampage
+dimwishlist:item=299665907&perks=4267945040,3425386926#notes:PvE
+//Feeding Frenzy, Kill Clip
+dimwishlist:item=299665907&perks=2779035018,1015611457#notes:PvP
+//Feeding Frenzy, Rampage
+dimwishlist:item=299665907&perks=2779035018,3425386926#notes:PvE
+//Full-Auto, Demolitionist
+dimwishlist:item=299665907&perks=4267945040,3523296417#notes:PvP/PvE
+
+//Last Man Standing
+//Grave Robber, One-Two Punch
+dimwishlist:item=755130877&perks=1631667848,2679249093#notes:PvE
+
+//Sole Survivor
+//Triple Tap, Firing Line
+dimwishlist:item=1115104187&perks=3400784728,1771339417#notes:PvE
+//Snapshot, Opening Shot
+dimwishlist:item=1115104187&perks=957782887,47981717#notes:PvP
+
+//Bug-Out Bag
+//Slideways, Multikill Clip
+dimwishlist:item=2744715540&perks=2039302152,2458213969#notes:PvP
+//Subsistence, Swashbuckler
+dimwishlist:item=2744715540&perks=1820235745,4082225868#notes:PvP
+//Grave Robber, Swashbuckler
+dimwishlist:item=2744715540&perks=1631667848,4082225868#notes:PvP
+//Zen Moment, Demolitionist
+dimwishlist:item=2744715540&perks=2387244414,3523296417#notes:PvP
+
+//Doomsday
+//Spike Nades, Field Prep, Full Court
+dimwishlist:item=736901634&perks=3301904089,2869569095,2888557110#notes:PvP
+//Spike Nades, Field Prep, Demolitionist
+dimwishlist:item=736901634&perks=3301904089,2869569095,3523296417#notes:PvP
+//Proximity Nades, Snapshot, Quickdraw
+dimwishlist:item=736901634&perks=409831596,957782887,706527188#notes:PvP
+
+//Just in Case
+//Relentless Strikes, Whirlwind Blade
+dimwishlist:item=715338174&perks=1749209109,3913600130#notes:PvP
+//Relentless Strikes, Assassin's Blade
+dimwishlist:item=715338174&perks=1749209109,354401740#notes:PvP
