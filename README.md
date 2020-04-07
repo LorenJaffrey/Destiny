@@ -23,6 +23,7 @@
     - [x] menagerie
     - [ ] crown_of_sorrow
 - [ ] Season 6
-    - [ ] season_6
-    - [ ] reckoning
-    - 
+    - [x] reckoning
+- [ ] Season 5
+    - [ ] black_armory
+    - [ ] scourge_of_the_past

@@ -1,6 +1,18 @@
 title:black_armory_lite
 description:contains all black armory weapons including random drops
 
+//The Spiteful Fang
+
+//Bad News XF4354
+
+//Blast Furnace
+
+//Baligant XU7743
+
+//Show of Force XF4865
+
+//Atalanta-D XG1992
+
 //Galliard-42 XN7568
 //Outlaw, KillClip
 dimwishlist:item=1775804198&perks=1168162263,1015611457#notes:PvP max lethality
@@ -12,3 +24,23 @@ dimwishlist:item=1775804198&perks=1359896290,2846385770#notes:PvE/PvP consistenc
 dimwishlist:item=1775804198&perks=1359896290,1015611457#notes:PvP consitency/lethality
 //Dynamic Sway, Rampage
 dimwishlist:item=1775804198&perks=1359896290,3425386926#notes:PvE consistency/lethality
+
+//The Ringing Nail
+
+//Kindled Orchid
+
+//Swift Ride XE8375
+
+//Tango-45 XK5094
+
+//Dead Man Walking XX7463
+
+//Tatara Gaze
+
+//Acantha-D XK8434
+
+//Hammerhead
+
+//Hoosegow XE5837
+
+//Stryker's Surehand

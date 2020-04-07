@@ -10,3 +10,7 @@ dimwishlist:item=834081972&perks=3400784728,3425386926#notes:PvE
 dimwishlist:item=834081972&perks=247725512,1015611457#notes:PvP lethality 2nd best
 //Rangefinder, Zen Moment
 dimwishlist:item=834081972&perks=2846385770,2387244414#notes:PvP consistency
+
+//Nightshade
+
+//Persuader

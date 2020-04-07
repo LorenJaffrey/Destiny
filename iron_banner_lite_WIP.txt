@@ -27,3 +27,7 @@ dimwishlist:item=2108920981&perks=409831596,706527188,3300816228#notes:PvP
 dimwishlist:item=2108920981&perks=3301904089,2869569095,3523296417#notes:PvP
 //Spike Grenades, Field Prep, Auto-Loading
 dimwishlist:item=2108920981&perks=3301904089,2869569095,3300816228#notes:PvP
+
+//Crimil's Dagger
+
+//The Hero's Burden
