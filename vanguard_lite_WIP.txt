@@ -11,6 +11,12 @@ dimwishlist:item=834081972&perks=247725512,1015611457#notes:PvP lethality 2nd be
 //Rangefinder, Zen Moment
 dimwishlist:item=834081972&perks=2846385770,2387244414#notes:PvP consistency
 
-//Nightshade
+//Nightshade (Kinetic Lightweight Pulse Rifle)
+//Outlaw, Kill Clip
+dimwishlist:item=792755504&perks=1168162263,1015611457#notes:PvP
+//Outlaw, Rampage
+dimwishlist:item=792755504&perks=1168162263,3425386926#notes:PvE
 
-//Persuader
+//Persuader (Void Rapid Fire Sniper Rifle)
+//Field Prep, Triple Tap
+dimwishlist:item=4083045006&perks=2869569095,3400784728#notes:PvE

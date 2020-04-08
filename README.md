@@ -25,5 +25,6 @@
 - [ ] Season 6
     - [x] reckoning
 - [ ] Season 5
+    - [x] season_5
     - [ ] black_armory
     - [ ] scourge_of_the_past

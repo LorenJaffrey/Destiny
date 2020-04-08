@@ -1,7 +1,11 @@
 title:black_armory_lite
 description:contains all black armory weapons including random drops
 
-//The Spiteful Fang
+//The Spiteful Fang (Kinetic Lightweight Bow)
+//Archer's Tempo, Rampage
+dimwishlist:item=421573768&perks=201365942,3425386926#notes:PvP max lethality
+//Moving Target, Explosive Head
+dimwishlist:item=421573768&perks=588594999,3365897133#notes:PvP max lethality
 
 //Bad News XF4354
 
@@ -13,7 +17,7 @@ description:contains all black armory weapons including random drops
 
 //Atalanta-D XG1992
 
-//Galliard-42 XN7568
+//Galliard-42 XN7568 (Solar Adaptive Auto Rifle)
 //Outlaw, KillClip
 dimwishlist:item=1775804198&perks=1168162263,1015611457#notes:PvP max lethality
 //Outlaw, Rampage
