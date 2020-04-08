@@ -1,7 +1,0 @@
-title:season_5
-description:contains all weapons introduced in season 5 excluding activities
-
-//The Vow
-dimwishlist:item=1234&perks=456,567#notes:pvp or gambit
-
-//Avalanche

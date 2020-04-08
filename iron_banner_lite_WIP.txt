@@ -29,5 +29,19 @@ dimwishlist:item=2108920981&perks=3301904089,2869569095,3523296417#notes:PvP
 dimwishlist:item=2108920981&perks=3301904089,2869569095,3300816228#notes:PvP
 
 //Crimil's Dagger
+//Rangefinder, Opening Shot
+dimwishlist:item=4292849692&perks=2846385770,47981717#notes:PvP consistency
+//Outlaw, Kill Clip
+dimwishlist:item=4292849692&perks=1168162263,1015611457#notes:PvP lethality
 
 //The Hero's Burden
+//Snapshot, Kill Clip
+dimwishlist:item=1865351684&perks=957782887,1015611457#notes:PvP lethality
+//Zen Moment, Kill Clip
+dimwishlist:item=1865351684&perks=2387244414,1015611457#notes:PvP lethality
+//Moving Target, Tap the Trigger
+dimwishlist:item=1865351684&perks=588594999,1890422124#notes:PvP consistency
+//Moving Target, Kill Clip
+dimwishlist:item=1865351684&perks=588594999,1015611457#notes:PvP lethality
+//Snapshot, Tap the Trigger
+dimwishlist:item=1865351684&perks=957782887,1890422124#notes:PvP consistency

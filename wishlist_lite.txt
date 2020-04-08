@@ -623,3 +623,12 @@ dimwishlist:item=736901634&perks=409831596,957782887,706527188#notes:PvP
 dimwishlist:item=715338174&perks=1749209109,3913600130#notes:PvP
 //Relentless Strikes, Assassin's Blade
 dimwishlist:item=715338174&perks=1749209109,354401740#notes:PvP
+
+//Season 5
+
+//The Vow
+dimwishlist:item=2009106091
+
+//Avalanche
+//Feeding Frenzy, Rampage
+dimwishlist:item=66875353&perks=2779035018,3425386926#notes:PvE
