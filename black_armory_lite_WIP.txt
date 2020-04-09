@@ -7,15 +7,36 @@ dimwishlist:item=421573768&perks=201365942,3425386926#notes:PvP max lethality
 //Moving Target, Explosive Head
 dimwishlist:item=421573768&perks=588594999,3365897133#notes:PvP max lethality
 
-//Bad News XF4354
+//Bad News XF4354 (Kinetic Aggressive Hand Cannon)
+//Outlaw, Kill Clip
+dimwishlist:item=2824241403&perks=1168162263,1015611457#notes:PvP lethality
+//Rangefinder, Opening Shot
+dimwishlist:item=2824241403&perks=2846385770,47981717#notes:PvP consistency
 
-//Blast Furnace
+//Blast Furnace (Kinetic Aggressive Pulse Rifle)
+//Feeding Frenzy, Rampage
+dimwishlist:item=3843477312&perks=2779035018,3425386926#notes:PvE
+//Feeding Frenzy, Kill Clip
+dimwishlist:item=3843477312&perks=2779035018,1015611457#notes:PvP
 
-//Baligant XU7743
+//Baligant XU7743 (Kinetic Aggressive Shotgun)
+//Slideshot, Snapshot
+dimwishlist:item=3461377698&perks=3161816588,957782887#notes:PvP (preferably Astral Horizon)
 
-//Show of Force XF4865
+//Show of Force XF4865 (Kinetic Aggressive Sniper Rifle)
+dimwishlist:item=-4148143418
 
 //Atalanta-D XG1992
+//Snapshot, Kill Clip
+dimwishlist:item=2422664927&perks=957782887,1015611457#notes:PvP lethality
+//Zen Moment, Kill Clip
+dimwishlist:item=2422664927&perks=2387244414,1015611457#notes:PvP lethality
+//Moving Target, Tap the Trigger
+dimwishlist:item=2422664927&perks=588594999,1890422124#notes:PvP consistency
+//Moving Target, Kill Clip
+dimwishlist:item=2422664927&perks=588594999,1015611457#notes:PvP lethality
+//Snapshot, Tap the Trigger
+dimwishlist:item=2422664927&perks=957782887,1890422124#notes:PvP consistency
 
 //Galliard-42 XN7568 (Solar Adaptive Auto Rifle)
 //Outlaw, KillClip
