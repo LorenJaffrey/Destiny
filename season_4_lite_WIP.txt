@@ -1,0 +1,32 @@
+title:season_4
+description:contains all weapons of season 4 excluding those obtained through special activities
+
+dimwishlist:item=1234&perks=456,567#notes:pvp or gambit
+
+//No Turning Back
+
+//Duke Mk. 44
+
+//Ten Paces
+
+//Go Figure
+
+//Smuggler's Word
+
+//Subtle Calamity
+
+//Arsenic Bite-4b
+
+//Misfit
+
+//The Cut and Run
+
+//Badlander
+
+//Translation Theory
+
+//Bad Reputation
+
+//Edge Transit
+
+//Through Fire and Blood

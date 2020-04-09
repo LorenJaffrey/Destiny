@@ -1,0 +1,17 @@
+title:dreaming_city
+description:contains all weapons obtained in dreaming city activities
+
+//Tigerspite
+dimwishlist:item=1234&perks=456,567#notes:pvp or gambit
+
+//Waking Vigil
+
+//Vouchsafe
+
+//Retold Tale
+
+//Twilight Oath
+
+//Sleepless
+
+//Abide the Return

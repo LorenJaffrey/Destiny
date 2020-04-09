@@ -21,3 +21,15 @@ dimwishlist:item=2278995296&perks=2387244414,2846385770#notes:PvP range
 
 //Wishbringer
 dimwishlist:item=-3356526253#notes:use Seventh Seraph or Ikelos instead
+
+//Better Devils
+
+//Hard Truths
+
+//Anonymous Autumn
+
+//Fate Cries Foul
+
+//Play of the Game
+
+//Steel Sybil Z-14

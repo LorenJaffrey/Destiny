@@ -20,3 +20,15 @@ dimwishlist:item=792755504&perks=1168162263,3425386926#notes:PvE
 //Persuader (Void Rapid Fire Sniper Rifle)
 //Field Prep, Triple Tap
 dimwishlist:item=4083045006&perks=2869569095,3400784728#notes:PvE
+
+//Nameless Midnight
+
+//Toil and Trouble
+
+//Long Shadow
+
+//Main Ingredient
+
+//The Last Dance
+
+//Outrageous Fortune

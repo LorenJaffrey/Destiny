@@ -45,3 +45,15 @@ dimwishlist:item=1865351684&perks=588594999,1890422124#notes:PvP consistency
 dimwishlist:item=1865351684&perks=588594999,1015611457#notes:PvP lethality
 //Snapshot, Tap the Trigger
 dimwishlist:item=1865351684&perks=957782887,1890422124#notes:PvP consistency
+
+//Talons of the Eagle
+
+//Bite of the Fox
+
+//Claws of the Wolf
+
+//Breath of the Dragon
+
+//Swarm of the Raven
+
+//Roar of the Bear

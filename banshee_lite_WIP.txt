@@ -1,0 +1,27 @@
+title:banshee
+description:contains all weapons obtained via weaponmaster engrams
+
+//Halfdan-D
+dimwishlist:item=1234&perks=456,567#notes:pvp or gambit
+
+//Pribina-D
+
+//Eystein-D
+
+//Antiope-D 
+
+//Valakdyn
+
+//Erentil FR4
+
+//Proelium FR3
+
+//Black Scorpion-4SR
+
+//Good Bone Structure
+
+//Elegy-49
+
+//Crooked Fang-4FR
+
+//Zenobia-D

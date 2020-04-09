@@ -1,0 +1,19 @@
+title:gambit
+description:wishlist template for copying
+
+//Hazard of the Cast
+dimwishlist:item=1234&perks=456,567#notes:pvp or gambit
+
+//Bygones
+
+//Parcel of Stardust
+
+//Dreaded Venture
+
+//Pillager
+
+//Trust
+
+//Distant Relation
+
+//Bad Omens

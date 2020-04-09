@@ -1,6 +1,0 @@
-title:banshee
-description:contains all weapons obtained via weaponmaster engrams
-
-//Halfdan-D
-dimwishlist:item=1234&perks=456,567#notes:pvp or gambit
-

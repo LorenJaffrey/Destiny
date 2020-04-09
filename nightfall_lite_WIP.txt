@@ -1,0 +1,13 @@
+title:nightfall
+description:contains all weapons obtained as nightfall strike rewards
+
+//The Militia's Birthright
+dimwishlist:item=1234&perks=456,567#notes:pvp or gambit
+
+//Warden's Law
+
+//Horror's Least
+
+//Mindbender's Ambition
+
+//The Long Goodbye

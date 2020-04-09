@@ -4,4 +4,18 @@ description:contains all weapons obtained in acticities in the tangled shore
 //Ether Doctor
 dimwishlist:item=1234&perks=456,567#notes:pvp or gambit
 
-//trashlist
+//Wrong Side of Right
+
+//Dust Rock Blues
+
+//Trackless Waste
+
+//Thin Line
+
+//Right Side of Wrong
+
+//Death by Scorn
+
+//Vestian Dynasty
+
+//Terran Wind
