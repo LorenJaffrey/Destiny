@@ -1,0 +1,119 @@
+title:black_armory_lite
+description:contains all black armory weapons including random drops
+
+//The Spiteful Fang (Kinetic Lightweight Bow)
+//Archer's Tempo, Rampage
+dimwishlist:item=421573768&perks=201365942,3425386926#notes:PvP max lethality
+//Moving Target, Explosive Head
+dimwishlist:item=421573768&perks=588594999,3365897133#notes:PvP max lethality
+
+//Bad News XF4354 (Kinetic Aggressive Hand Cannon)
+//Outlaw, Kill Clip
+dimwishlist:item=2824241403&perks=1168162263,1015611457#notes:PvP lethality
+//Rangefinder, Opening Shot
+dimwishlist:item=2824241403&perks=2846385770,47981717#notes:PvP consistency
+
+//Blast Furnace (Kinetic Aggressive Pulse Rifle)
+//Feeding Frenzy, Rampage
+dimwishlist:item=3843477312&perks=2779035018,3425386926#notes:PvE
+//Feeding Frenzy, Kill Clip
+dimwishlist:item=3843477312&perks=2779035018,1015611457#notes:PvP
+
+//Baligant XU7743 (Kinetic Aggressive Shotgun)
+//Slideshot, Snapshot
+dimwishlist:item=3461377698&perks=3161816588,957782887#notes:PvP (preferably Astral Horizon)
+
+//Show of Force XF4865 (Kinetic Aggressive Sniper Rifle)
+dimwishlist:item=-4148143418
+
+//Atalanta-D XG1992
+//Snapshot, Kill Clip
+dimwishlist:item=2422664927&perks=957782887,1015611457#notes:PvP lethality
+//Zen Moment, Kill Clip
+dimwishlist:item=2422664927&perks=2387244414,1015611457#notes:PvP lethality
+//Moving Target, Tap the Trigger
+dimwishlist:item=2422664927&perks=588594999,1890422124#notes:PvP consistency
+//Moving Target, Kill Clip
+dimwishlist:item=2422664927&perks=588594999,1015611457#notes:PvP lethality
+//Snapshot, Tap the Trigger
+dimwishlist:item=2422664927&perks=957782887,1890422124#notes:PvP consistency
+
+//Galliard-42 XN7568 (Solar Adaptive Auto Rifle)
+//Outlaw, KillClip
+dimwishlist:item=1775804198&perks=1168162263,1015611457#notes:PvP max lethality
+//Outlaw, Rampage
+dimwishlist:item=1775804198&perks=1168162263,3425386926#notes:PvE max lethality
+//Dynamic Sway, Rangefinder
+dimwishlist:item=1775804198&perks=1359896290,2846385770#notes:PvE/PvP consistency/range
+//Dynamic Sway, Kill Clip
+dimwishlist:item=1775804198&perks=1359896290,1015611457#notes:PvP consitency/lethality
+//Dynamic Sway, Rampage
+dimwishlist:item=1775804198&perks=1359896290,3425386926#notes:PvE consistency/lethality
+
+//The Ringing Nail (Solar Precision Auto Rifle)
+//Dragonfly, Rampage
+dimwishlist:item=93253474&perks=2848615171,3425386926#notes:PvE
+//Shield Disorient, Disruption Break
+dimwishlist:item=93253474&perks=3275789089,1683379515#notes:PvE
+//Zen Moment, Kill Clip
+dimwishlist:item=93253474&perks=2387244414,1015611457#notes:PvP
+//Quickdraw, Tap the Trigger
+dimwishlist:item=93253474&perks=706527188,1890422124#notes:PvP
+
+//Kindled Orchid (Void Adaptive Hand Cannon)
+//Kill Clip, Rampage
+dimwishlist:item=2575506895&perks=1015611457,3425386926#notes:PvP/PvE
+//Shield Disorient, Disruption Break
+dimwishlist:item=2575506895&perks=3275789089,1683379515#notes:PvE
+//Kill Clip, Rapid Hit
+dimwishlist:item=2575506895&perks=1015611457,247725512#notes:PvP
+//Outlaw, Rampage
+dimwishlist:item=2575506895&perks=1168162263,3425386926#notes:PvE
+//Quickdraw, Explosive
+dimwishlist:item=2575506895&perks=706527188,3038247973#notes:PvP
+
+//Swift Ride XE8375 (Arc Adaptive Scout Rifle)
+//Outlaw, Kill Clip
+dimwishlist:item=1386601612&perks=1168162263,1015611457#notes:PvP
+//Outlaw, Rampage
+dimwishlist:item=1386601612&perks=1168162263,3425386926#notes:PvE
+
+//Tango-45 XK5094 (Solar Precision Scout Rifle)
+//Triple Tap, Dragonfly
+dimwishlist:item=20025671&perks=3400784728,2848615171#notes:PvE
+//Zen Moment, Explosive Payload
+dimwishlist:item=20025671&perks=2387244414,3038247973#notes:PvP
+
+//Dead Man Walking XX7463 (Solar Suros Rapid Fire Sidearm)
+//Quickdraw, Opening Shot
+dimwishlist:item=3751622019&perks=706527188,47981717#notes:PvP
+//Outlaw, Kill Clip
+dimwishlist:item=3751622019&perks=1168162263,1015611457#notes:PvP
+//Outlaw, Rampage
+dimwishlist:item=3751622019&perks=1168162263,3425386926#notes:PvP
+
+//Tatara Gaze (Arc Aggressive Sniper Rifle)
+dimwishlist:item=-1449922174
+
+//Acantha-D XK8434 (Arc Rapid Fire Grenade Launcher)
+//Proximity Nades, Snapshot, Quickdraw
+dimwishlist:item=1757129747&perks=409831596,957782887,706527188#notes:PvP
+
+//Hammerhead (Void Adaptive Machine Gun)
+//Feeding Frenzy, Rampage
+dimwishlist:item=603242241&perks=2779035018,3425386926#notes:PvP
+//Tap the Trigger, High Impact Reserves
+dimwishlist:item=603242241&perks=1890422124,2213355989#notes:PvP
+
+//Hoosegow XE5837 (Solar Adpative Rocket Launcher)
+dimwishlist:item=-2817798849
+
+//Stryker's Surehand (Arc Adpative Sword)
+//Relentless Strikes, Whirlwind Blade
+dimwishlist:item=3704653637&perks=1749209109,3913600130#notes:PvP/PvE
+//Relentless Strikes, Surrounded
+dimwishlist:item=3704653637&perks=1749209109,3708227201#notes:PvP/PvE
+//Assassin's Blade, Whirlwind Blade
+dimwishlist:item=3704653637&perks=354401740,3913600130#notes:PvP/PvE
+//Assassin's Blade, Surrounded
+dimwishlist:item=3704653637&perks=354401740,3708227201#notes:PvP/PvE
