@@ -1,0 +1,7 @@
+title:tangled_shore
+description:contains all weapons obtained in acticities in the tangled shore
+
+//Ether Doctor
+dimwishlist:item=1234&perks=456,567#notes:pvp or gambit
+
+//trashlist

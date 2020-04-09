@@ -2,11 +2,14 @@
 
 ## ToC
 
-- [x] Pinnacle
-- [ ] Iron Banner
-- [ ] Crucible
-- [ ] Vanguard
-- [ ] Gambit
+- [ ] Activities
+    - [x] pinnacle
+    - [ ] iron_banner
+    - [ ] crucible
+    - [ ] vanguard
+    - [ ] gambit
+    - [ ] banshee
+    - [ ] nightfall
 - [ ] Season 10
     - [x] season_10
     - [ ] trials
@@ -22,9 +25,14 @@
 - [ ] Season 7
     - [x] menagerie
     - [ ] crown_of_sorrow
-- [ ] Season 6
+- [x] Season 6
     - [x] reckoning
 - [ ] Season 5
     - [x] season_5
-    - [ ] black_armory
+    - [x] black_armory
     - [ ] scourge_of_the_past
+- [ ] Season 4
+    - [ ] season_4
+    - [ ] tangled_shore
+    - [ ] dreaming_city
+    - [ ] last_wish
