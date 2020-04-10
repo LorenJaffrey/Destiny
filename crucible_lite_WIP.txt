@@ -23,6 +23,10 @@ dimwishlist:item=2278995296&perks=2387244414,2846385770#notes:PvP range
 dimwishlist:item=-3356526253#notes:use Seventh Seraph or Ikelos instead
 
 //Better Devils
+//Outlaw, Kill Clip
+dimwishlist:item=153979397&perks=1168162263,1015611457#notes:PvP lethality
+//Rangefinder, Explosive Payload
+dimwishlist:item=153979397&perks=2846385770,3038247973#notes:PvP consistency
 
 //Hard Truths
 
