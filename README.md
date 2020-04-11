@@ -4,7 +4,7 @@
 
 - [ ] Activities
     - [x] pinnacle
-    - [ ] iron_banner
+    - [x] iron_banner
     - [x] crucible
     - [ ] vanguard
     - [ ] gambit

@@ -3,6 +3,7 @@ description:only containing traits (excludes barrels, scopes, magazines, etc.)
 //toc
 //Pinnacle
 //Crucible
+//Iron Banner
 //Season 10
 //Seventh Seraph
 //Trials TODO
@@ -141,6 +142,95 @@ dimwishlist:item=195440257&perks=3373736292,957782887,706527188#notes:PvP sticky
 dimwishlist:item=4230993599&perks=1749209109,3913600130#notes:PvP/PvE
 //Relentless Strikes, Assassin's Blade
 dimwishlist:item=4230993599&perks=1749209109,354401740#notes:PvP/PvE
+
+//Iron Banner
+
+//Gunnora's Axe (Arc Precision Slug Shotgun)
+//Quickdraw, Snapshot
+dimwishlist:item=2326716489&perks=706527188,957782887#notes:PvP extra snappy
+//Quickdraw, Opening Shot
+dimwishlist:item=2326716489&perks=706527188,47981717#notes:PvP Godroll
+//Quickdraw, Slideshot
+dimwishlist:item=2326716489&perks=706527188,3161816588#notes:PvP 2nd best roll
+
+//Shining Sphere (Arc Adaptive Rocket Launcher)
+dimwishlist:item=-136525518
+
+//Wizened Rebuke (Arc High Impact Fusion Rifle)
+//Firmly Planted, Rangefinder
+dimwishlist:item=930590127&perks=280464955,2846385770#notes:PvP
+//Firmly Planted, Tap the Trigger
+dimwishlist:item=930590127&perks=280464955,1890422124#notes:PvP
+
+//Orewing's Maul (Void Lightweight Grenade Launcher)
+//Proximity Nades, Quickdraw, Demolitionist
+dimwishlist:item=2108920981&perks=409831596,706527188,3523296417#notes:PvP
+//Proximity Nades, Quickdraw, Auto-Loading
+dimwishlist:item=2108920981&perks=409831596,706527188,3300816228#notes:PvP
+//Spike Grenades, Field Prep, Demolitionist
+dimwishlist:item=2108920981&perks=3301904089,2869569095,3523296417#notes:PvP
+//Spike Grenades, Field Prep, Auto-Loading
+dimwishlist:item=2108920981&perks=3301904089,2869569095,3300816228#notes:PvP
+
+//Crimil's Dagger (Kinetic Aggressive Frame Hand Cannon)
+//Rangefinder, Opening Shot
+dimwishlist:item=4292849692&perks=2846385770,47981717#notes:PvP consistency
+//Outlaw, Kill Clip
+dimwishlist:item=4292849692&perks=1168162263,1015611457#notes:PvP lethality
+
+//The Hero's Burden (Void Adaptive Frame SMG)
+//Snapshot, Kill Clip
+dimwishlist:item=1865351684&perks=957782887,1015611457#notes:PvP lethality
+//Zen Moment, Kill Clip
+dimwishlist:item=1865351684&perks=2387244414,1015611457#notes:PvP lethality
+//Moving Target, Tap the Trigger
+dimwishlist:item=1865351684&perks=588594999,1890422124#notes:PvP consistency
+//Moving Target, Kill Clip
+dimwishlist:item=1865351684&perks=588594999,1015611457#notes:PvP lethality
+//Snapshot, Tap the Trigger
+dimwishlist:item=1865351684&perks=957782887,1890422124#notes:PvP consistency
+
+//Talons of the Eagle (Kinetic Gigh Impact Scout Rfile)
+//Outlaw, Rampage
+dimwishlist:item=1982711279&perks=1168162263,3425386926#notes:PvE
+//Zen Moment, Moving Target
+dimwishlist:item=1982711279&perks=2387244414,588594999#notes:PvP
+
+//Bite of the Fox (Kinetic Aggressive Frame Sniper Rifle)
+//Snapshot, Opening Shot
+dimwishlist:item=3169616514&perks=957782887,47981717#notes:PvP
+
+//Claws of the Wolf (Void Rapid Fire Pulse Rifle)
+//Outlaw, Kill Clip
+dimwishlist:item=1280933460&perks=1168162263,1015611457#notes:PvP
+//Snapshot, Full-Auto
+dimwishlist:item=1280933460&perks=957782887,4267945040#notes:PvP
+
+//Breath of the Dragon (Arc Lightweight SMG)
+//Snapshot, Kill Clip
+dimwishlist:item=1357080535&perks=957782887,1015611457#notes:PvP lethality
+//Zen Moment, Kill Clip
+dimwishlist:item=1357080535&perks=2387244414,1015611457#notes:PvP lethality
+//Moving Target, Tap the Trigger
+dimwishlist:item=1357080535&perks=588594999,1890422124#notes:PvP consistency
+//Moving Target, Kill Clip
+dimwishlist:item=1357080535&perks=588594999,1015611457#notes:PvP lethality
+//Snapshot, Tap the Trigger
+dimwishlist:item=1357080535&perks=957782887,1890422124#notes:PvP consistency
+
+//Swarm of the Raven (Void Rapid Fire Grenade Launcher)
+//Proximity Nades, Snapshot, Quickdraw
+dimwishlist:item=1972985595&perks=409831596,957782887,706527188#notes:PvP
+//Sticky Nades, Snapshot, Quickdraw
+dimwishlist:item=1972985595&perks=3373736292,957782887,706527188#notes:PvP sticky nades
+//Spike Grenades, Field Prep, Genesis
+dimwishlist:item=1972985595&perks=3301904089,2869569095,3096702027#notes:PvE
+
+//Roar of the Bear (Solar High Impact Rocket Launcher)
+//Tracking, Rangefinder
+dimwishlist:item=308332265&perks=3977735242,2846385770#notes:PvP
+//Tracking, Auto-Loading
+dimwishlist:item=308332265&perks=3977735242,3300816228#notes:PvE
 
 //Season 10
 
