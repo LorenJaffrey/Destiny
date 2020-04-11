@@ -285,7 +285,7 @@ dimwishlist:item=2257180473&perks=3301904089,1631667848,4082225868#notes:PvE
 
 //Honor's Edge
 //Relentless Strikes, Surrounded
-dimwishlist:item=2257180473&perks=1749209109,3708227201
+dimwishlist:item=2857348871&perks=1749209109,3708227201
 
 //Seventh Seraph
 
