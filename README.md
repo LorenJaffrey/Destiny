@@ -6,7 +6,7 @@
     - [x] pinnacle
     - [x] iron_banner
     - [x] crucible
-    - [ ] vanguard
+    - [x] vanguard
     - [ ] gambit
     - [ ] banshee
     - [ ] nightfall

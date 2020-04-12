@@ -3,6 +3,7 @@ description:only containing traits (excludes barrels, scopes, magazines, etc.)
 //toc
 //Pinnacle
 //Crucible
+//Vanguard
 //Iron Banner
 //Season 10
 //Seventh Seraph
@@ -142,6 +143,62 @@ dimwishlist:item=195440257&perks=3373736292,957782887,706527188#notes:PvP sticky
 dimwishlist:item=4230993599&perks=1749209109,3913600130#notes:PvP/PvE
 //Relentless Strikes, Assassin's Blade
 dimwishlist:item=4230993599&perks=1749209109,354401740#notes:PvP/PvE
+
+//Vanguard
+
+//Service Revolver (Kinetic Precision Hand Cannon)
+//Outlaw, Kill Clip
+dimwishlist:item=834081972&perks=1168162263,1015611457#notes:PvP lethality god roll
+//Triple Tap, Rampage
+dimwishlist:item=834081972&perks=3400784728,3425386926#notes:PvE
+//Rapid Hit, Kill Clip
+dimwishlist:item=834081972&perks=247725512,1015611457#notes:PvP lethality 2nd best
+//Rangefinder, Zen Moment
+dimwishlist:item=834081972&perks=2846385770,2387244414#notes:PvP consistency
+
+//Nightshade (Kinetic Lightweight Pulse Rifle)
+//Outlaw, Kill Clip
+dimwishlist:item=792755504&perks=1168162263,1015611457#notes:PvP
+//Outlaw, Rampage
+dimwishlist:item=792755504&perks=1168162263,3425386926#notes:PvE
+
+//Persuader (Void Rapid Fire Sniper Rifle)
+//Field Prep, Triple Tap
+dimwishlist:item=4083045006&perks=2869569095,3400784728#notes:PvE
+
+//Nameless Midnight
+//Zen Moment, Kill Clip
+dimwishlist:item=3040742682&perks=2387244414,1015611457#notes:PvP
+//Triple Tap, Rampage
+dimwishlist:item=3040742682&perks=3400784728,3425386926#notes:PvE
+//Moving Target, Kill Clip
+dimwishlist:item=3040742682&perks=588594999,1015611457#notes:PvP
+//Zen Moment, Rangefinder
+dimwishlist:item=3040742682&perks=2387244414,2846385770#notes:PvP range
+
+//Toil and Trouble
+//Slideshot, Snapshot
+dimwishlist:item=2957367743&perks=3161816588,957782887#notes:PvP
+
+//Long Shadow (Kinetic Adaptive Sniper Rifle)
+//Field Prep, Triple Tap
+dimwishlist:item=3745990145&perks=2869569095,3400784728#notes:PvE
+//Rapid Hit, Triple Tap
+dimwishlist:item=3745990145&perks=247725512,3400784728#notes:PvE
+
+//Main Ingredient
+
+//The Last Dance (Arc Omolon Adaptive Sidearm)
+//Moving Target, Tap the Trigger
+dimwishlist:item=2009277538&perks=588594999,1890422124#notes:PvP
+
+//Outrageous Fortune (Solar Rapid Fire Grenade Launcher)
+//Proximity Nades, Snapshot, Quickdraw
+dimwishlist:item=4146702548&perks=409831596,957782887,706527188#notes:PvP
+//Sticky Nades, Snapshot, Quickdraw
+dimwishlist:item=4146702548&perks=3373736292,957782887,706527188#notes:PvP sticky nades
+//Spike Grenades, Field Prep, Genesis
+dimwishlist:item=4146702548&perks=3301904089,2869569095,3096702027#notes:PvE
 
 //Iron Banner
 
