@@ -7,7 +7,7 @@
     - [x] iron_banner
     - [x] crucible
     - [x] vanguard
-    - [ ] gambit
+    - [x] gambit
     - [ ] banshee
     - [ ] nightfall
 - [ ] Season 10
