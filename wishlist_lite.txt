@@ -5,6 +5,7 @@ description:only containing traits (excludes barrels, scopes, magazines, etc.)
 //Crucible
 //Vanguard
 //Gambit
+//Banshee
 //Iron Banner
 //Season 10
 //Seventh Seraph
@@ -16,6 +17,7 @@ description:only containing traits (excludes barrels, scopes, magazines, etc.)
 //Vex Offensive
 //Menagerie
 //Reckoning
+//Season 4
 
 //Mountaintop
 dimwishlist:item=3993415705
@@ -246,6 +248,76 @@ dimwishlist:item=-2034817450
 //Bad Omens (Void Aggressive Rocket Launcher)
 //Tracking, Cluster
 dimwishlist:item=991314988&perks=3977735242,1275731761#notes:PvP/PvE
+title:banshee
+description:contains all weapons obtained via weaponmaster engrams
+
+//Banshee
+
+//Halfdan-D (Kinetic High Impact Auto Rifle)
+//Dynamic Sway, Rangefinder
+dimwishlist:item=1518042134&perks=1359896290,2846385770#notes:PvP consistency
+//Dynamic Sway, Kill Clip
+dimwishlist:item=1518042134&perks=1359896290,1015611457#notes:PvP
+//Outlaw, Kill Clip
+dimwishlist:item=1518042134&perks=1168162263,1015611457#notes:PvP lethality
+//Tap the Trigger, Rangefinder
+dimwishlist:item=1518042134&perks=1890422124,2846385770#notes:PvP consistency
+//Tap the Trigger, Kill Clip
+dimwishlist:item=1518042134&perks=1890422124,1015611457#notes:PvP
+//Outlaw, Rampage
+dimwishlist:item=1518042134&perks=1168162263,3425386926#notes:PvE
+
+//Pribina-D (Kinetic Aggressive Hand Cannon)
+//Outlaw, Kill Clip
+dimwishlist:item=4211534763&perks=1168162263,1015611457#notes:PvP lethality
+//Rangefinder, Opening Shot
+dimwishlist:item=4211534763&perks=2846385770,47981717#notes:PvP consistency
+
+//Eystein-D (Kinetic High Impact Pulse Rifle)
+//Outlaw, Kill Clip
+dimwishlist:item=3199662972&perks=1168162263,1015611457#notes:PvP consistency
+//Firmly Planted, Zen Moment
+dimwishlist:item=3199662972&perks=280464955,2387244414#notes:PvP consistency
+//Rangefinder, Snapshot
+dimwishlist:item=3199662972&perks=2846385770,957782887#notes:PvP consistency
+
+//Antiope-D 
+//Snapshot, Kill Clip
+dimwishlist:item=2561659919&perks=957782887,1015611457#notes:PvP lethality
+//Zen Moment, Kill Clip
+dimwishlist:item=2561659919&perks=2387244414,1015611457#notes:PvP lethality
+//Moving Target, Tap the Trigger
+dimwishlist:item=2561659919&perks=588594999,1890422124#notes:PvP consistency
+//Moving Target, Kill Clip
+dimwishlist:item=2561659919&perks=588594999,1015611457#notes:PvP lethality
+//Snapshot, Tap the Trigger
+dimwishlist:item=2561659919&perks=957782887,1890422124#notes:PvP consistency
+
+//Valakdyn
+//Quickdraw, Rangefinder
+dimwishlist:item=1518042135&perks=706527188,2846385770#notes:PvP Quickdraw
+//Dynamic Sway, Rangefinder
+dimwishlist:item=1518042135&perks=1359896290,2846385770#notes:PvP consistency
+//Outlaw, Kill Clip
+dimwishlist:item=1518042135&perks=1168162263,1015611457#notes:PvP lethality
+//Dynamic Sway, Kill Clip
+dimwishlist:item=1518042135&perks=1359896290,1015611457#notes:PvP
+//Outlaw, Rampage
+dimwishlist:item=1518042135&perks=1168162263,3425386926#notes:PvE
+
+//Erentil FR4
+
+//Proelium FR3
+
+//Black Scorpion-4SR
+
+//Good Bone Structure
+
+//Elegy-49
+
+//Crooked Fang-4FR
+
+//Zenobia-D
 
 //Iron Banner
 
@@ -1017,3 +1089,39 @@ dimwishlist:item=3704653637&perks=1749209109,3708227201#notes:PvP/PvE
 dimwishlist:item=3704653637&perks=354401740,3913600130#notes:PvP/PvE
 //Assassin's Blade, Surrounded
 dimwishlist:item=3704653637&perks=354401740,3708227201#notes:PvP/PvE
+
+//Season 4
+
+//No Turning Back
+
+//Duke Mk. 44
+
+//Ten Paces
+
+//Go Figure
+
+//Smuggler's Word
+//Quickdraw, Opening Shot
+dimwishlist:item=1843044399&perks=706527188,47981717#notes:PvP Quickdraw
+//Full-Auto, Rampage
+dimwishlist:item=1843044399&perks=4267945040,3425386926#notes:PvE
+//Moving Target, Kill Clip
+dimwishlist:item=1843044399&perks=588594999,1015611457#notes:PvP
+
+//Subtle Calamity
+
+//Arsenic Bite-4b
+
+//Misfit
+
+//The Cut and Run
+
+//Badlander
+
+//Translation Theory
+
+//Bad Reputation
+
+//Edge Transit
+
+//Through Fire and Blood

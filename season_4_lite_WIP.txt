@@ -12,6 +12,12 @@ dimwishlist:item=1234&perks=456,567#notes:pvp or gambit
 //Go Figure
 
 //Smuggler's Word
+//Quickdraw, Opening Shot
+dimwishlist:item=1843044399&perks=706527188,47981717#notes:PvP Quickdraw
+//Full-Auto, Rampage
+dimwishlist:item=1843044399&perks=4267945040,3425386926#notes:PvE
+//Moving Target, Kill Clip
+dimwishlist:item=1843044399&perks=588594999,1015611457#notes:PvP
 
 //Subtle Calamity
 
