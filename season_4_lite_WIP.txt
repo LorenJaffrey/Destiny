@@ -24,6 +24,12 @@ dimwishlist:item=1843044399&perks=588594999,1015611457#notes:PvP
 //Arsenic Bite-4b
 
 //Misfit
+//Dynamic Sway, High Impact Reserves
+dimwishlist:item=819441402&perks=1359896290,2213355989#notes:PvP
+//Quickdraw, Moving Target
+dimwishlist:item=819441402&perks=706527188,588594999#notes:PvP Quickdraw
+//Zen Moment, Rampage
+dimwishlist:item=819441402&perks=2387244414,3425386926#notes:PvE
 
 //The Cut and Run
 
