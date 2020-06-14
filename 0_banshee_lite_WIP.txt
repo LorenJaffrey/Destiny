@@ -41,7 +41,7 @@ dimwishlist:item=2561659919&perks=588594999,1015611457#notes:PvP lethality
 //Snapshot, Tap the Trigger
 dimwishlist:item=2561659919&perks=957782887,1890422124#notes:PvP consistency
 
-//Valakdyn
+//Valakadyn
 //Quickdraw, Rangefinder
 dimwishlist:item=1518042135&perks=706527188,2846385770#notes:PvP Quickdraw
 //Dynamic Sway, Rangefinder

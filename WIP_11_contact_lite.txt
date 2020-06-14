@@ -1,0 +1,19 @@
+title:11_prophecy
+description:contains all new weapons found in the prophecy dungeon from season 11
+
+//False Promises (High Impact Auto Rifle)
+dimwishlist:item=1234&perks=456,567#notes:pvp or gambit
+
+//Whispering Slab (Lightweight Bow)
+
+//Hollow Words (Precision Fusion Rifle)
+
+//First In, Last Out (Precision Slug Shotgun)
+
+//IKELOS_SR_v1.0.2 (Rapid Fire Sniper Rifle)
+
+//IKELOS_SMG_v1.0.2 (Precision Hand Cannon)
+
+//Berenger's Memory (Rapid Fire Grenade Launcher)
+
+//Temptation's Hook

@@ -46,7 +46,7 @@ dimwishlist:item=1865351684&perks=588594999,1015611457#notes:PvP lethality
 //Snapshot, Tap the Trigger
 dimwishlist:item=1865351684&perks=957782887,1890422124#notes:PvP consistency
 
-//Talons of the Eagle (Kinetic Gigh Impact Scout Rfile)
+//Talons of the Eagle (Kinetic Gigh Impact Scout Rifle)
 //Outlaw, Rampage
 dimwishlist:item=1982711279&perks=1168162263,3425386926#notes:PvE
 //Zen Moment, Moving Target
@@ -87,3 +87,21 @@ dimwishlist:item=1972985595&perks=3301904089,2869569095,3096702027#notes:PvE
 dimwishlist:item=308332265&perks=3977735242,2846385770#notes:PvP
 //Tracking, Auto-Loading
 dimwishlist:item=308332265&perks=3977735242,3300816228#notes:PvE
+
+//The Forward Path (Kinetic Adaptive Frame Auto Rifle)
+//Feeding Frenzy, Multikill Clip
+dimwishlist:item=1690783811&perks=2779035018,2458213969#notes:PvE
+//Graverobber, Swashbuckler
+dimwishlist:item=1690783811&perks=1631667848,4082225868#notes:PvE Melee
+//Dynamic Sway, Tap the Trigger
+dimwishlist:item=1690783811&perks=1359896290,1890422124#notes:PvP Precision
+
+//The Fool's Remedy (Solar Suros Rapid Fire Sidearm)
+//Moving Target, Kill Clip
+dimwishlist:item=65611680&perks=588594999,1015611457#notes:PvP Primary
+//Feeding Frenzy, Kill Clip
+dimwishlist:item=65611680&perks=2779035018,1015611457#notes:PvP/PvE Lethality
+//Pulse Monitor, Quick Draw
+dimwishlist:item=65611680&perks=972757866,706527188#notes:PvP Emergency
+//Hipfire Grip, Quickdraw
+dimwishlist:item=65611680&perks=1866048759,706527188#notes:PvP Hipfire

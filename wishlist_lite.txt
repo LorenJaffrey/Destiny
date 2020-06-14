@@ -7,6 +7,7 @@ description:only containing traits (excludes barrels, scopes, magazines, etc.)
 //Gambit
 //Banshee
 //Iron Banner
+//Season 11
 //Season 10
 //Seventh Seraph
 //Trials TODO
@@ -321,7 +322,7 @@ dimwishlist:item=1518042135&perks=1168162263,3425386926#notes:PvE
 
 //Iron Banner
 
-//Gunnora's Axe (Arc Precision Slug Shotgun)
+///Gunnora's Axe (Arc Precision Slug Shotgun)
 //Quickdraw, Snapshot
 dimwishlist:item=2326716489&perks=706527188,957782887#notes:PvP extra snappy
 //Quickdraw, Opening Shot
@@ -366,7 +367,7 @@ dimwishlist:item=1865351684&perks=588594999,1015611457#notes:PvP lethality
 //Snapshot, Tap the Trigger
 dimwishlist:item=1865351684&perks=957782887,1890422124#notes:PvP consistency
 
-//Talons of the Eagle (Kinetic Gigh Impact Scout Rfile)
+//Talons of the Eagle (Kinetic Gigh Impact Scout Rifle)
 //Outlaw, Rampage
 dimwishlist:item=1982711279&perks=1168162263,3425386926#notes:PvE
 //Zen Moment, Moving Target
@@ -407,6 +408,56 @@ dimwishlist:item=1972985595&perks=3301904089,2869569095,3096702027#notes:PvE
 dimwishlist:item=308332265&perks=3977735242,2846385770#notes:PvP
 //Tracking, Auto-Loading
 dimwishlist:item=308332265&perks=3977735242,3300816228#notes:PvE
+
+//The Forward Path (Kinetic Adaptive Frame Auto Rifle)
+//Feeding Frenzy, Multikill Clip
+dimwishlist:item=1690783811&perks=2779035018,2458213969#notes:PvE
+//Graverobber, Swashbuckler
+dimwishlist:item=1690783811&perks=1631667848,4082225868#notes:PvE Melee
+//Dynamic Sway, Tap the Trigger
+dimwishlist:item=1690783811&perks=1359896290,1890422124#notes:PvP Precision
+
+//The Fool's Remedy (Solar Suros Rapid Fire Sidearm)
+//Moving Target, Kill Clip
+dimwishlist:item=65611680&perks=588594999,1015611457#notes:PvP Primary
+//Feeding Frenzy, Kill Clip
+dimwishlist:item=65611680&perks=2779035018,1015611457#notes:PvP/PvE Lethality
+//Pulse Monitor, Quick Draw
+dimwishlist:item=65611680&perks=972757866,706527188#notes:PvP Emergency
+//Hipfire Grip, Quickdraw
+dimwishlist:item=65611680&perks=1866048759,706527188#notes:PvP Hipfire
+
+//Season 11
+
+//Cold Denial (Kinetic High Impact Pulse Rifle)
+//Feeding Frenzy, Multikill Clip
+dimwishlist:item=1216130969&perks=2779035018,2458213969#notes:PvE
+//Feeding Frenzy, Unrelenting
+dimwishlist:item=1216130969&perks=2779035018,3108830275#notes:PvE/PvP
+//Pulse Monitor, Eye of the Storm
+dimwishlist:item=1216130969&perks=972757866,699525795#notes:PvP Emergency
+//Zen Moment, Swashbuckler
+dimwishlist:item=1216130969&perks=2387244414,4082225868#notes:PvE
+
+//Truthteller (Void Lightweight Grenade Launcher)
+//Proximity Grenades, Autoloading, Demolitionist
+dimwishlist:item=1946491241&perks=409831596,3300816228,3523296417#notes:PvP
+//Proximity Grenades, Autoloading, Quickdraw
+dimwishlist:item=1946491241&perks=409831596,3300816228,706527188#notes:PvP
+//Spike Grenades, Field Prep, Demolitionist
+dimwishlist:item=1946491241&perks=3301904089,2869569095,3523296417#notes:PvE
+
+//Nature of the Beast (Arc Precision Hand Cannon)
+//Subsistence, Demolitionist
+dimwishlist:item=1835747805&perks=1820235745,3523296417#notes:PvE
+//Subsistence, Dragonfly
+dimwishlist:item=1835747805&perks=1820235745,2848615171#notes:PvE
+//Snapshot, Rangefinder
+dimwishlist:item=1835747805&perks=957782887,2846385770#notes:PvP
+
+//Falling Guillotine
+//Relentless Strikes, Whirlwind Blade
+dimwishlist:item=614426548&perks=1749209109,3913600130#notes:PvE
 
 //Season 10
 

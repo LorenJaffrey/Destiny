@@ -10,6 +10,10 @@
     - [x] gambit
     - [ ] banshee
     - [ ] nightfall
+- [ ] Season 11
+    - [ ] prophecy
+    - [ ] contact
+    - [x] season_11
 - [ ] Season 10
     - [x] season_10
     - [ ] trials

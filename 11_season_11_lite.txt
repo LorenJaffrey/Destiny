@@ -1,0 +1,32 @@
+title:11_season_11
+description:contains all new weapons found in other locations from season 11
+
+//Cold Denial (Kinetic High Impact Pulse Rifle)
+//Feeding Frenzy, Multikill Clip
+dimwishlist:item=1216130969&perks=2779035018,2458213969#notes:PvE
+//Feeding Frenzy, Unrelenting
+dimwishlist:item=1216130969&perks=2779035018,3108830275#notes:PvE/PvP
+//Pulse Monitor, Eye of the Storm
+dimwishlist:item=1216130969&perks=972757866,699525795#notes:PvP Emergency
+//Zen Moment, Swashbuckler
+dimwishlist:item=1216130969&perks=2387244414,4082225868#notes:PvE
+
+//Truthteller (Void Lightweight Grenade Launcher)
+//Proximity Grenades, Autoloading, Demolitionist
+dimwishlist:item=1946491241&perks=409831596,3300816228,3523296417#notes:PvP
+//Proximity Grenades, Autoloading, Quickdraw
+dimwishlist:item=1946491241&perks=409831596,3300816228,706527188#notes:PvP
+//Spike Grenades, Field Prep, Demolitionist
+dimwishlist:item=1946491241&perks=3301904089,2869569095,3523296417#notes:PvE
+
+//Nature of the Beast (Arc Precision Hand Cannon)
+//Subsistence, Demolitionist
+dimwishlist:item=1835747805&perks=1820235745,3523296417#notes:PvE
+//Subsistence, Dragonfly
+dimwishlist:item=1835747805&perks=1820235745,2848615171#notes:PvE
+//Snapshot, Rangefinder
+dimwishlist:item=1835747805&perks=957782887,2846385770#notes:PvP
+
+//Falling Guillotine
+//Relentless Strikes, Whirlwind Blade
+dimwishlist:item=614426548&perks=1749209109,3913600130#notes:PvE
