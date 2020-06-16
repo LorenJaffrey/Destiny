@@ -4,18 +4,10 @@ description:contains all new weapons found in the prophecy dungeon from season 1
 //False Promises (High Impact Auto Rifle)
 //Overflow, Rampage
 dimwishlist:item=3143732432&perks=3643424744,3425386926#notes:PvE lethality
-//Overflow, Swashbuckler
-dimwishlist:item=3143732432&perks=3643424744,4082225868#notes:PvE lethality
 //Overflow, Unrelenting
 dimwishlist:item=3143732432&perks=3643424744,3108830275#notes:PvE survival
-//Overflow, Zen Moment
-dimwishlist:item=3143732432&perks=3643424744,2387244414#notes:PvE consistency
 //Dynamic Sway, Unrelenting
 dimwishlist:item=3143732432&perks=1359896290,3108830275#notes:PvP consistency/survival
-//Dynamic Sway, Rampage
-dimwishlist:item=3143732432&perks=1359896290,3425386926#notes:PvE consistency/lethality
-//Dynamic Sway, Swashbuckler
-dimwishlist:item=3143732432&perks=1359896290,4082225868#notes:PvE consistency/lethality
 //Feeding Frenzy, Swashbuckler
 dimwishlist:item=3143732432&perks=2779035018,4082225868#notes:PvE lethality
 //Feeding Frenzy, Rampage
@@ -28,19 +20,26 @@ dimwishlist:item=3143732432&perks=1820235745,3425386926#notes:PvE lethality
 dimwishlist:item=3143732432&perks=1820235745,4082225868#notes:PvE lethality
 //Subsistence, Unrelenting
 dimwishlist:item=3143732432&perks=1820235745,3108830275#notes:PvE survival
-//Subsistence, Zen Moment
-dimwishlist:item=3143732432&perks=1820235745,2387244414#notes:PvE consistency
 
 //Whispering Slab (Lightweight Bow)
+//Archer's Tempo, Vorpal Weapon
 
 //Hollow Words (Precision Fusion Rifle)
+//Lead from Gold, Vorpal Weapon
+//Lead from Gold, Unrelenting
+//Killing Wind, Backup Plan
 
-//First In, Last Out (Precision Slug Shotgun)
+//First In, Last Out (Precision Slug Shotgun)c
 
-//IKELOS_SR_v1.0.2 (Rapid Fire Sniper Rifle)
+//IKELOS_SR_v1.0.2 (Solar Rapid Fire Sniper Rifle)
 
-//IKELOS_SMG_v1.0.2 (Precision Hand Cannon)
+//IKELOS_SMG_v1.0.2 (Arc Aggressive SMG)
+//Dynamic Sway, Tap the Trigger
+//Dynamic Sway, Vorpal
+
 
 //Berenger's Memory (Rapid Fire Grenade Launcher)
 
-//Temptation's Hook
+//Temptation's Hook (Caster Frame Sword)
+//Tireless Blade, Vorpal Weapon
+//Relentless Strikes, Whirlwind Blade
