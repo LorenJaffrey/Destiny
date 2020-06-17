@@ -433,12 +433,10 @@ dimwishlist:item=65611680&perks=1866048759,706527188#notes:PvP Hipfire
 //Cold Denial (Kinetic High Impact Pulse Rifle)
 //Feeding Frenzy, Multikill Clip
 dimwishlist:item=1216130969&perks=2779035018,2458213969#notes:PvE
-//Pulse Monitor, Eye of the Storm
-dimwishlist:item=1216130969&perks=972757866,699525795#notes:PvP Emergency
-//Feeding Frenzy, Sympathetic Arsenal
-dimwishlist:item=1216130969&perks=2779035018,3350417888#notes:PvP Combo
+//Killing Wind, Swashbuckler
+dimwishlist:item=1216130969&perks=2450788523,4082225868#notes:PvP Combo
 //Killing Wind, Headseeker
-dimwishlist:item=1216130969&perks=2450788523,460017080#notes:PvP
+dimwishlist:item=1216130969&perks=245078852cr3,460017080#notes:PvP
 
 //Truthteller (Void Lightweight Grenade Launcher)
 //Proximity Grenades, Autoloading, Demolitionist
@@ -504,15 +502,87 @@ dimwishlist:item=3629968765&perks=1749209109,3913600130#notes:PvE
 //Relentless Strikes, Disruption Break
 dimwishlist:item=3629968765&perks=1749209109,1683379515#notes:PvE Situational
 
+//Contact
+
+//False Promises (High Impact Auto Rifle)
+//Overflow, Rampage
+dimwishlist:item=3143732432&perks=3643424744,3425386926#notes:PvE lethality
+//Overflow, Unrelenting
+dimwishlist:item=3143732432&perks=3643424744,3108830275#notes:PvE survival
+//Dynamic Sway, Unrelenting
+dimwishlist:item=3143732432&perks=1359896290,3108830275#notes:PvP consistency/survival
+//Feeding Frenzy, Rampage
+dimwishlist:item=3143732432&perks=2779035018,3425386926#notes:PvE lethality
+//Feeding Frenzy, Unrelenting
+dimwishlist:item=3143732432&perks=2779035018,3108830275#notes:PvE survival
+//Subsistence, Rampage
+dimwishlist:item=3143732432&perks=1820235745,3425386926#notes:PvE lethality
+//Subsistence, Unrelenting
+dimwishlist:item=3143732432&perks=1820235745,3108830275#notes:PvE survival
+
+//Whispering Slab (Lightweight Bow)
+//Archer's Tempo, Swashbuckler
+dimwishlist:item=211938782&perks=201365942,4082225868#notes:PvE
+//Killing Wind, Opening Shot
+dimwishlist:item=211938782&perks=2450788523,47981717#notes:PvP
+
+//Hollow Words (Precision Fusion Rifle)
+//Lead from Gold, Vorpal Weapon
+dimwishlist:item=607191995&perks=1556840489,1546637391#notes:PvE Boss
+//Lead from Gold, Disruption Break
+dimwishlist:item=607191995&perks=1556840489,1683379515#notes:PvE Situational
+//Killing Wind, Unrelenting
+dimwishlist:item=607191995&perks=2450788523,3108830275#notes:PvP
+//Quickdraw, Backup Plan
+dimwishlist:item=607191995&perks=706527188,1600092898#notes:PvP Quickdraw
+
+//First In, Last Out (Precision Slug Shotgun)
+//Slideshot, Opening Shot
+dimwishlist:item=3616586446&perks=3161816588,47981717#notes:PvP
+//Outlaw, Vorpal
+dimwishlist:item=3616586446&perks=1168162263,1546637391#notes:PvE Boss
+//Auto-Loading, Demolitionist
+dimwishlist:item=3616586446&perks=3300816228,3523296417#notes:PvE
+
+//IKELOS_SR_v1.0.2 (Solar Rapid Fire Sniper Rifle)
+//Seraph Rounds, Fourth Times the Charm, High Impact Reserves
+dimwishlist:item=1253087083&perks=1140096971,1354429876,2213355989#notes:PvE
+//Seraph Rounds, Moving Target, High Impact Reserves
+dimwishlist:item=1253087083&perks=1140096971,588594999,2213355989#notes:PvP
+
+//IKELOS_SMG_v1.0.2 (Arc Aggressive SMG)
+//Seraph Rounds, Dynamic Sway, Tap the Trigger
+dimwishlist:item=2222560548&perks=1140096971,1359896290,1890422124#notes:PvP
+//Seraph Rounds, Dynamic Sway, Vorpal
+dimwishlist:item=2222560548&perks=1140096971,1359896290,1546637391#notes:PvP
+//Seraph Rounds, Subsistence, Demolitionist
+dimwishlist:item=2222560548&perks=1140096971,1820235745,3523296417#notes:PvE
+//Seraph Rounds, Subsistence, Surrounded
+dimwishlist:item=2222560548&perks=1140096971,1820235745,3708227201#notes:PvE
+//Seraph Rounds, Graverobber, Disruption Break
+dimwishlist:item=2222560548&perks=1140096971,1631667848,1683379515#notes:PvE
+
+//Berenger's Memory (Rapid Fire Grenade Launcher)
+//Spike Grenades, Field Prep, Demolitionist
+dimwishlist:item=407621213&perks=3301904089,2869569095,3523296417#notes:PvE
+//Spike Grenades, Clown Cartridge, Demolitionist
+dimwishlist:item=407621213&perks=3301904089,2284787283,3523296417#notes:PvE
+
+//Temptation's Hook (Caster Frame Sword)
+//Tireless Blade, Vorpal Weapon
+dimwishlist:item=35794111&perks=2590710093,1546637391#notes:PvE
+//Relentless Strikes, Whirlwind Blade
+dimwishlist:item=35794111&perks=1749209109,3913600130#notes:PvE
+
 //Season 10
 
 //Dire Promise
-//Snapshot, Rangefinder
-dimwishlist:item=2742838701&perks=957782887,2846385770#notes:PvP godroll
-//Snapshot, Swashbuckler
-dimwishlist:item=2742838701&perks=957782887,4082225868#notes:PvP
+//Opening Shot, Rangefinder
+dimwishlist:item=2742838701&perks=47981717,2846385770#notes:PvP
+//Opening Shot, Swashbuckler
+dimwishlist:item=2742838701&perks=47981717,4082225868#notes:PvP
 //Overflow, Swashbuckler
-dimwishlist:item=2742838701&perks=3643424744,4082225868#notes:PvE godroll
+dimwishlist:item=2742838701&perks=3643424744,4082225868#notes:PvE
 //Overflow, Osmosis
 dimwishlist:item=2742838701&perks=3643424744,1774574192#notes:PvE situational
 
@@ -550,10 +620,8 @@ dimwishlist:item=2807687156&perks=2284787283,1771339417#notes:PvE
 //Interference VI
 //Spike Grenades, Clown Cartridge, Full Court
 dimwishlist:item=2257180473&perks=3301904089,2284787283,2888557110#notes:PvE
-//Spike Grenades, Field Prep, Full Court
-dimwishlist:item=2257180473&perks=3301904089,2869569095,1771339417#notes:PvE
-//Spike Grenades, Graverobber, Swashbuckler
-dimwishlist:item=2257180473&perks=3301904089,1631667848,4082225868#notes:PvE
+//Spike Grenades, Clown Cartridge, Swashbuckler
+dimwishlist:item=2257180473&perks=3301904089,2284787283,4082225868#notes:PvE
 
 //Honor's Edge
 //Relentless Strikes, Surrounded
@@ -1005,10 +1073,12 @@ dimwishlist:item=2199171672&perks=2387244414,3523296417#notes:PvE/PvP
 dimwishlist:item=821154603&perks=3643424744,3425386926#notes:PvE
 //Tap the Trigger, Kill Clip
 dimwishlist:item=821154603&perks=1890422124,1015611457#notes:PvP
-//Zen Moment, Kill Clip
-dimwishlist:item=821154603&perks=2387244414,1015611457#notes:PvP
+//Tap the Trigger, Multikill Clip
+dimwishlist:item=821154603&perks=2387244414,2458213969#notes:PvP
 //Subsistence, Rampage
 dimwishlist:item=821154603&perks=1820235745,3425386926#notes:PvE
+//Subsistence, Swashbuckler
+dimwishlist:item=821154603&perks=1820235745,4082225868#notes:PvE
 //Zen Moment, Demolitionist
 dimwishlist:item=821154603&perks=2387244414,3523296417#notes:PvP
 

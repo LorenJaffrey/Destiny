@@ -18,7 +18,10 @@ dimwishlist:item=3143732432&perks=1820235745,3425386926#notes:PvE lethality
 dimwishlist:item=3143732432&perks=1820235745,3108830275#notes:PvE survival
 
 //Whispering Slab (Lightweight Bow)
-//Archer's Tempo, Vorpal Weapon
+//Archer's Tempo, Swashbuckler
+dimwishlist:item=211938782&perks=201365942,4082225868#notes:PvE
+//Killing Wind, Opening Shot
+dimwishlist:item=211938782&perks=2450788523,47981717#notes:PvP
 
 //Hollow Words (Precision Fusion Rifle)
 //Lead from Gold, Vorpal Weapon
@@ -39,18 +42,31 @@ dimwishlist:item=3616586446&perks=1168162263,1546637391#notes:PvE Boss
 dimwishlist:item=3616586446&perks=3300816228,3523296417#notes:PvE
 
 //IKELOS_SR_v1.0.2 (Solar Rapid Fire Sniper Rifle)
-//Fourth Times the Charm, High Impact Reserves
+//Seraph Rounds, Fourth Times the Charm, High Impact Reserves
 dimwishlist:item=1253087083&perks=1140096971,1354429876,2213355989#notes:PvE
-//Moving Target, High Impact Reserves
+//Seraph Rounds, Moving Target, High Impact Reserves
 dimwishlist:item=1253087083&perks=1140096971,588594999,2213355989#notes:PvP
 
 //IKELOS_SMG_v1.0.2 (Arc Aggressive SMG)
-//Dynamic Sway, Tap the Trigger
-//Dynamic Sway, Vorpal
-
+//Seraph Rounds, Dynamic Sway, Tap the Trigger
+dimwishlist:item=2222560548&perks=1140096971,1359896290,1890422124#notes:PvP
+//Seraph Rounds, Dynamic Sway, Vorpal
+dimwishlist:item=2222560548&perks=1140096971,1359896290,1546637391#notes:PvP
+//Seraph Rounds, Subsistence, Demolitionist
+dimwishlist:item=2222560548&perks=1140096971,1820235745,3523296417#notes:PvE
+//Seraph Rounds, Subsistence, Surrounded
+dimwishlist:item=2222560548&perks=1140096971,1820235745,3708227201#notes:PvE
+//Seraph Rounds, Graverobber, Disruption Break
+dimwishlist:item=2222560548&perks=1140096971,1631667848,1683379515#notes:PvE
 
 //Berenger's Memory (Rapid Fire Grenade Launcher)
+//Spike Grenades, Field Prep, Demolitionist
+dimwishlist:item=407621213&perks=3301904089,2869569095,3523296417#notes:PvE
+//Spike Grenades, Clown Cartridge, Demolitionist
+dimwishlist:item=407621213&perks=3301904089,2284787283,3523296417#notes:PvE
 
 //Temptation's Hook (Caster Frame Sword)
 //Tireless Blade, Vorpal Weapon
+dimwishlist:item=35794111&perks=2590710093,1546637391#notes:PvE
 //Relentless Strikes, Whirlwind Blade
+dimwishlist:item=35794111&perks=1749209109,3913600130#notes:PvE

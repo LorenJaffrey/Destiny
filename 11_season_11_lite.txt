@@ -4,12 +4,10 @@ description:contains all new weapons found in other locations from season 11
 //Cold Denial (Kinetic High Impact Pulse Rifle)
 //Feeding Frenzy, Multikill Clip
 dimwishlist:item=1216130969&perks=2779035018,2458213969#notes:PvE
-//Pulse Monitor, Eye of the Storm
-dimwishlist:item=1216130969&perks=972757866,699525795#notes:PvP Emergency
-//Feeding Frenzy, Sympathetic Arsenal
-dimwishlist:item=1216130969&perks=2779035018,3350417888#notes:PvP Combo
+//Killing Wind, Swashbuckler
+dimwishlist:item=1216130969&perks=2450788523,4082225868#notes:PvP Combo
 //Killing Wind, Headseeker
-dimwishlist:item=1216130969&perks=2450788523,460017080#notes:PvP
+dimwishlist:item=1216130969&perks=245078852cr3,460017080#notes:PvP
 
 //Truthteller (Void Lightweight Grenade Launcher)
 //Proximity Grenades, Autoloading, Demolitionist

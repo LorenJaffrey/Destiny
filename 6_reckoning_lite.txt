@@ -44,10 +44,12 @@ dimwishlist:item=2199171672&perks=2387244414,3523296417#notes:PvE/PvP
 dimwishlist:item=821154603&perks=3643424744,3425386926#notes:PvE
 //Tap the Trigger, Kill Clip
 dimwishlist:item=821154603&perks=1890422124,1015611457#notes:PvP
-//Zen Moment, Kill Clip
-dimwishlist:item=821154603&perks=2387244414,1015611457#notes:PvP
+//Tap the Trigger, Multikill Clip
+dimwishlist:item=821154603&perks=2387244414,2458213969#notes:PvP
 //Subsistence, Rampage
 dimwishlist:item=821154603&perks=1820235745,3425386926#notes:PvE
+//Subsistence, Swashbuckler
+dimwishlist:item=821154603&perks=1820235745,4082225868#notes:PvE
 //Zen Moment, Demolitionist
 dimwishlist:item=821154603&perks=2387244414,3523296417#notes:PvP
 

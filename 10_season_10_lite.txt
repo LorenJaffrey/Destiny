@@ -2,12 +2,12 @@ title:season_10
 description:all new weapons of season 10 excluding seventh seraph and trials
 
 //Dire Promise
-//Snapshot, Rangefinder
-dimwishlist:item=2742838701&perks=957782887,2846385770#notes:PvP godroll
-//Snapshot, Swashbuckler
-dimwishlist:item=2742838701&perks=957782887,4082225868#notes:PvP
+//Opening Shot, Rangefinder
+dimwishlist:item=2742838701&perks=47981717,2846385770#notes:PvP
+//Opening Shot, Swashbuckler
+dimwishlist:item=2742838701&perks=47981717,4082225868#notes:PvP
 //Overflow, Swashbuckler
-dimwishlist:item=2742838701&perks=3643424744,4082225868#notes:PvE godroll
+dimwishlist:item=2742838701&perks=3643424744,4082225868#notes:PvE
 //Overflow, Osmosis
 dimwishlist:item=2742838701&perks=3643424744,1774574192#notes:PvE situational
 
@@ -45,10 +45,8 @@ dimwishlist:item=2807687156&perks=2284787283,1771339417#notes:PvE
 //Interference VI
 //Spike Grenades, Clown Cartridge, Full Court
 dimwishlist:item=2257180473&perks=3301904089,2284787283,2888557110#notes:PvE
-//Spike Grenades, Field Prep, Full Court
-dimwishlist:item=2257180473&perks=3301904089,2869569095,1771339417#notes:PvE
-//Spike Grenades, Graverobber, Swashbuckler
-dimwishlist:item=2257180473&perks=3301904089,1631667848,4082225868#notes:PvE
+//Spike Grenades, Clown Cartridge, Swashbuckler
+dimwishlist:item=2257180473&perks=3301904089,2284787283,4082225868#notes:PvE
 
 //Honor's Edge
 //Relentless Strikes, Surrounded
