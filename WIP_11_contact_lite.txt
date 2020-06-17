@@ -29,7 +29,7 @@ dimwishlist:item=3143732432&perks=1820235745,3108830275#notes:PvE survival
 //Lead from Gold, Unrelenting
 //Killing Wind, Backup Plan
 
-//First In, Last Out (Precision Slug Shotgun)c
+//First In, Last Out (Precision Slug Shotgun)
 
 //IKELOS_SR_v1.0.2 (Solar Rapid Fire Sniper Rifle)
 
