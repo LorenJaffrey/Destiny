@@ -36,6 +36,8 @@ dimwishlist:item=1289997971&perks=1168162263,1546637391#notes:PvP
 dimwishlist:item=1289997971&perks=3523296417,1546637391#notes:PvP
 //Demo, Osmosis
 dimwishlist:item=1289997971&perks=3523296417,1774574192#notes:PvE Situational
+//Demo, Rampage
+dimwishlist:item=1289997971&perks=3523296417,3425386926#notes:PvE
 
 //Gallant Charge
 
