@@ -4,18 +4,16 @@ description:contains all new weapons found in the prophecy dungeon from season 1
 //False Promises (High Impact Auto Rifle)
 //Overflow, Rampage
 dimwishlist:item=3143732432&perks=3643424744,3425386926#notes:PvE lethality
-//Overflow, Unrelenting
-dimwishlist:item=3143732432&perks=3643424744,3108830275#notes:PvE survival
-//Dynamic Sway, Unrelenting
-dimwishlist:item=3143732432&perks=1359896290,3108830275#notes:PvP consistency/survival
+//Overflow, Swashbuckler
+dimwishlist:item=3143732432&perks=3643424744,4082225868#notes:PvE lethality
 //Feeding Frenzy, Rampage
 dimwishlist:item=3143732432&perks=2779035018,3425386926#notes:PvE lethality
-//Feeding Frenzy, Unrelenting
-dimwishlist:item=3143732432&perks=2779035018,3108830275#notes:PvE survival
-//Subsistence, Rampage
-dimwishlist:item=3143732432&perks=1820235745,3425386926#notes:PvE lethality
-//Subsistence, Unrelenting
-dimwishlist:item=3143732432&perks=1820235745,3108830275#notes:PvE survival
+//Killing Wind, Unrelenting
+dimwishlist:item=3143732432&perks=2450788523,3108830275#notes:PvP survivability
+//Killing Wind, Zen Moment
+dimwishlist:item=3143732432&perks=2450788523,2387244414#notes:PvP consistency
+//Dynamic Sway, Zen Moment
+dimwishlist:item=3143732432&perks=1359896290,2387244414#notes:PvP consistency
 
 //Whispering Slab (Lightweight Bow)
 //Archer's Tempo, Swashbuckler

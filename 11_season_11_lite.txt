@@ -10,16 +10,15 @@ dimwishlist:item=1216130969&perks=2450788523,4082225868#notes:PvP Combo
 dimwishlist:item=1216130969&perks=245078852cr3,460017080#notes:PvP
 
 //Truthteller (Void Lightweight Grenade Launcher)
-//Proximity Grenades, Autoloading, Demolitionist
-dimwishlist:item=1946491241&perks=409831596,3300816228,3523296417#notes:PvP
+//Spike Grenades, Autoloading, Demolitionist
+dimwishlist:item=1946491241&perks=3301904089,3300816228,3523296417#notes:PvP
 //Proximity Grenades, Autoloading, Quickdraw
 dimwishlist:item=1946491241&perks=409831596,3300816228,706527188#notes:PvP
-//Spike Grenades, Field Prep, Demolitionist
-dimwishlist:item=1946491241&perks=3301904089,2869569095,3523296417#notes:PvE
 //Spike Grenades, Feeding Frenzy, Multikill Clip
 dimwishlist:item=1946491241&perks=3301904089,2779035018,2458213969#notes:PvE
 //Spike Grenades, Feeding Frenzy, Demolitionist
 dimwishlist:item=1946491241&perks=3301904089,2779035018,3523296417#notes:PvE
+//Spike Grenades, Grave Robber, Swashbuckler
 
 //Nature of the Beast (Arc Precision Hand Cannon)
 //Subsistence, Demolitionist
