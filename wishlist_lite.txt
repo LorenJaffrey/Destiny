@@ -439,16 +439,15 @@ dimwishlist:item=1216130969&perks=2450788523,4082225868#notes:PvP Combo
 dimwishlist:item=1216130969&perks=245078852cr3,460017080#notes:PvP
 
 //Truthteller (Void Lightweight Grenade Launcher)
-//Proximity Grenades, Autoloading, Demolitionist
-dimwishlist:item=1946491241&perks=409831596,3300816228,3523296417#notes:PvP
+//Spike Grenades, Autoloading, Demolitionist
+dimwishlist:item=1946491241&perks=3301904089,3300816228,3523296417#notes:PvP
 //Proximity Grenades, Autoloading, Quickdraw
 dimwishlist:item=1946491241&perks=409831596,3300816228,706527188#notes:PvP
-//Spike Grenades, Field Prep, Demolitionist
-dimwishlist:item=1946491241&perks=3301904089,2869569095,3523296417#notes:PvE
 //Spike Grenades, Feeding Frenzy, Multikill Clip
 dimwishlist:item=1946491241&perks=3301904089,2779035018,2458213969#notes:PvE
 //Spike Grenades, Feeding Frenzy, Demolitionist
 dimwishlist:item=1946491241&perks=3301904089,2779035018,3523296417#notes:PvE
+//Spike Grenades, Grave Robber, Swashbuckler
 
 //Nature of the Beast (Arc Precision Hand Cannon)
 //Subsistence, Demolitionist
@@ -511,18 +510,16 @@ dimwishlist:item=3629968765&perks=1749209109,1683379515#notes:PvE Situational
 //False Promises (High Impact Auto Rifle)
 //Overflow, Rampage
 dimwishlist:item=3143732432&perks=3643424744,3425386926#notes:PvE lethality
-//Overflow, Unrelenting
-dimwishlist:item=3143732432&perks=3643424744,3108830275#notes:PvE survival
-//Dynamic Sway, Unrelenting
-dimwishlist:item=3143732432&perks=1359896290,3108830275#notes:PvP consistency/survival
+//Overflow, Swashbuckler
+dimwishlist:item=3143732432&perks=3643424744,4082225868#notes:PvE lethality
 //Feeding Frenzy, Rampage
 dimwishlist:item=3143732432&perks=2779035018,3425386926#notes:PvE lethality
-//Feeding Frenzy, Unrelenting
-dimwishlist:item=3143732432&perks=2779035018,3108830275#notes:PvE survival
-//Subsistence, Rampage
-dimwishlist:item=3143732432&perks=1820235745,3425386926#notes:PvE lethality
-//Subsistence, Unrelenting
-dimwishlist:item=3143732432&perks=1820235745,3108830275#notes:PvE survival
+//Killing Wind, Unrelenting
+dimwishlist:item=3143732432&perks=2450788523,3108830275#notes:PvP survivability
+//Killing Wind, Zen Moment
+dimwishlist:item=3143732432&perks=2450788523,2387244414#notes:PvP consistency
+//Dynamic Sway, Zen Moment
+dimwishlist:item=3143732432&perks=1359896290,2387244414#notes:PvP consistency
 
 //Whispering Slab (Lightweight Bow)
 //Archer's Tempo, Swashbuckler
