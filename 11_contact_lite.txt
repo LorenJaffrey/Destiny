@@ -34,10 +34,10 @@ dimwishlist:item=607191995&perks=706527188,1600092898#notes:PvP Quickdraw
 //First In, Last Out (Precision Slug Shotgun)
 //Slideshot, Opening Shot
 dimwishlist:item=3616586446&perks=3161816588,47981717#notes:PvP
-//Outlaw, Vorpal
-dimwishlist:item=3616586446&perks=1168162263,1546637391#notes:PvE Boss
-//Auto-Loading, Demolitionist
-dimwishlist:item=3616586446&perks=3300816228,3523296417#notes:PvE
+//Outlaw, Demolitionist
+dimwishlist:item=3616586446&perks=1168162263,3523296417#notes:PvE
+//Auto-Loading, Vorpal
+dimwishlist:item=3616586446&perks=3300816228,1546637391#notes:PvE Boss
 
 //IKELOS_SR_v1.0.2 (Solar Rapid Fire Sniper Rifle)
 //Seraph Rounds, Fourth Times the Charm, High Impact Reserves
@@ -48,12 +48,14 @@ dimwishlist:item=1253087083&perks=1140096971,588594999,2213355989#notes:PvP
 //IKELOS_SMG_v1.0.2 (Arc Aggressive SMG)
 //Seraph Rounds, Dynamic Sway, Tap the Trigger
 dimwishlist:item=2222560548&perks=1140096971,1359896290,1890422124#notes:PvP
-//Seraph Rounds, Dynamic Sway, Vorpal
-dimwishlist:item=2222560548&perks=1140096971,1359896290,1546637391#notes:PvP
 //Seraph Rounds, Subsistence, Demolitionist
 dimwishlist:item=2222560548&perks=1140096971,1820235745,3523296417#notes:PvE
 //Seraph Rounds, Subsistence, Surrounded
 dimwishlist:item=2222560548&perks=1140096971,1820235745,3708227201#notes:PvE
+//Seraph Rounds, Threat Detector, Demolitionist
+dimwishlist:item=2222560548&perks=1140096971,4071163871,3523296417#notes:PvE
+//Seraph Rounds, Threat Detector, Surrounded
+dimwishlist:item=2222560548&perks=1140096971,4071163871,3708227201#notes:PvE
 //Seraph Rounds, Graverobber, Disruption Break
 dimwishlist:item=2222560548&perks=1140096971,1631667848,1683379515#notes:PvE
 
