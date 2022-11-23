@@ -1,0 +1,54 @@
+title:18_plunder_lite
+
+// Tarnished Mettle (PvE)
+//notes:PvE-
+dimwishlist:item=2218569744&perks=,3523296417,2173046394
+dimwishlist:item=2218569744&perks=,1906147653,1720528630
+
+// Tarnished Mettle (PvP)
+//notes:PvP-
+dimwishlist:item=2218569744&perks=,588594999,3038247973
+dimwishlist:item=2218569744&perks=,2717805783,64866129
+
+// Blood Feud (PvE)
+//notes:PvE-
+dimwishlist:item=1509167284&perks=,2010801679,124408337
+dimwishlist:item=1509167284&perks=,3797647183,1171887445
+dimwishlist:item=1509167284&perks=,2010801679,4104185692
+dimwishlist:item=1509167284&perks=,3797647183,3007133316
+dimwishlist:item=1509167284&perks=,691659142,4082225868
+dimwishlist:item=1509167284&perks=,536173722,1161469972
+
+// No Reprieve (PvE)
+//notes:PvE-
+dimwishlist:item=2531963421&perks=,1168162263,124408337
+dimwishlist:item=2531963421&perks=,1347741687,1171887445
+dimwishlist:item=2531963421&perks=,691659142,4082225868
+dimwishlist:item=2531963421&perks=,536173722,1161469972
+
+// Sailspy Pitchglass (PvE)
+//notes:PvE-
+dimwishlist:item=1184309824&perks=,2621346526,4104185692
+dimwishlist:item=1184309824&perks=,2495011826,3007133316
+dimwishlist:item=1184309824&perks=,2284787283,4104185692
+dimwishlist:item=1184309824&perks=,3563868667,3007133316
+
+// Brigand's Law (PvE)
+//notes:PvE-
+dimwishlist:item=1298815317&perks=,691659142,4082225868
+dimwishlist:item=1298815317&perks=,536173722,1161469972
+dimwishlist:item=1298815317&perks=,1428297954,3523296417
+dimwishlist:item=1298815317&perks=,2014892510,1906147653
+dimwishlist:item=1298815317&perks=,1428297954,2173046394
+dimwishlist:item=1298815317&perks=,2014892510,1720528630
+
+// Brigand's Law (PvP)
+//notes:PvP-
+dimwishlist:item=1298815317&perks=,1428297954,2846385770
+dimwishlist:item=1298815317&perks=,2014892510,509594246
+
+// Planck's Stride (PvP)
+//notes:PvP-
+dimwishlist:item=820890091&perks=,1428297954,2726471870
+dimwishlist:item=820890091&perks=,2014892510,1172413778
+

@@ -1,0 +1,45 @@
+title:18_kings_fall_lite
+
+// Smite of Merain (PvE)
+//notes:PvE-
+dimwishlist:item=2221264583&perks=,3523296417,11612903
+dimwishlist:item=2221264583&perks=,3523296417,3824105627
+dimwishlist:item=2221264583&perks=,1906147653,1183436451
+dimwishlist:item=2221264583&perks=,1906147653,2422968039
+
+// Doom of Chelchis (PvE)
+//notes:PvE-
+dimwishlist:item=1937552980&perks=,3824105627,2848615171
+dimwishlist:item=1937552980&perks=,1183436451,169755979
+dimwishlist:item=1937552980&perks=,1048183818,4104185692
+
+// Doom of Chelchis (PvP)
+//notes:PvP-
+dimwishlist:item=1937552980&perks=,3038247973,3108830275
+
+// Zaouli's Bane (PvE)
+//notes:PvE-
+dimwishlist:item=431721920&perks=,3038247973,4293542123
+dimwishlist:item=431721920&perks=,64866129,2675184851
+
+// Midha's Reckoning (PvP)
+//notes:PvP-
+dimwishlist:item=3969066556&perks=,1600092898,1754714824
+
+// Defiance of Yasmin (PvE)
+//notes:PvE-
+dimwishlist:item=3228096719&perks=,1556840489,1771339417
+dimwishlist:item=3228096719&perks=,3442762221,395388285
+
+// Defiance of Yasmin (PvP)
+//notes:PvP-
+dimwishlist:item=3228096719&perks=,957782887,588594999
+dimwishlist:item=3228096719&perks=,4116820839,2717805783
+
+// Qullim's Terminus (PvE)
+//notes:PvE-
+dimwishlist:item=1321506184&perks=,3108830275,124408337
+dimwishlist:item=1321506184&perks=,3108830275,3824105627
+dimwishlist:item=1321506184&perks=,855168139,1183436451
+dimwishlist:item=1321506184&perks=,855168139,1171887445
+
