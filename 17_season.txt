@@ -1,0 +1,26 @@
+// Lunulata-4b (PvE)
+//notes:PvE-
+dimwishlist:item=2513965917&perks=,2846385770,124408337
+
+// Lunulata-4b (PvP)
+//notes:PvP-
+dimwishlist:item=2513965917&perks=,2846385770,124408337
+dimwishlist:item=2513965917&perks=,2846385770,2610012052
+
+// Enyo-D (PvE)
+//notes:PvE-
+dimwishlist:item=1601177201&perks=,2779035018,2458213969
+dimwishlist:item=1601177201&perks=,2779035018,3425386926
+dimwishlist:item=1601177201&perks=,2779035018,3708227201
+
+// Staccato-46 (PvE)
+//notes:PvE-
+dimwishlist:item=4019668921&perks=,1168162263,4293542123
+
+// Staccato-46 (PvP)
+//notes:PvP-
+dimwishlist:item=4019668921&perks=,1168162263,3038247973
+
+// Gallu RR3 (PvE)
+//notes:
+dimwishlist:item=-617501162

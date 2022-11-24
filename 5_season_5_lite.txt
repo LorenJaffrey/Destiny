@@ -1,9 +1,0 @@
-title:season_5
-description:contains all weapons introduced in season 5 excluding activities
-
-//The Vow
-dimwishlist:item=2009106091
-
-//Avalanche
-//Feeding Frenzy, Rampage
-dimwishlist:item=66875353&perks=2779035018,3425386926#notes:PvE

@@ -57,3 +57,9 @@ dimwishlist:item=805677041
 
 //Point of the Stag
 dimwishlist:item=3434944005
+
+// Cry Mutiny
+dimwishlist:item=616582330
+
+// Chain of Command
+dimwishlist:item=3105930175

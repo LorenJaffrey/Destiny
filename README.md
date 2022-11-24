@@ -3,12 +3,11 @@
 ## ToC
 
 - [ ] Activities
-    - [x] pinnacle
-    - [x] iron_banner
-    - [x] crucible
-    - [x] vanguard
-    - [x] gambit
-    - [ ] banshee
+    - [ ] pinnacle
+    - [ ] iron_banner
+    - [ ] crucible
+    - [ ] vanguard
+    - [ ] gambit
     - [ ] nightfall
 - [ ] Season 11
     - [ ] prophecy
@@ -26,17 +25,3 @@
     - [ ] garden_of_salvation 
     - [x] moon
     - [x] vex_offensive
-- [ ] Season 7
-    - [x] menagerie
-    - [ ] crown_of_sorrow
-- [x] Season 6
-    - [x] reckoning
-- [ ] Season 5
-    - [x] season_5
-    - [x] black_armory
-    - [ ] scourge_of_the_past
-- [ ] Season 4
-    - [ ] season_4
-    - [ ] tangled_shore
-    - [ ] dreaming_city
-    - [ ] last_wish

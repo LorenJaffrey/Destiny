@@ -1,0 +1,42 @@
+// Austringer (PvP)
+//notes:PvP-
+dimwishlist:item=3055790362&perks=,957782887,2846385770
+dimwishlist:item=3055790362&perks=,4116820839,509594246
+
+// Austringer (PvE)
+//notes:PvE-
+dimwishlist:item=3055790362&perks=,1168162263,4104185692
+dimwishlist:item=3055790362&perks=,1347741687,3007133316
+dimwishlist:item=3055790362&perks=,1168162263,3523296417
+dimwishlist:item=3055790362&perks=,1347741687,1906147653
+
+// Drang (Baroque) (PvE)
+//notes:PvE-
+dimwishlist:item=502356570&perks=,1683379515,4293542123
+dimwishlist:item=502356570&perks=,2216471363,2675184851
+dimwishlist:item=502356570&perks=,3592538738,4293542123
+dimwishlist:item=502356570&perks=,2675361166,2675184851
+
+// Drang (Baroque) (PvP)
+//notes:PvP-
+dimwishlist:item=502356570&perks=,588594999,4293542123
+dimwishlist:item=502356570&perks=,2717805783,2675184851
+dimwishlist:item=502356570&perks=,588594999,2209918983
+dimwishlist:item=502356570&perks=,2717805783,2000295559
+
+// Beloved (PvP)
+//notes:PvP-
+dimwishlist:item=3107853529&perks=,957782887,2551157718
+dimwishlist:item=3107853529&perks=,4116820839,23371658
+
+// Beloved (PvE)
+//notes:PvE-
+dimwishlist:item=3107853529&perks=,1354429876,4293542123
+dimwishlist:item=3107853529&perks=,848860060,2675184851
+dimwishlist:item=3107853529&perks=,3436462433,4293542123
+dimwishlist:item=3107853529&perks=,2658083589,2675184851
+
+// CALUS Mini-Tool (PvE)
+//notes:PvE-
+dimwishlist:item=2490988246&perks=839105230,3142289711,3108830275,4293542123
+dimwishlist:item=2490988246&perks=839105230,3142289711,855168139,2675184851

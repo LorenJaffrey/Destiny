@@ -1,0 +1,44 @@
+title:seventh_seraph
+description:all seventh Seraph weapons
+
+//Seventh Seraph SI-2 (Sidearm)
+//Full-Auto, Vorpal
+dimwishlist:item=3937866388&perks=4267945040,1546637391#notes:PvP
+//Demo, Vorpal
+dimwishlist:item=3937866388&perks=3523296417,1546637391#notes:PvP Godroll
+//Demo, Dragonfly
+dimwishlist:item=3937866388&perks=3523296417,2848615171#notes:PvE Godroll
+
+//Seventh Seraph CQC-12 (Shotgun)
+//Quickdraw, Vorpal
+dimwishlist:item=1821724780&perks=706527188,1546637391#notes:PvP
+//Autoloading, Trench Barrel
+dimwishlist:item=1821724780&perks=3300816228,2360754333#notes:PvE
+//Quickdraw, Trench Barrel
+dimwishlist:item=1821724780&perks=706527188,2360754333#notes:PvE
+
+//Seventh Seraph Carbine (Auto Rifle)
+//Fourth Time's the Charm, Swashbuckler
+dimwishlist:item=1561006927&perks=1354429876,4082225868#notes:PvE Godroll
+//Fourth Time's the Charm, Rampage
+dimwishlist:item=1561006927&perks=1354429876,3425386926#notes:PvE
+//Threat Detector, Vorpal
+dimwishlist:item=1561006927&perks=4071163871,1546637391#notes:PvP Godroll
+
+//Seventh Seraph VY-7 (Arc Precision SMG)
+//Ambitious Assassin, Dragonfly
+dimwishlist:item=766323545&perks=2010801679,2848615171#notes:PvE
+
+//Seventh Seraph Officer Revolver
+//Ambitious Assassin, Multikill Clip
+dimwishlist:item=3037520408&perks=2010801679,2458213969#notes:PvE Godroll
+
+//Seventh Seraph SAW
+//Clown Cartridge, Firing Line
+dimwishlist:item=2582755344&perks=2284787283,1771339417#notes:PvE
+//Zen Moment, Vorpal
+dimwishlist:item=2582755344&perks=2387244414,1546637391#notes:PvP Godroll
+//Auto-Loading, Firing Line
+dimwishlist:item=2582755344&perks=3300816228,1771339417#notes:PvE
+//Field Prep, Firing Line
+dimwishlist:item=2582755344&perks=2869569095,1771339417#notes:PvE Godroll

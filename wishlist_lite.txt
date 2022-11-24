@@ -1,1304 +1,442 @@
 title:wishlist_lite
 description:only containing traits (excludes barrels, scopes, magazines, etc.)
 //toc
-//Pinnacle
-//Crucible
-//Vanguard
-//Gambit
-//Banshee
-//Iron Banner
-//Season 11
-//prophecy
-//Season 10
-//Seventh Seraph
-//Trials TODO
-//Season 9
-//Sundial
-//Season 8
-//Moon
-//Vex Offensive
-//Menagerie
-//Reckoning
-//Season 4
-
-//Mountaintop
-dimwishlist:item=3993415705
-
-//Revoker
-dimwishlist:item=654608616
-
-//Luna's Howl
-dimwishlist:item=153979396
-
-//Not Forgotten
-dimwishlist:item=153979399
-
-//Redrix's Broadsword
-dimwishlist:item=1161276682
-
-//Komodo-4FR
-dimwishlist:item=2697058914
-
-//The Recluse
-dimwishlist:item=3354242550
-
-//Randy's Throwing Knife
-dimwishlist:item=3535742959
-
-//Exit Strategy
-dimwishlist:item=4227181568
-
-//Breakneck
-dimwishlist:item=324382200
-
-//Hush
-dimwishlist:item=1584643826
-
-//Python
-dimwishlist:item=838556752
-
-//21% Delirium
-dimwishlist:item=1600633250
-
-//Wendigo GL3
-dimwishlist:item=578459533
-
-//Edgewise
-dimwishlist:item=847329160
-
-//Oxygen SR3
-dimwishlist:item=3907337522
-
-//Loaded Question
-dimwishlist:item=580961571
-
-//Buzzard
-dimwishlist:item=805677041
-
-//Point of the Stag
-dimwishlist:item=3434944005
-
-//Crucible
-
-//Last Perdition (Void Adaptive Frame Pulse Rifle)
-//Outlaw, Kill Clip
-dimwishlist:item=188882152&perks=1168162263,1015611457#notes:PvP lethality
-//Outlaw, Rampage
-dimwishlist:item=188882152&perks=1168162263,3425386926#notes:PvE
-//Rangefinder, Zen Moment
-dimwishlist:item=188882152&perks=2846385770,2387244414#notes:PvP consistency
-
-//Does not Compute (Kinetic High Impact Scout Rifle)
-//Zen Moment, Kill Clip
-dimwishlist:item=2278995296&perks=2387244414,1015611457#notes:PvP
-//Triple Tap, Rampage
-dimwishlist:item=2278995296&perks=3400784728,3425386926#notes:PvE
-//Moving Target, Kill Clip
-dimwishlist:item=2278995296&perks=588594999,1015611457#notes:PvP
-//Zen Moment, Rangefinder
-dimwishlist:item=2278995296&perks=2387244414,2846385770#notes:PvP range
-
-//Wishbringer
-dimwishlist:item=-3356526253#notes:use Seventh Seraph or Ikelos instead
-
-//Better Devils (Kinetic Adaptive Hand Cannon)
-//Outlaw, Kill Clip
-dimwishlist:item=153979397&perks=1168162263,1015611457#notes:PvP lethality
-//Rangefinder, Explosive Payload
-dimwishlist:item=153979397&perks=2846385770,3038247973#notes:PvP consistency
-
-//Hard Truths (Kinetic Aggressive SMG)
-//Snapshot, Kill Clip
-dimwishlist:item=105567493&perks=957782887,1015611457#notes:PvP lethality
-//Zen Moment, Kill Clip
-dimwishlist:item=105567493&perks=2387244414,1015611457#notes:PvP lethality
-//Moving Target, Tap the Trigger
-dimwishlist:item=105567493&perks=588594999,1890422124#notes:PvP consistency
-//Moving Target, Kill Clip
-dimwishlist:item=105567493&perks=588594999,1015611457#notes:PvP lethality
-//Snapshot, Tap the Trigger
-dimwishlist:item=105567493&perks=957782887,1890422124#notes:PvP consistency
-
-//Anonymous Autumn (Solar Lightweight Sidearm)
-//Full-Auto, Kill Clip
-dimwishlist:item=3222518097&perks=4267945040,1015611457#notes:PvP lethality
-//Full-Auto, Rampage
-dimwishlist:item=3222518097&perks=4267945040,3425386926#notes:PvE
-//Quickdraw, Opening Shot
-dimwishlist:item=3222518097&perks=706527188,47981717#notes:PvP
-//Full-Auto, Rangefinder
-dimwishlist:item=3222518097&perks=4267945040,2846385770#notes:PvP
-//Full-Auto, Zen Moment
-dimwishlist:item=3222518097&perks=4267945040,2387244414#notes:PvP
-
-//Fate Cries Foul (Void Adaptive Sniper Rifle)
-//Field Prep, Triple Tap
-dimwishlist:item=1684914716&perks=2869569095,3400784728#notes:PvE
-//Snapshot, Moving Target
-dimwishlist:item=1684914716&perks=957782887,588594999#notes:PvP
-
-//Play of the Game (Arc Adaptive Grenade Launcher)
-//Proximity Nades, Rangefinder, Quickdraw
-dimwishlist:item=195440257&perks=409831596,2846385770,706527188#notes:PvP
-//Sticky Nades, Snapshot, Quickdraw
-dimwishlist:item=195440257&perks=3373736292,957782887,706527188#notes:PvP sticky nades
-
-//Steel Sybil Z-14 (Void Adaptive Sword)
-//Relentless Strikes, Whirlwind Blade
-dimwishlist:item=4230993599&perks=1749209109,3913600130#notes:PvP/PvE
-//Relentless Strikes, Assassin's Blade
-dimwishlist:item=4230993599&perks=1749209109,354401740#notes:PvP/PvE
-
-//Vanguard
-
-//Service Revolver (Kinetic Precision Hand Cannon)
-//Outlaw, Kill Clip
-dimwishlist:item=834081972&perks=1168162263,1015611457#notes:PvP lethality god roll
-//Triple Tap, Rampage
-dimwishlist:item=834081972&perks=3400784728,3425386926#notes:PvE
-//Rapid Hit, Kill Clip
-dimwishlist:item=834081972&perks=247725512,1015611457#notes:PvP lethality 2nd best
-//Rangefinder, Zen Moment
-dimwishlist:item=834081972&perks=2846385770,2387244414#notes:PvP consistency
-
-//Nightshade (Kinetic Lightweight Pulse Rifle)
-//Outlaw, Kill Clip
-dimwishlist:item=792755504&perks=1168162263,1015611457#notes:PvP
-//Outlaw, Rampage
-dimwishlist:item=792755504&perks=1168162263,3425386926#notes:PvE
-
-//Persuader (Void Rapid Fire Sniper Rifle)
-//Field Prep, Triple Tap
-dimwishlist:item=4083045006&perks=2869569095,3400784728#notes:PvE
-
-//Nameless Midnight
-//Zen Moment, Kill Clip
-dimwishlist:item=3040742682&perks=2387244414,1015611457#notes:PvP
-//Triple Tap, Rampage
-dimwishlist:item=3040742682&perks=3400784728,3425386926#notes:PvE
-//Moving Target, Kill Clip
-dimwishlist:item=3040742682&perks=588594999,1015611457#notes:PvP
-//Zen Moment, Rangefinder
-dimwishlist:item=3040742682&perks=2387244414,2846385770#notes:PvP range
-
-//Toil and Trouble
-//Slideshot, Snapshot
-dimwishlist:item=2957367743&perks=3161816588,957782887#notes:PvP
-
-//Long Shadow (Kinetic Adaptive Sniper Rifle)
-//Field Prep, Triple Tap
-dimwishlist:item=3745990145&perks=2869569095,3400784728#notes:PvE
-//Rapid Hit, Triple Tap
-dimwishlist:item=3745990145&perks=247725512,3400784728#notes:PvE
-
-//Main Ingredient
-
-//The Last Dance (Arc Omolon Adaptive Sidearm)
-//Moving Target, Tap the Trigger
-dimwishlist:item=2009277538&perks=588594999,1890422124#notes:PvP
-
-//Outrageous Fortune (Solar Rapid Fire Grenade Launcher)
-//Proximity Nades, Snapshot, Quickdraw
-dimwishlist:item=4146702548&perks=409831596,957782887,706527188#notes:PvP
-//Sticky Nades, Snapshot, Quickdraw
-dimwishlist:item=4146702548&perks=3373736292,957782887,706527188#notes:PvP sticky nades
-//Spike Grenades, Field Prep, Genesis
-dimwishlist:item=4146702548&perks=3301904089,2869569095,3096702027#notes:PvE
-
-//Gambit
-
-//Hazard of the Cast (Kinetic Precision Auto Rifle)
-//Zen Moment, Rampage
-dimwishlist:item=1789347249&perks=2387244414,3425386926#notes:PvE
-//Zen Moment, Kill Clip
-dimwishlist:item=1789347249&perks=2387244414,1015611457#notes:PvP
-
-//Bygones (Kinetic Adaptive Pulse Rifle)
-//Kill Clip, Outlaw
-dimwishlist:item=2712244741&perks=1015611457,1168162263#notes:PvP lethality
-//Rampage, Outlaw
-dimwishlist:item=2712244741&perks=3425386926,1168162263#notes:PvE
-//Rangefinder, Full-Auto
-dimwishlist:item=2712244741&perks=2846385770,4267945040#notes:PvP consistency
-
-//Parcel of Stardust (Kinetic Lightweight Shotgun)
-//Opening Shot, Quickdraw
-dimwishlist:item=2217366863&perks=47981717,706527188#notes:PvP
-
-//Dreaded Venture (Kinetic Aggressive Sniper Rifle)
-dimwishlist:item=-3100452337
-
-//Pillager (Kinetic Lightweight SMG)
-//Outlaw, Rampage
-dimwishlist:item=2653316158&perks=1168162263,3425386926#notes:PvE
-//Outlaw, Kill Clip
-dimwishlist:item=2653316158&perks=1168162263,1015611457#notes:PvP
-//Zen Moment, Kill Clip
-dimwishlist:item=2653316158&perks=2387244414,1015611457#notes:PvP
-
-//Trust (Solar Precision Hand Cannon)
-//Outlaw, Rampage
-dimwishlist:item=4077196130&perks=1168162263,3425386926#notes:PvE
-//Dragonfly, Rapid Hit
-dimwishlist:item=4077196130&perks=2848615171,247725512#notes:PvE
-//Outlaw, Explosive Payload
-dimwishlist:item=4077196130&perks=1168162263,3038247973#notes:PvP
-
-//Distant Relation (Solar Precision Scout Rifle)
-dimwishlist:item=-2034817450
-
-//Bad Omens (Void Aggressive Rocket Launcher)
-//Tracking, Cluster
-dimwishlist:item=991314988&perks=3977735242,1275731761#notes:PvP/PvE
-title:banshee
-description:contains all weapons obtained via weaponmaster engrams
-
-//Banshee
-
-//Halfdan-D (Kinetic High Impact Auto Rifle)
-//Dynamic Sway, Rangefinder
-dimwishlist:item=1518042134&perks=1359896290,2846385770#notes:PvP consistency
-//Dynamic Sway, Kill Clip
-dimwishlist:item=1518042134&perks=1359896290,1015611457#notes:PvP
-//Outlaw, Kill Clip
-dimwishlist:item=1518042134&perks=1168162263,1015611457#notes:PvP lethality
-//Tap the Trigger, Rangefinder
-dimwishlist:item=1518042134&perks=1890422124,2846385770#notes:PvP consistency
-//Tap the Trigger, Kill Clip
-dimwishlist:item=1518042134&perks=1890422124,1015611457#notes:PvP
-//Outlaw, Rampage
-dimwishlist:item=1518042134&perks=1168162263,3425386926#notes:PvE
-
-//Pribina-D (Kinetic Aggressive Hand Cannon)
-//Outlaw, Kill Clip
-dimwishlist:item=4211534763&perks=1168162263,1015611457#notes:PvP lethality
-//Rangefinder, Opening Shot
-dimwishlist:item=4211534763&perks=2846385770,47981717#notes:PvP consistency
-
-//Eystein-D (Kinetic High Impact Pulse Rifle)
-//Outlaw, Kill Clip
-dimwishlist:item=3199662972&perks=1168162263,1015611457#notes:PvP consistency
-//Firmly Planted, Zen Moment
-dimwishlist:item=3199662972&perks=280464955,2387244414#notes:PvP consistency
-//Rangefinder, Snapshot
-dimwishlist:item=3199662972&perks=2846385770,957782887#notes:PvP consistency
-
-//Antiope-D 
-//Snapshot, Kill Clip
-dimwishlist:item=2561659919&perks=957782887,1015611457#notes:PvP lethality
-//Zen Moment, Kill Clip
-dimwishlist:item=2561659919&perks=2387244414,1015611457#notes:PvP lethality
-//Moving Target, Tap the Trigger
-dimwishlist:item=2561659919&perks=588594999,1890422124#notes:PvP consistency
-//Moving Target, Kill Clip
-dimwishlist:item=2561659919&perks=588594999,1015611457#notes:PvP lethality
-//Snapshot, Tap the Trigger
-dimwishlist:item=2561659919&perks=957782887,1890422124#notes:PvP consistency
-
-//Valakdyn
-//Quickdraw, Rangefinder
-dimwishlist:item=1518042135&perks=706527188,2846385770#notes:PvP Quickdraw
-//Dynamic Sway, Rangefinder
-dimwishlist:item=1518042135&perks=1359896290,2846385770#notes:PvP consistency
-//Outlaw, Kill Clip
-dimwishlist:item=1518042135&perks=1168162263,1015611457#notes:PvP lethality
-//Dynamic Sway, Kill Clip
-dimwishlist:item=1518042135&perks=1359896290,1015611457#notes:PvP
-//Outlaw, Rampage
-dimwishlist:item=1518042135&perks=1168162263,3425386926#notes:PvE
-
-//Erentil FR4
-
-//Proelium FR3
-
-//Black Scorpion-4SR
-
-//Good Bone Structure
-
-//Elegy-49
-
-//Crooked Fang-4FR
-
-//Zenobia-D
-
-//Iron Banner
-
-//Gunnora's Axe (Arc Precision Slug Shotgun)
-//Quickdraw, Snapshot
-dimwishlist:item=2326716489&perks=706527188,957782887#notes:PvP extra snappy
-//Quickdraw, Opening Shot
-dimwishlist:item=2326716489&perks=706527188,47981717#notes:PvP Godroll
-//Quickdraw, Slideshot
-dimwishlist:item=2326716489&perks=706527188,3161816588#notes:PvP 2nd best roll
-
-//Shining Sphere (Arc Adaptive Rocket Launcher)
-dimwishlist:item=-136525518
-
-//Wizened Rebuke (Arc High Impact Fusion Rifle)
-//Firmly Planted, Rangefinder
-dimwishlist:item=930590127&perks=280464955,2846385770#notes:PvP
-//Firmly Planted, Tap the Trigger
-dimwishlist:item=930590127&perks=280464955,1890422124#notes:PvP
-
-//Orewing's Maul (Void Lightweight Grenade Launcher)
-//Proximity Nades, Quickdraw, Demolitionist
-dimwishlist:item=2108920981&perks=409831596,706527188,3523296417#notes:PvP
-//Proximity Nades, Quickdraw, Auto-Loading
-dimwishlist:item=2108920981&perks=409831596,706527188,3300816228#notes:PvP
-//Spike Grenades, Field Prep, Demolitionist
-dimwishlist:item=2108920981&perks=3301904089,2869569095,3523296417#notes:PvP
-//Spike Grenades, Field Prep, Auto-Loading
-dimwishlist:item=2108920981&perks=3301904089,2869569095,3300816228#notes:PvP
-
-//Crimil's Dagger (Kinetic Aggressive Frame Hand Cannon)
-//Rangefinder, Opening Shot
-dimwishlist:item=4292849692&perks=2846385770,47981717#notes:PvP consistency
-//Outlaw, Kill Clip
-dimwishlist:item=4292849692&perks=1168162263,1015611457#notes:PvP lethality
-
-//The Hero's Burden (Void Adaptive Frame SMG)
-//Snapshot, Kill Clip
-dimwishlist:item=1865351684&perks=957782887,1015611457#notes:PvP lethality
-//Zen Moment, Kill Clip
-dimwishlist:item=1865351684&perks=2387244414,1015611457#notes:PvP lethality
-//Moving Target, Tap the Trigger
-dimwishlist:item=1865351684&perks=588594999,1890422124#notes:PvP consistency
-//Moving Target, Kill Clip
-dimwishlist:item=1865351684&perks=588594999,1015611457#notes:PvP lethality
-//Snapshot, Tap the Trigger
-dimwishlist:item=1865351684&perks=957782887,1890422124#notes:PvP consistency
-
-//Talons of the Eagle (Kinetic Gigh Impact Scout Rifle)
-//Outlaw, Rampage
-dimwishlist:item=1982711279&perks=1168162263,3425386926#notes:PvE
-//Zen Moment, Moving Target
-dimwishlist:item=1982711279&perks=2387244414,588594999#notes:PvP
-
-//Bite of the Fox (Kinetic Aggressive Frame Sniper Rifle)
-//Snapshot, Opening Shot
-dimwishlist:item=3169616514&perks=957782887,47981717#notes:PvP
-
-//Claws of the Wolf (Void Rapid Fire Pulse Rifle)
-//Outlaw, Kill Clip
-dimwishlist:item=1280933460&perks=1168162263,1015611457#notes:PvP
-//Snapshot, Full-Auto
-dimwishlist:item=1280933460&perks=957782887,4267945040#notes:PvP
-
-//Breath of the Dragon (Arc Lightweight SMG)
-//Snapshot, Kill Clip
-dimwishlist:item=1357080535&perks=957782887,1015611457#notes:PvP lethality
-//Zen Moment, Kill Clip
-dimwishlist:item=1357080535&perks=2387244414,1015611457#notes:PvP lethality
-//Moving Target, Tap the Trigger
-dimwishlist:item=1357080535&perks=588594999,1890422124#notes:PvP consistency
-//Moving Target, Kill Clip
-dimwishlist:item=1357080535&perks=588594999,1015611457#notes:PvP lethality
-//Snapshot, Tap the Trigger
-dimwishlist:item=1357080535&perks=957782887,1890422124#notes:PvP consistency
-
-//Swarm of the Raven (Void Rapid Fire Grenade Launcher)
-//Proximity Nades, Snapshot, Quickdraw
-dimwishlist:item=1972985595&perks=409831596,957782887,706527188#notes:PvP
-//Sticky Nades, Snapshot, Quickdraw
-dimwishlist:item=1972985595&perks=3373736292,957782887,706527188#notes:PvP sticky nades
-//Spike Grenades, Field Prep, Genesis
-dimwishlist:item=1972985595&perks=3301904089,2869569095,3096702027#notes:PvE
-
-//Roar of the Bear (Solar High Impact Rocket Launcher)
-//Tracking, Rangefinder
-dimwishlist:item=308332265&perks=3977735242,2846385770#notes:PvP
-//Tracking, Auto-Loading
-dimwishlist:item=308332265&perks=3977735242,3300816228#notes:PvE
-
-//The Forward Path (Kinetic Adaptive Frame Auto Rifle)
-//Feeding Frenzy, Multikill Clip
-dimwishlist:item=1690783811&perks=2779035018,2458213969#notes:PvE
-//Graverobber, Swashbuckler
-dimwishlist:item=1690783811&perks=1631667848,4082225868#notes:PvE Melee
-//Dynamic Sway, Tap the Trigger
-dimwishlist:item=1690783811&perks=1359896290,1890422124#notes:PvP Precision
-
-//The Fool's Remedy (Solar Suros Rapid Fire Sidearm)
-//Moving Target, Kill Clip
-dimwishlist:item=65611680&perks=588594999,1015611457#notes:PvP Primary
-//Feeding Frenzy, Kill Clip
-dimwishlist:item=65611680&perks=2779035018,1015611457#notes:PvP/PvE Lethality
-//Pulse Monitor, Quick Draw
-dimwishlist:item=65611680&perks=972757866,706527188#notes:PvP Emergency
-//Hipfire Grip, Quickdraw
-dimwishlist:item=65611680&perks=1866048759,706527188#notes:PvP Hipfire
-
-//Season 11
-
-//Cold Denial (Kinetic High Impact Pulse Rifle)
-//Feeding Frenzy, Multikill Clip
-dimwishlist:item=1216130969&perks=2779035018,2458213969#notes:PvE
-//Killing Wind, Swashbuckler
-dimwishlist:item=1216130969&perks=2450788523,4082225868#notes:PvP Combo
-//Killing Wind, Headseeker
-dimwishlist:item=1216130969&perks=245078852cr3,460017080#notes:PvP
-
-//Truthteller (Void Lightweight Grenade Launcher)
-//Spike Grenades, Autoloading, Demolitionist
-dimwishlist:item=1946491241&perks=3301904089,3300816228,3523296417#notes:PvP
-//Proximity Grenades, Autoloading, Quickdraw
-dimwishlist:item=1946491241&perks=409831596,3300816228,706527188#notes:PvP
-//Spike Grenades, Feeding Frenzy, Multikill Clip
-dimwishlist:item=1946491241&perks=3301904089,2779035018,2458213969#notes:PvE
-//Spike Grenades, Feeding Frenzy, Demolitionist
-dimwishlist:item=1946491241&perks=3301904089,2779035018,3523296417#notes:PvE
-//Spike Grenades, Grave Robber, Swashbuckler
-
-//Nature of the Beast (Arc Precision Hand Cannon)
-//Subsistence, Demolitionist
-dimwishlist:item=1835747805&perks=1820235745,3523296417#notes:PvE
-//Subsistence, Dragonfly
-dimwishlist:item=1835747805&perks=1820235745,2848615171#notes:PvE
-//Snapshot, Rangefinder
-dimwishlist:item=1835747805&perks=957782887,2846385770#notes:PvP
-
-//Falling Guillotine (Void Vortex Frame Sword)
-//Relentless Strikes, Whirlwind Blade
-dimwishlist:item=614426548&perks=1749209109,3913600130#notes:PvE
-
-//Prophecy
-
-//IKELOS_HC_v1.0.2 (Void Precision Hand Cannon)
-//Seraph Rounds, Subsistence, Rampage
-dimwishlist:item=1200824700&perks=1140096971,1820235745,3425386926#notes:PvE
-//Seraph Rounds, Triple Tap, Vorpal
-dimwishlist:item=1200824700&perks=1140096971,3400784728,1546637391#notes:PvP/PvE
-//Seraph Rounds, Triple Tap, Eye of the Storm
-dimwishlist:item=1200824700&perks=1140096971,3400784728,699525795#notes:PvP
-//Seraph Rounds, Genesis, Disruption Break
-dimwishlist:item=1200824700&perks=1140096971,3096702027,1683379515#notes:PvE Situational
-
-//IKELOS_SG_v1.0.2 (Solar Rapid Fire Frame)
-//Lead from Gold, Trench Barrel
-dimwishlist:item=1096206669&perks=1556840489,2360754333#notes:PvE
-
-//Widow's Bite (Solar Rapid Fire Sniper Rifle)
-//Firmly Planted, Opening Shot
-dimwishlist:item=1271343896&perks=280464955,47981717#notes:PvP
-//Lead from Gold, Demolitionist
-dimwishlist:item=1271343896&perks=1556840489,3523296417#notes:PvE
-
-//Death Adder (Solar Lightweight SMG)
-//Dynamic Sway, Quickdraw
-dimwishlist:item=2742490609&perks=1359896290,706527188#notes:PvE
-//Feeding Frenzy, Dragonfly
-dimwishlist:item=2742490609&perks=2779035018,2848615171#notes:PvE
-//Autoloading, Disruption Break
-dimwishlist:item=2742490609&perks=3300816228,1683379515#notes:PvE
-
-//Hoosegow (Arc Adaptive Rocket Launcher)
-//Black Powder, Tracking Module, Cluster Bomb
-dimwishlist:item=3669616453&perks=1996142143,3977735242,1275731761#notes:PvP
-//High Velocity Rounds, Tracking Module, Cluster Bomb
-dimwishlist:item=3669616453&perks=2822142346,3977735242,1275731761#notes:PvE
-//Impact Casing, Field Prep, Cluster Bomb
-dimwishlist:item=3669616453&perks=3796465595,2869569095,1275731761#notes:PvE Boss
-
-//Negative Space (Solar Adaptive Sowrd)
-//Relentless Strikes, Whirlwind Blade
-dimwishlist:item=3629968765&perks=1749209109,3913600130#notes:PvE
-//Relentless Strikes, Disruption Break
-dimwishlist:item=3629968765&perks=1749209109,1683379515#notes:PvE Situational
-
-//Contact
-
-//False Promises (High Impact Auto Rifle)
-//Overflow, Rampage
-dimwishlist:item=3143732432&perks=3643424744,3425386926#notes:PvE lethality
-//Overflow, Swashbuckler
-dimwishlist:item=3143732432&perks=3643424744,4082225868#notes:PvE lethality
-//Feeding Frenzy, Rampage
-dimwishlist:item=3143732432&perks=2779035018,3425386926#notes:PvE lethality
-//Killing Wind, Unrelenting
-dimwishlist:item=3143732432&perks=2450788523,3108830275#notes:PvP survivability
-//Killing Wind, Zen Moment
-dimwishlist:item=3143732432&perks=2450788523,2387244414#notes:PvP consistency
-//Dynamic Sway, Zen Moment
-dimwishlist:item=3143732432&perks=1359896290,2387244414#notes:PvP consistency
-
-//Whispering Slab (Lightweight Bow)
-//Archer's Tempo, Swashbuckler
-dimwishlist:item=211938782&perks=201365942,4082225868#notes:PvE
-//Killing Wind, Opening Shot
-dimwishlist:item=211938782&perks=2450788523,47981717#notes:PvP
-
-//Hollow Words (Precision Fusion Rifle)
-//Lead from Gold, Vorpal Weapon
-dimwishlist:item=607191995&perks=1556840489,1546637391#notes:PvE Boss
-//Lead from Gold, Disruption Break
-dimwishlist:item=607191995&perks=1556840489,1683379515#notes:PvE Situational
-//Killing Wind, Unrelenting
-dimwishlist:item=607191995&perks=2450788523,3108830275#notes:PvP
-//Quickdraw, Backup Plan
-dimwishlist:item=607191995&perks=706527188,1600092898#notes:PvP Quickdraw
-
-//First In, Last Out (Precision Slug Shotgun)
-//Slideshot, Opening Shot
-dimwishlist:item=3616586446&perks=3161816588,47981717#notes:PvP
-//Outlaw, Demolitionist
-dimwishlist:item=3616586446&perks=1168162263,3523296417#notes:PvE
-//Auto-Loading, Vorpal
-dimwishlist:item=3616586446&perks=3300816228,1546637391#notes:PvE Boss
-
-//IKELOS_SR_v1.0.2 (Solar Rapid Fire Sniper Rifle)
-//Seraph Rounds, Fourth Times the Charm, High Impact Reserves
-dimwishlist:item=1253087083&perks=1140096971,1354429876,2213355989#notes:PvE
-//Seraph Rounds, Moving Target, High Impact Reserves
-dimwishlist:item=1253087083&perks=1140096971,588594999,2213355989#notes:PvP
-
-//IKELOS_SMG_v1.0.2 (Arc Aggressive SMG)
-//Seraph Rounds, Dynamic Sway, Tap the Trigger
-dimwishlist:item=2222560548&perks=1140096971,1359896290,1890422124#notes:PvP
-//Seraph Rounds, Graverobber, Demolitionist
-dimwishlist:item=2222560548&perks=1140096971,1631667848,3523296417#notes:PvE
-//Seraph Rounds, Threat Detector, Surrounded
-dimwishlist:item=2222560548&perks=1140096971,4071163871,3708227201#notes:PvE
-//Seraph Rounds, Graverobber, Disruption Break
-dimwishlist:item=2222560548&perks=1140096971,1631667848,1683379515#notes:PvE
-
-//Berenger's Memory (Rapid Fire Grenade Launcher)
-//Spike Grenades, Field Prep, Demolitionist
-dimwishlist:item=407621213&perks=3301904089,2869569095,3523296417#notes:PvE
-//Spike Grenades, Clown Cartridge, Demolitionist
-dimwishlist:item=407621213&perks=3301904089,2284787283,3523296417#notes:PvE
-
-//Temptation's Hook (Caster Frame Sword)
-//Tireless Blade, Vorpal Weapon
-dimwishlist:item=35794111&perks=2590710093,1546637391#notes:PvE
-//Relentless Strikes, Whirlwind Blade
-dimwishlist:item=35794111&perks=1749209109,3913600130#notes:PvE
-
-//Season 10
-
-//Dire Promise
-//Opening Shot, Rangefinder
-dimwishlist:item=2742838701&perks=47981717,2846385770#notes:PvP
-//Opening Shot, Swashbuckler
-dimwishlist:item=2742838701&perks=47981717,4082225868#notes:PvP
-//Overflow, Swashbuckler
-dimwishlist:item=2742838701&perks=3643424744,4082225868#notes:PvE
-//Overflow, Osmosis
-dimwishlist:item=2742838701&perks=3643424744,1774574192#notes:PvE situational
-
-//True Prophecy
-dimwishlist:item=-2742838700
-
-//Enigma's Draw
-//Graverobber, Swashbuckler
-dimwishlist:item=1723380073&perks=1631667848,4082225868#notes:PvE Godroll
-//Full-Auto, Demo
-dimwishlist:item=1723380073&perks=4267945040,3523296417#notes:PvP Godroll
-//Full-Auto, Rapid Hit
-dimwishlist:item=1723380073&perks=4267945040,247725512#notes:PvE
-
-//Escape Velocity
-//Overflow, Vorpal
-dimwishlist:item=1786797708&perks=3643424744,1546637391#notes:PvP Godroll
-//Overflow, Osmosis
-dimwishlist:item=1786797708&perks=3643424744,1774574192#notes:PvE situational
-
-//Timelines Vertex
-//Firmly Planted, Demo
-dimwishlist:item=3055192515&perks=280464955,3523296417#notes:PvP/PvE
-//Shield Disorient, Disruption Break
-dimwishlist:item=3055192515&perks=3275789089,1683379515#notes:PvE situational
-
-//Jian 7 Rifle
-//Full-Auto, Rampage
-dimwishlist:item=1162247618&perks=4267945040,3425386926#notes:PvE
-
-//Distant Tumulus
-//Clown Cartridge, Firing Line
-dimwishlist:item=2807687156&perks=2284787283,1771339417#notes:PvE
-
-//Interference VI
-//Spike Grenades, Clown Cartridge, Full Court
-dimwishlist:item=2257180473&perks=3301904089,2284787283,2888557110#notes:PvE
-//Spike Grenades, Clown Cartridge, Swashbuckler
-dimwishlist:item=2257180473&perks=3301904089,2284787283,4082225868#notes:PvE
-
-//Honor's Edge
-//Relentless Strikes, Surrounded
-dimwishlist:item=2857348871&perks=1749209109,3708227201
-
-//Seventh Seraph
-
-//Seventh Seraph SI-2 (Sidearm)
-//Full-Auto, Vorpal
-dimwishlist:item=3937866388&perks=4267945040,1546637391#notes:PvP
-//Demo, Vorpal
-dimwishlist:item=3937866388&perks=3523296417,1546637391#notes:PvP Godroll
-//Demo, Dragonfly
-dimwishlist:item=3937866388&perks=3523296417,2848615171#notes:PvE Godroll
-
-//Seventh Seraph CQC-12 (Shotgun)
-//Quickdraw, Vorpal
-dimwishlist:item=1821724780&perks=706527188,1546637391#notes:PvP
-//Autoloading, Trench Barrel
-dimwishlist:item=1821724780&perks=3300816228,2360754333#notes:PvE
-//Quickdraw, Trench Barrel
-dimwishlist:item=1821724780&perks=706527188,2360754333#notes:PvE
-
-//Seventh Seraph Carbine (Auto Rifle)
-//Fourth Time's the Charm, Swashbuckler
-dimwishlist:item=1561006927&perks=1354429876,4082225868#notes:PvE Godroll
-//Fourth Time's the Charm, Rampage
-dimwishlist:item=1561006927&perks=1354429876,3425386926#notes:PvE
-//Threat Detector, Vorpal
-dimwishlist:item=1561006927&perks=4071163871,1546637391#notes:PvP Godroll
-
-//Seventh Seraph VY-7 (Arc Precision SMG)
-//Ambitious Assassin, Dragonfly
-dimwishlist:item=766323545&perks=2010801679,2848615171#notes:PvE
-
-//Seventh Seraph Officer Revolver
-//Ambitious Assassin, Multikill Clip
-dimwishlist:item=3037520408&perks=2010801679,2458213969#notes:PvE Godroll
-
-//Seventh Seraph SAW
-//Clown Cartridge, Firing Line
-dimwishlist:item=2582755344&perks=2284787283,1771339417#notes:PvE
-//Zen Moment, Vorpal
-dimwishlist:item=2582755344&perks=2387244414,1546637391#notes:PvP Godroll
-//Auto-Loading, Firing Line
-dimwishlist:item=2582755344&perks=3300816228,1771339417#notes:PvE
-//Field Prep, Firing Line
-dimwishlist:item=2582755344&perks=2869569095,1771339417#notes:PvE Godroll
-
-//Trials
-
-//Season 9
-
-//The Old Fashioned
-//Feeding Frenzy, Kill Clip
-dimwishlist:item=3569802112&perks=2779035018,1015611457#notes:PvP Godroll
-//Quickdraw, Snapshot
-dimwishlist:item=3569802112&perks=706527188,957782887#notes:PvP Godroll
-//Demo, Kill Clip
-dimwishlist:item=3569802112&perks=3523296417,1015611457#notes:PvP
-
-//Hawthornes Field Forged Shotgun
-dimwishlist:item=1807343361&perks=1631667848,2679249093#notes:PvE Godroll
-
-//Cold Front
-//Feeding Frenzy, Kill Clip
-dimwishlist:item=1506719573&perks=2779035018,1015611457#notes:PvP
-//Feeding Frenzy, Vorpal
-dimwishlist:item=1506719573&perks=2779035018,1546637391#notes:PvP
-//Feeding Frenzy, Osmosis
-dimwishlist:item=1506719573&perks=2779035018,1774574192#notes:PvE situational
-
-//Uriels Gift
-//Firmly Planted, Kill Clip
-dimwishlist:item=3863882743&perks=280464955,1015611457#notes:PvE
-//Firmly Planted, Tap the Trigger
-dimwishlist:item=3863882743&perks=280464955,1890422124#notes:PvE/PvP
-//Quickdraw, Kill Clip
-dimwishlist:item=3863882743&perks=706527188,1015611457#notes:PvP
-
-//Elatha FR-4
-//Firmly Planted, Demo
-dimwishlist:item=4106983932&perks=280464955,3523296417#notes:PvE
-
-//Last Hope
-//Feeding Frenzy, Multikill Clip
-dimwishlist:item=3622137132&perks=2779035018,2458213969#notes:PvE
-//Feeding Frenzy, Rampage
-dimwishlist:item=3622137132&perks=2779035018,3425386926#notes:PvE
-//Quickdraw, Tap the Trigger 
-dimwishlist:item=3622137132&perks=706527188,1890422124#notes:PvP
-
-//Trophy Hunter
-//Triple Tap, Vorpal
-dimwishlist:item=4166221755&perks=3400784728,1546637391#notes:PvE Bossdamage
-
-//Mos Epoch III
-//Tracking Module, Cluster Bomb
-dimwishlist:item=1529450902&perks=3977735242,1275731761#notes:PvE
-//Auto-Reloading, Cluster Bomb
-dimwishlist:item=1529450902&perks=3300816228,1275731761#notes:PvE
-
-//Pyroclastic Flow
-//Quickdraw, Cluster Bomb
-dimwishlist:item=1289324202&perks=706527188,1275731761#notes:PvE
-//Auto-Loading, Cluster Bomb
-dimwishlist:item=1289324202&perks=3300816228,1275731761#notes:PvE
-
-//Sundial
-
-//Steelfeather Repeater
-//Feeding Frenzy, Multikill Clip 
-dimwishlist:item=1251729046&perks=2779035018,2458213969#notes:PvE Godroll
-//Subsistence, Swashbuckler
-dimwishlist:item=1251729046&perks=1820235745,4082225868#notes:PvE
-//Firmly Planted, Swashbuckler
-dimwishlist:item=1251729046&perks=280464955,4082225868#notes:PvE
-//Firmly Planted, Vorpal
-dimwishlist:item=1251729046&perks=280464955,1546637391#notes:PvE
-
-//Patron of Lost Causes
-//Full-Auto, Explosive
-dimwishlist:item=2723241847&perks=280464955,3038247973#notes:PvP Godroll
-//Full-Auto, Vorpal
-dimwishlist:item=2723241847&perks=280464955,1546637391#notes:PvP Situational
-//Rapid Hit, Explosive
-dimwishlist:item=2723241847&perks=247725512,3038247973#notes:PvE/PvP
-
-//Perfect Paradox
-//Demo, One-Two Punch
-dimwishlist:item=3393519051&perks=3523296417,2679249093#notes:PvE
-//Demo, Trench Barrel
-dimwishlist:item=3393519051&perks=3523296417,2360754333#notes:PvE
-//Demo, Swashbuckler
-dimwishlist:item=3393519051&perks=3523296417,4082225868#notes:PvE
-
-//Breachlight
-//Outlaw, Multikill Clip
-dimwishlist:item=1289997971&perks=1168162263,2458213969#notes:PvE
-//Outlaw, Vorpal
-dimwishlist:item=1289997971&perks=1168162263,1546637391#notes:PvP
-//Demo, Vorpal
-dimwishlist:item=1289997971&perks=3523296417,1546637391#notes:PvP
-//Demo, Osmosis
-dimwishlist:item=1289997971&perks=3523296417,1774574192#notes:PvE Situational
-//Demo, Rampage
-dimwishlist:item=1289997971&perks=3523296417,3425386926#notes:PvE
-
-//Gallant Charge
-
-//Martyr's Retribution
-//Field Prep, Demo
-dimwishlist:item=3850168899&perks=2869569095,3523296417#notes:PvE
-//Auto-Loading, Demo
-dimwishlist:item=3850168899&perks=3300816228,3523296417#notes:PvP
-
-//Jack Queen King 3
-//Subsistence, Swashbuckler
-dimwishlist:item=410996590&perks=1820235745,4082225868#notes:PvE
-//Subsistence, Rampage
-dimwishlist:item=410996590&perks=1820235745,3425386926#notes:PvE
-//Subsistence, Dragonfly
-dimwishlist:item=410996590&perks=1820235745,2848615171#notes:PvE
-//Demo, Rampage
-dimwishlist:item=410996590&perks=3523296417,3425386926#notes:PvE
-//Demo, Swashbuckler
-dimwishlist:item=410996590&perks=3523296417,4082225868#notes:PvE/PvP
-//Demo, Dragonfly
-dimwishlist:item=410996590&perks=3523296417,2848615171#notes:PvE
-
-//Infinite Paths 8
-dimwishlist:item=-3233390913
-
-//Traveler's Judgement 5
-//Feeding Frenzy, Tap the Trigger
-dimwishlist:item=2779035018&perks=2779035018,1890422124#notes:PvP
-//Feeding Frenzy, Disruption Break
-dimwishlist:item=2779035018&perks=2779035018,1683379515#notes:PvE
-//Rapid Hit, Tap the Trigger
-dimwishlist:item=2779035018&perks=247725512,1890422124#notes:PvP
-//Auto-Loading, Disruption Break
-dimwishlist:item=2779035018&perks=3300816228,1683379515#notes:PvE
-
-//Line in the Sand
-//Rapid Hit, Firing Line
-dimwishlist:item=946443267&perks=247725512,1771339417#notes:PvE Godroll
-
-//Season 8
-
-//BrayTech Werewolf
-//Zen Moment, Multikill Clip
-dimwishlist:item=528834068&perks=2387244414,2458213969#notes:PvE
-//Dynamic Sway, Kill Clip
-dimwishlist:item=528834068&perks=1359896290,1015611457#notes:PvP
-
-//Pluperfect
-//Zen Moment, Rampage
-dimwishlist:item=1952163498&perks=2387244414,3425386926#notes:PvE
-//Outlaw, Kill Clip
-dimwishlist:item=1952163498&perks=1168162263,1015611457#notes:PvP lethality
-//Rangefinder, Dynamic Sway
-dimwishlist:item=1952163498&perks=2846385770,1359896290#notes:PvP consistecy
-
-//Temporal Clause
-//Firmly Planted, Rampage
-dimwishlist:item=3369545945&perks=280464955,3425386926#notes:PvE
-
-//Moon
-
-//Loud Lullaby
-//Outlaw, Multikill Clip
-dimwishlist:item=3924212056&perks=1168162263,2458213969#notes:PvE
-
-//Blasphemer
-//Quickdraw, Opening Shot
-dimwishlist:item=2782847179&perks=706527188,47981717#notes:PvP
-//Snapshot, Opening Shot
-dimwishlist:item=2782847179&perks=957782887,47981717#notes:PvP
-//Quickdraw, Swashbuckler
-dimwishlist:item=2782847179&perks=706527188,4082225868#notes:PvE
-
-//One Small Step
-dimwishlist:item=-1016668089#notes:perfect paradox is better
-
-//Tranquility
-//Auto-Loading, Firing Line
-dimwishlist:item=1645386487&perks=3300816228,1771339417#notes:PvE 2nd best roll
-//Field Prep, Firing Line
-dimwishlist:item=1645386487&perks=2869569095,1771339417#notes:PvE godroll
-//No Distractions, Firing Line
-dimwishlist:item=1645386487&perks=2866798147,1771339417#notes:PvE 3rd best roll, situational
-//No Distractions, Opening Shot
-dimwishlist:item=1645386487&perks=2866798147,47981717#notes:PvP
-
-//Arc Logic
-//Overflow, Rampage
-dimwishlist:item=2723909519&perks=3643424744,3425386926#notes:PvE godroll
-//Subsistence, Rampage
-dimwishlist:item=2723909519&perks=1820235745,3425386926#notes:PvE 2nd best roll
-//Moving Target, Rangefinder
-dimwishlist:item=2723909519&perks=588594999,3425386926#notes:PvP
-
-//Dream Breaker
-
-//Premonition
-//Outlaw, Kill Clip
-dimwishlist:item=208088207&perks=588594999,1015611457#notes:PvP
-//Firmly Planted, Dragonfly
-dimwishlist:item=208088207&perks=280464955,2848615171#notes:PvE godroll
-//Outlaw, Dragonfly
-dimwishlist:item=208088207&perks=1168162263,2848615171#notes:PvE 2nd best roll
-
-//Apostate
-//Moving Target, Snapshot
-dimwishlist:item=2164448701&perks=588594999,957782887#notes:PvP
-//Firmly Planted, Rapid Hit
-dimwishlist:item=2164448701&perks=280464955,247725512#notes:PvE
-
-//Every Waking Moment
-//Outlaw, Kill Clip
-dimwishlist:item=4277547616&perks=1168162263,1015611457#notes:PvP
-//Subsistence, Swashbuckler
-dimwishlist:item=4277547616&perks=1820235745,4082225868#notes:PvE godroll
-//Slideways, Swashbuckler
-dimwishlist:item=4277547616&perks=2039302152,4082225868#notes:PvE 2nd best roll
-
-//Love and Death
-//Spike Grenades, Field Prep, Full Court
-dimwishlist:item=3690523502&perks=3301904089,2869569095,2888557110#notes:PvE godroll
-
-//A Fine Memorial
-dimwishlist:item=-3325778512#notes:use Hammerhead, Avalanche or Delirium
-
-//Heretic
-dimwishlist:item=-3067821200
-
-//Night Terror
-//Relentless Strikes, Whirlwind Blade
-dimwishlist:item=3870811754&perks=1749209109,3913600130
-//Relentless Strikes, Assassin's Blade
-dimwishlist:item=3870811754&perks=1749209109,354401740
-
-//Vex Offensive
-
-//Imperative (High Impact Scout Rifle)
-//Outlaw, Multikill Clip
-dimwishlist:item=2314999489&perks=1168162263,2458213969#notes:PvE Godroll
-//No Distractions, Explosive Payload
-dimwishlist:item=2314999489&perks=2866798147,3038247973#notes:PvP flinch
-//No Distarctions, Opening Shot
-dimwishlist:item=2314999489&perks=2866798147,47981717#notes:PvP lethality
-//Subsistence, Rampage
-dimwishlist:item=2314999489&perks=1820235745,3425386926#notes:PvE 2nd best roll
-
-//Optative (Precision Hand Cannon)
-//Rapid Hit, Kill Clip
-dimwishlist:item=2138599001&perks=247725512,1015611457#notes:PvP
-//Rapid Hit, Demolitionist
-dimwishlist:item=2138599001&perks=247725512,3523296417#notes:PvE
-//Outlaw, Kill Clip
-dimwishlist:item=2138599001&perks=1168162263,1015611457#notes:PvP
-
-//Adhortative (Adaptive Pulse Rifle)
-//Feeding Frenzy, Multikill Clip
-dimwishlist:item=1167153950&perks=2779035018,2458213969#notes:PvE Godroll
-//Feeding Frenzy, Dragonfly
-dimwishlist:item=1167153950&perks=2779035018,2848615171#notes:PvE 2nd best roll
-//Feeding Frenzy, Rampage
-dimwishlist:item=1167153950&perks=2779035018,3425386926#notes:PvE 2nd best roll
-//Firmly Planted, Rangefinder
-dimwishlist:item=1167153950&perks=280464955,2846385770#notes:PvP
-
-//Subjunctive (Lightweight SMG)
-//Outlaw, Multikill Clip
-dimwishlist:item=2663204025&perks=1168162263,2458213969#notes:PvE
-//Quickdraw, Swashbuckler
-dimwishlist:item=2663204025&perks=706527188,4082225868#notes:PvP
-//Outlaw, Rampage
-dimwishlist:item=2663204025&perks=1168162263,3425386926#notes:PvE
-//Threat Detector, Surrounded
-dimwishlist:item=2663204025&perks=4071163871,3708227201#notes:PvE
-//Threat Detector, Swashbuckler
-dimwishlist:item=2663204025&perks=4071163871,4082225868#notes:PvE
-
-//menagerie
-
-//Throne-Cleaver
-//Relentless Strikes, Counterattack
-dimwishlist:item=569799273&perks=1749209109,3016987351#notes:PvP/PvE
-//Relentless Strikes, Whirlwind Blade
-dimwishlist:item=569799273&perks=1749209109,3913600130#notes:PvP/PvE
-//Relentless Strikes, Assassins Blade
-dimwishlist:item=569799273&perks=1749209109,354401740#notes:PvP/PvE
-//Tireless Blade, Counterattack
-dimwishlist:item=569799273&perks=2590710093,3016987351#notes:PvP/PvE
-//Tireless Blade, Assassins Blade
-dimwishlist:item=569799273&perks=2590710093,354401740#notes:PvP/PvE
-
-//Goldtusk 
-//Relentless Strikes, Whirlwind Blade
-dimwishlist:item=569799275&perks=1749209109,3913600130#notes:PvP/PvE
-//Relentless Strikes, Assassins Blade
-dimwishlist:item=569799275&perks=1749209109,354401740#notes:PvP/PvE
-//Relentless Strikes, Surrounded
-dimwishlist:item=569799275&perks=1749209109,3708227201#notes:PvP/PvE
-
-//Death's Razor
-//Relentless Strikes, Whirlwind Blade
-dimwishlist:item=569799274&perks=1749209109,3913600130#notes:PvP/PvE
-//Relentless Strikes, Assassins Blade
-dimwishlist:item=569799274&perks=1749209109,354401740#notes:PvP/PvE
-//Energy Transfer, Assassin's Blade
-dimwishlist:item=569799274&perks=2030760728,354401740#notes:PvP/PvE
-
-//Austringer (Kinetic Adaptive Hand Cannon)
-//Snapshot, Rangefinder
-dimwishlist:item=2429822977&perks=957782887,2846385770#notes:PvP
-//Outlaw, Rangefinder
-dimwishlist:item=2429822977&perks=1168162263,2846385770#notes:PvP
-//Outlaw, Rampage
-dimwishlist:item=2429822977&perks=1168162263,5342538692667#notes:PvE
-//Subsistence, Rampage
-dimwishlist:item=2429822977&perks=1820235745,3425386926#notes:PvE
-//Triple Tap, Rampage
-dimwishlist:item=2429822977&perks=3400784728,3425386926#notes:PvE
-
-//Imperial Decree (Kinetic Aggressive Shotgun)
-//Feeding Frenzy, Trench Barrel
-dimwishlist:item=2919334548&perks=2779035018,2360754333#notes:PvE
-//Slideshot, Trench Barrel
-dimwishlist:item=2919334548&perks=3161816588,2360754333#notes:PvE
-
-//The Epicurean (Void Precision Fusion Rifle)
-
-//Drang (Baroque)
-//Quickdraw, Zen Moment
-dimwishlist:item=79075821&perks=706527188,2387244414#notes:PvP
-//Full Auto, Rampage
-dimwishlist:item=79075821&perks=4267945040,3425386926#notes:PvE
-//Full Auto, Swashbuckler
-dimwishlist:item=79075821&perks=4267945040,4082225868#notes:PvE
-//Disruption Break, Shield Disorient
-dimwishlist:item=79075821&perks=1683379515,3275789089#notes:PvE situational
-//Quickdraw, Snapshot
-dimwishlist:item=79075821&perks=706527188,2360754333#notes:PvP
-
-//Beloved
-//Snapshot, Quickdraw
-dimwishlist:item=4190932264&perks=957782887,706527188#notes:PvP
-//No Distratcions, Box Breathing
-dimwishlist:item=4190932264&perks=2866798147,2551157718#notes:PvP
-
-//Calus Mini-Tool
-//Moving Target, Feeding Frenzy
-dimwishlist:item=174192097&perks=588594999,2779035018#notes:PvP
-//Moving Target, Tap the Trigger
-dimwishlist:item=174192097&perks=588594999,1890422124#notes:PvP
-
-//Fixed Odds
-//Quickdraw, Tap the Trigger
-dimwishlist:item=1642384931&perks=706527188,1890422124#notes:PvP
-//Feeding Frenzy, Rampage
-dimwishlist:item=1642384931&perks=2779035018,3425386926#notes:PvP
-//No Distractions, Rangefinder
-dimwishlist:item=1642384931&perks=588594999,2846385770#notes:PvP
-
-//reckoning
-
-//Spare Rations
-//Rapid Hit, Kill Clip
-dimwishlist:item=3116356268&perks=247725512,1015611457#notes:PvP lethality
-//Snapshot, Kill Clip
-dimwishlist:item=3116356268&perks=957782887,1015611457#notes:PvP lethality
-//Rapid Hit, Multikill Clip
-dimwishlist:item=3116356268&perks=247725512,2458213969#notes:PvE
-//Subsistence, Rampage
-dimwishlist:item=3116356268&perks=1820235745,3425386926#notes:PvE
-//Rapid Hit, Rangefinder
-dimwishlist:item=3116356268&perks=247725512,2846385770#notes:PvP consistency
-//Snapshot, Rangefinder
-dimwishlist:item=3116356268&perks=957782887,2846385770#notes:PvP consistency
-
-//Night Watch
-//Rapid Hit, Explosive
-dimwishlist:item=3504336176&perks=247725512,3038247973#notes:PvP
-//Rapid Hit, Multikill Clip
-dimwishlist:item=3504336176&perks=247725512,2458213969#notes:PvE
-//Subsistence, Rampage
-dimwishlist:item=3504336176&perks=1820235745,3425386926#notes:PvE
-//Outlaw, Multikill Clip
-dimwishlist:item=3504336176&perks=1168162263,2458213969#notes:PvE
-
-//Lonesome
-//Full-Auto, Kill Clip
-dimwishlist:item=2199171672&perks=4267945040,1015611457#notes:PvP
-//Grave Robber, Swashbuckler
-dimwishlist:item=2199171672&perks=1631667848,4082225868#notes:PvE
-//Zen Moment, Kill Clip
-dimwishlist:item=2199171672&perks=2387244414,1015611457#notes:PvP
-//Full-Auto, Demolitionist
-dimwishlist:item=2199171672&perks=4267945040,3523296417#notes:PvE/PvP
-//Full-Auto, Multikill-Clip
-dimwishlist:item=2199171672&perks=4267945040,2458213969#notes:PvE
-//Zen Moment, Demolitionist
-dimwishlist:item=2199171672&perks=2387244414,3523296417#notes:PvE/PvP
-
-//Gnawing Hunger
-//Overflow, Rampage
-dimwishlist:item=821154603&perks=3643424744,3425386926#notes:PvE
-//Tap the Trigger, Kill Clip
-dimwishlist:item=821154603&perks=1890422124,1015611457#notes:PvP
-//Tap the Trigger, Multikill Clip
-dimwishlist:item=821154603&perks=2387244414,2458213969#notes:PvP
-//Subsistence, Rampage
-dimwishlist:item=821154603&perks=1820235745,3425386926#notes:PvE
-//Subsistence, Swashbuckler
-dimwishlist:item=821154603&perks=1820235745,4082225868#notes:PvE
-//Zen Moment, Demolitionist
-dimwishlist:item=821154603&perks=2387244414,3523296417#notes:PvP
-
-//Outlast
-//Full-Auto, Kill Clip
-dimwishlist:item=299665907&perks=4267945040,1015611457#notes:PvP
-//Full-Auto, Rampage
-dimwishlist:item=299665907&perks=4267945040,3425386926#notes:PvE
-//Feeding Frenzy, Kill Clip
-dimwishlist:item=299665907&perks=2779035018,1015611457#notes:PvP
-//Feeding Frenzy, Rampage
-dimwishlist:item=299665907&perks=2779035018,3425386926#notes:PvE
-//Full-Auto, Demolitionist
-dimwishlist:item=299665907&perks=4267945040,3523296417#notes:PvP/PvE
-
-//Last Man Standing
-//Grave Robber, One-Two Punch
-dimwishlist:item=755130877&perks=1631667848,2679249093#notes:PvE
-
-//Sole Survivor
-//Triple Tap, Firing Line
-dimwishlist:item=1115104187&perks=3400784728,1771339417#notes:PvE
-//Snapshot, Opening Shot
-dimwishlist:item=1115104187&perks=957782887,47981717#notes:PvP
-
-//Bug-Out Bag
-//Slideways, Multikill Clip
-dimwishlist:item=2744715540&perks=2039302152,2458213969#notes:PvP
-//Subsistence, Swashbuckler
-dimwishlist:item=2744715540&perks=1820235745,4082225868#notes:PvP
-//Grave Robber, Swashbuckler
-dimwishlist:item=2744715540&perks=1631667848,4082225868#notes:PvP
-//Zen Moment, Demolitionist
-dimwishlist:item=2744715540&perks=2387244414,3523296417#notes:PvP
-
-//Doomsday
-//Spike Nades, Field Prep, Full Court
-dimwishlist:item=736901634&perks=3301904089,2869569095,2888557110#notes:PvP
-//Spike Nades, Field Prep, Demolitionist
-dimwishlist:item=736901634&perks=3301904089,2869569095,3523296417#notes:PvP
-//Proximity Nades, Snapshot, Quickdraw
-dimwishlist:item=736901634&perks=409831596,957782887,706527188#notes:PvP
-
-//Just in Case
-//Relentless Strikes, Whirlwind Blade
-dimwishlist:item=715338174&perks=1749209109,3913600130#notes:PvP
-//Relentless Strikes, Assassin's Blade
-dimwishlist:item=715338174&perks=1749209109,354401740#notes:PvP
-
-//Season 5
-
-//The Vow
-dimwishlist:item=2009106091
-
-//Avalanche
-//Feeding Frenzy, Rampage
-dimwishlist:item=66875353&perks=2779035018,3425386926#notes:PvE
-
-//Black Armory
-
-//The Spiteful Fang (Kinetic Lightweight Bow)
-//Archer's Tempo, Rampage
-dimwishlist:item=421573768&perks=201365942,3425386926#notes:PvP max lethality
-//Moving Target, Explosive Head
-dimwishlist:item=421573768&perks=588594999,3365897133#notes:PvP max lethality
-
-//Bad News XF4354 (Kinetic Aggressive Hand Cannon)
-//Outlaw, Kill Clip
-dimwishlist:item=2824241403&perks=1168162263,1015611457#notes:PvP lethality
-//Rangefinder, Opening Shot
-dimwishlist:item=2824241403&perks=2846385770,47981717#notes:PvP consistency
-
-//Blast Furnace (Kinetic Aggressive Pulse Rifle)
-//Feeding Frenzy, Rampage
-dimwishlist:item=3843477312&perks=2779035018,3425386926#notes:PvE
-//Feeding Frenzy, Kill Clip
-dimwishlist:item=3843477312&perks=2779035018,1015611457#notes:PvP
-
-//Baligant XU7743 (Kinetic Aggressive Shotgun)
-//Slideshot, Snapshot
-dimwishlist:item=3461377698&perks=3161816588,957782887#notes:PvP (preferably Astral Horizon)
-
-//Show of Force XF4865 (Kinetic Aggressive Sniper Rifle)
-dimwishlist:item=-4148143418
-
-//Atalanta-D XG1992
-//Snapshot, Kill Clip
-dimwishlist:item=2422664927&perks=957782887,1015611457#notes:PvP lethality
-//Zen Moment, Kill Clip
-dimwishlist:item=2422664927&perks=2387244414,1015611457#notes:PvP lethality
-//Moving Target, Tap the Trigger
-dimwishlist:item=2422664927&perks=588594999,1890422124#notes:PvP consistency
-//Moving Target, Kill Clip
-dimwishlist:item=2422664927&perks=588594999,1015611457#notes:PvP lethality
-//Snapshot, Tap the Trigger
-dimwishlist:item=2422664927&perks=957782887,1890422124#notes:PvP consistency
-
-//Galliard-42 XN7568 (Solar Adaptive Auto Rifle)
-//Outlaw, KillClip
-dimwishlist:item=1775804198&perks=1168162263,1015611457#notes:PvP max lethality
-//Outlaw, Rampage
-dimwishlist:item=1775804198&perks=1168162263,3425386926#notes:PvE max lethality
-//Dynamic Sway, Rangefinder
-dimwishlist:item=1775804198&perks=1359896290,2846385770#notes:PvE/PvP consistency/range
-//Dynamic Sway, Kill Clip
-dimwishlist:item=1775804198&perks=1359896290,1015611457#notes:PvP consitency/lethality
-//Dynamic Sway, Rampage
-dimwishlist:item=1775804198&perks=1359896290,3425386926#notes:PvE consistency/lethality
-
-//The Ringing Nail (Solar Precision Auto Rifle)
-//Dragonfly, Rampage
-dimwishlist:item=93253474&perks=2848615171,3425386926#notes:PvE
-//Shield Disorient, Disruption Break
-dimwishlist:item=93253474&perks=3275789089,1683379515#notes:PvE
-//Zen Moment, Kill Clip
-dimwishlist:item=93253474&perks=2387244414,1015611457#notes:PvP
-//Quickdraw, Tap the Trigger
-dimwishlist:item=93253474&perks=706527188,1890422124#notes:PvP
-
-//Kindled Orchid (Void Adaptive Hand Cannon)
-//Kill Clip, Rampage
-dimwishlist:item=2575506895&perks=1015611457,3425386926#notes:PvP/PvE
-//Shield Disorient, Disruption Break
-dimwishlist:item=2575506895&perks=3275789089,1683379515#notes:PvE
-//Kill Clip, Rapid Hit
-dimwishlist:item=2575506895&perks=1015611457,247725512#notes:PvP
-//Outlaw, Rampage
-dimwishlist:item=2575506895&perks=1168162263,3425386926#notes:PvE
-//Quickdraw, Explosive
-dimwishlist:item=2575506895&perks=706527188,3038247973#notes:PvP
-
-//Swift Ride XE8375 (Arc Adaptive Scout Rifle)
-//Outlaw, Kill Clip
-dimwishlist:item=1386601612&perks=1168162263,1015611457#notes:PvP
-//Outlaw, Rampage
-dimwishlist:item=1386601612&perks=1168162263,3425386926#notes:PvE
-
-//Tango-45 XK5094 (Solar Precision Scout Rifle)
-//Triple Tap, Dragonfly
-dimwishlist:item=20025671&perks=3400784728,2848615171#notes:PvE
-//Zen Moment, Explosive Payload
-dimwishlist:item=20025671&perks=2387244414,3038247973#notes:PvP
-
-//Dead Man Walking XX7463 (Solar Suros Rapid Fire Sidearm)
-//Quickdraw, Opening Shot
-dimwishlist:item=3751622019&perks=706527188,47981717#notes:PvP
-//Outlaw, Kill Clip
-dimwishlist:item=3751622019&perks=1168162263,1015611457#notes:PvP
-//Outlaw, Rampage
-dimwishlist:item=3751622019&perks=1168162263,3425386926#notes:PvP
-
-//Tatara Gaze (Arc Aggressive Sniper Rifle)
-dimwishlist:item=-1449922174
-
-//Acantha-D XK8434 (Arc Rapid Fire Grenade Launcher)
-//Proximity Nades, Snapshot, Quickdraw
-dimwishlist:item=1757129747&perks=409831596,957782887,706527188#notes:PvP
-
-//Hammerhead (Void Adaptive Machine Gun)
-//Feeding Frenzy, Rampage
-dimwishlist:item=603242241&perks=2779035018,3425386926#notes:PvP
-//Tap the Trigger, High Impact Reserves
-dimwishlist:item=603242241&perks=1890422124,2213355989#notes:PvP
-
-//Hoosegow XE5837 (Solar Adpative Rocket Launcher)
-dimwishlist:item=-2817798849
-
-//Stryker's Surehand (Arc Adpative Sword)
-//Relentless Strikes, Whirlwind Blade
-dimwishlist:item=3704653637&perks=1749209109,3913600130#notes:PvP/PvE
-//Relentless Strikes, Surrounded
-dimwishlist:item=3704653637&perks=1749209109,3708227201#notes:PvP/PvE
-//Assassin's Blade, Whirlwind Blade
-dimwishlist:item=3704653637&perks=354401740,3913600130#notes:PvP/PvE
-//Assassin's Blade, Surrounded
-dimwishlist:item=3704653637&perks=354401740,3708227201#notes:PvP/PvE
-
-//Season 4
-
-//No Turning Back
-
-//Duke Mk. 44
-
-//Ten Paces
-
-//Go Figure
-//Firmly Planted, Headseeker
-dimwishlist:item=4138174248&perks=280464955,460017080#notes:pvp or gambit
-//Outlaw, Kill Clip
-dimwishlist:item=4138174248&perks=1168162263,1015611457#notes:pvp or gambit
-//Outlaw, Rampage
-dimwishlist:item=4138174248&perks=1168162263,3425386926#notes:pvp or gambit
-
-//Smuggler's Word
-//Quickdraw, Opening Shot
-dimwishlist:item=1843044399&perks=706527188,47981717#notes:PvP Quickdraw
-//Full-Auto, Rampage
-dimwishlist:item=1843044399&perks=4267945040,3425386926#notes:PvE
-//Moving Target, Kill Clip
-dimwishlist:item=1843044399&perks=588594999,1015611457#notes:PvP
-
-//Subtle Calamity
-
-//Arsenic Bite-4b
-
-//Misfit
-//Dynamic Sway, High Impact Reserves
-dimwishlist:item=819441402&perks=1359896290,2213355989#notes:PvP
-//Quickdraw, Moving Target
-dimwishlist:item=819441402&perks=706527188,588594999#notes:PvP Quickdraw
-//Zen Moment, Rampage
-dimwishlist:item=819441402&perks=2387244414,3425386926#notes:PvE
-
-//The Cut and Run
-
-//Badlander
-
-//Translation Theory
-
-//Bad Reputation
-
-//Edge Transit
-
-//Through Fire and Blood
+//0_festival_of_the_lost
+//WIP_0_crucible
+//WIP_0_gambit
+//WIP_0_iron_banner
+//WIP_0_nightfall
+//WIP_0_pinnacle
+//WIP_0_vanguard
+//17_duality
+//17_haunted
+//17_opulent
+//17_season
+//18_kings_fall
+//18_plunder
+//18_season
+
+
+//0_festival_of_the_lost
+
+// BrayTech Werewolf (PvE)
+//notes:PvE-
+dimwishlist:item=2869466318&perks=,1820235745,1774574192
+dimwishlist:item=2869466318&perks=,691659142,4082225868
+
+// Jurassic Green (PvE)
+//notes:PvE-
+dimwishlist:item=2603335652&perks=,1820235745,4293542123
+dimwishlist:item=2603335652&perks=,1820235745,1048183818
+dimwishlist:item=2603335652&perks=,1820235745,11612903
+
+// Jurassic Green (PvP)
+//notes:PvP-
+dimwishlist:item=2603335652&perks=,2846385770,2610012052
+dimwishlist:item=2603335652&perks=,1428297954,2610012052
+
+// Mechabre (PvP)
+//notes:PvP-
+dimwishlist:item=1280894514&perks=,957782887,588594999
+dimwishlist:item=1280894514&perks=,957782887,47981717
+dimwishlist:item=1280894514&perks=,957782887,2213355989
+
+
+//0_crucible
+
+// Out of Bounds (PvE)
+//notes:PvE-
+dimwishlist:item=2988121501&perks=,3523296417,11612903
+dimwishlist:item=2988121501&perks=,1631667848,4082225868
+
+// Out of Bounds (PvP)
+//notes:PvP-
+dimwishlist:item=2988121501&perks=,1428297954,2846385770
+dimwishlist:item=2988121501&perks=,1428297954,2610012052
+dimwishlist:item=2988121501&perks=,1428297954,1015611457
+
+// Riptide (PvE)
+//notes:PvE-
+dimwishlist:item=2715240478&perks=,1428297954,2978966579
+dimwishlist:item=2715240478&perks=,2779035018,2978966579
+dimwishlist:item=2715240478&perks=,3300816228,2978966579
+dimwishlist:item=2715240478&perks=,2779035018,4104185692
+dimwishlist:item=2715240478&perks=,1428297954,4104185692
+dimwishlist:item=2715240478&perks=,1428297954,3523296417
+dimwishlist:item=2715240478&perks=,3300816228,3523296417
+dimwishlist:item=2715240478&perks=,2779035018,3523296417
+
+// Riptide (PvP)
+//notes:PvP-
+dimwishlist:item=2715240478&perks=,1645158859,2610012052
+
+
+//0_gambit
+
+// Yesteryear (PvE)
+//notes:PvE-
+dimwishlist:item=1141927949&perks=,1820235745,776531651
+dimwishlist:item=1141927949&perks=,1820235745,2610012052
+dimwishlist:item=1141927949&perks=,1168162263,3047969693
+dimwishlist:item=1141927949&perks=,1428297954,3047969693
+
+// Yesteryear (PvP)
+//notes:PvP-
+dimwishlist:item=1141927949&perks=,1168162263,3047969693
+dimwishlist:item=1141927949&perks=,1428297954,3047969693
+dimwishlist:item=1141927949&perks=,1428297954,2610012052
+
+// Dead Weight (PvE)
+//notes:PvE-
+dimwishlist:item=3738678140&perks=,1631667848,2679249093
+dimwishlist:item=3738678140&perks=,1820235745,2360754333
+dimwishlist:item=3738678140&perks=,2779035018,2360754333
+dimwishlist:item=3738678140&perks=,1428297954,4104185692
+
+
+//0_iron_banner
+
+// Roar of the Bear (PvE)
+//notes:PvE-
+dimwishlist:item=4009352833&perks=,3977735242,1275731761
+dimwishlist:item=4009352833&perks=,951095735,1275731761
+dimwishlist:item=4009352833&perks=,2010801679,1275731761
+dimwishlist:item=4009352833&perks=,2869569095,1275731761
+
+// Roar of the Bear (PvP)
+//notes:PvP-
+dimwishlist:item=4009352833&perks=,957782887,1275731761
+
+// Allied Demand (PvE)
+//notes:PvE-
+dimwishlist:item=1532276803&perks=,1820235745,4104185692
+
+// Allied Demand (PvP)
+//notes:PvP-
+dimwishlist:item=1532276803&perks=,2846385770,1365187766
+
+// The Wizened Rebuke
+dimwishlist:item=-1999697514
+
+// The Hero's Burden (PvP)
+//notes:PvP-
+dimwishlist:item=2488587246&perks=,2779035018,1015611457
+
+// The Hero's Burden (PvE)
+//notes:PvE-
+dimwishlist:item=2488587246&perks=,2779035018,776531651
+
+
+//0_vanguard
+
+// Pure Poetry (PvE)
+//notes:PvE-
+dimwishlist:item=2671639706&perks=,1428297954,1774574192
+dimwishlist:item=2671639706&perks=,2010801679,4104185692
+
+// Strident Whistle (PvE)
+//notes:PvE-
+dimwishlist:item=2591241074&perks=,201365942,4293542123
+dimwishlist:item=2591241074&perks=,201365942,2848615171
+
+
+//17_duality
+
+// Lingering Dread (PvE)
+//notes:PvE-
+dimwishlist:item=2026087437&perks=,2010801679,2978966579
+dimwishlist:item=2026087437&perks=,3300816228,2978966579
+dimwishlist:item=2026087437&perks=,3300816228,3523296417
+dimwishlist:item=2026087437&perks=,2010801679,3523296417
+
+// New Purpose (PvE)
+//notes:PvE-
+dimwishlist:item=1780464822&perks=,1428297954,3047969693
+dimwishlist:item=1780464822&perks=,2779035018,3047969693
+dimwishlist:item=1780464822&perks=,1428297954,124408337
+dimwishlist:item=1780464822&perks=,1428297954,1048183818
+
+// The Epicurean (PvP)
+//notes:PvP-
+dimwishlist:item=2263839058&perks=,706527188,1600092898
+dimwishlist:item=2263839058&perks=,1961144892,828056542
+dimwishlist:item=2263839058&perks=,957782887,2846385770
+dimwishlist:item=2263839058&perks=,4116820839,509594246
+
+// The Epicurean (PvE)
+//notes:PvE-
+dimwishlist:item=2263839058&perks=,3436462433,776531651
+dimwishlist:item=2263839058&perks=,2658083589,2541826827
+
+// Unforgiven (PvE)
+//notes:PvE-
+dimwishlist:item=3000847393&perks=,3523296417,11612903
+dimwishlist:item=3000847393&perks=,3523296417,776531651
+dimwishlist:item=3000847393&perks=,2779035018,4104185692
+
+// Stormchaser (PvE)
+//notes:PvE-
+dimwishlist:item=3652506829&perks=,3300816228,1771339417
+dimwishlist:item=3652506829&perks=,2284787283,1771339417
+dimwishlist:item=3652506829&perks=,2284787283,4104185692
+
+// Fixed Odds (PvE)
+//notes:PvE-
+dimwishlist:item=2194955522&perks=,2779035018,4293542123
+dimwishlist:item=2194955522&perks=,1171147302,2675184851
+
+
+//17_haunted
+
+// Firefright (PvE)
+//notes:PvE-
+dimwishlist:item=2778013407&perks=,4071163871,1774574192
+dimwishlist:item=2778013407&perks=839105230,1561002382,494941759,777774560
+
+// Tears of Contrition (PvE)
+//notes:PvE-
+dimwishlist:item=1366394399&perks=,3400784728,3038247973
+dimwishlist:item=1366394399&perks=839105230,3142289711,573122728,64866129
+
+// Tears of Contrition (PvP)
+//notes:PvP-
+dimwishlist:item=1366394399&perks=839105230,3142289711,2014892510,64866129
+
+// Nezarec's Whisper (PvE)
+//notes:PvE-
+dimwishlist:item=254636484&perks=,3523296417,11612903
+dimwishlist:item=254636484&perks=,1906147653,2422968039
+dimwishlist:item=254636484&perks=,3523296417,4104185692
+dimwishlist:item=254636484&perks=,1906147653,3007133316
+
+// Hollow Denial (PvE)
+//notes:PvE-
+dimwishlist:item=2323544076&perks=,3436462433,557221067
+dimwishlist:item=2323544076&perks=,1048183818,557221067
+dimwishlist:item=2323544076&perks=,3436462433,776531651
+dimwishlist:item=2323544076&perks=,2658083589,2541826827
+dimwishlist:item=2323544076&perks=,2658083589,2896748467
+
+// Bump in the Night (PvE)
+//notes:PvE-
+dimwishlist:item=1959650777&perks=,2822142346,3977735242,2396489472
+dimwishlist:item=1959650777&perks=,2822142346,406461158,598607952
+dimwishlist:item=1959650777&perks=,2822142346,3300816228,2978966579
+dimwishlist:item=1959650777&perks=,2822142346,3528046508,344235611
+dimwishlist:item=1959650777&perks=,2822142346,3977735242,2978966579
+dimwishlist:item=1959650777&perks=,2822142346,406461158,344235611
+
+// Without Remorse (PvE)
+//notes:PvE-
+dimwishlist:item=1478986057&perks=,4071163871,2679249093
+dimwishlist:item=1478986057&perks=,494941759,788178929
+dimwishlist:item=1478986057&perks=,4071163871,4293542123
+dimwishlist:item=1478986057&perks=,494941759,2675184851
+
+
+//17_opulent
+
+// Austringer (PvP)
+//notes:PvP-
+dimwishlist:item=3055790362&perks=,957782887,2846385770
+dimwishlist:item=3055790362&perks=,4116820839,509594246
+
+// Austringer (PvE)
+//notes:PvE-
+dimwishlist:item=3055790362&perks=,1168162263,4104185692
+dimwishlist:item=3055790362&perks=,1347741687,3007133316
+dimwishlist:item=3055790362&perks=,1168162263,3523296417
+dimwishlist:item=3055790362&perks=,1347741687,1906147653
+
+// Drang (Baroque) (PvE)
+//notes:PvE-
+dimwishlist:item=502356570&perks=,1683379515,4293542123
+dimwishlist:item=502356570&perks=,2216471363,2675184851
+dimwishlist:item=502356570&perks=,3592538738,4293542123
+dimwishlist:item=502356570&perks=,2675361166,2675184851
+
+// Drang (Baroque) (PvP)
+//notes:PvP-
+dimwishlist:item=502356570&perks=,588594999,4293542123
+dimwishlist:item=502356570&perks=,2717805783,2675184851
+dimwishlist:item=502356570&perks=,588594999,2209918983
+dimwishlist:item=502356570&perks=,2717805783,2000295559
+
+// Beloved (PvP)
+//notes:PvP-
+dimwishlist:item=3107853529&perks=,957782887,2551157718
+dimwishlist:item=3107853529&perks=,4116820839,23371658
+
+// Beloved (PvE)
+//notes:PvE-
+dimwishlist:item=3107853529&perks=,1354429876,4293542123
+dimwishlist:item=3107853529&perks=,848860060,2675184851
+dimwishlist:item=3107853529&perks=,3436462433,4293542123
+dimwishlist:item=3107853529&perks=,2658083589,2675184851
+
+// CALUS Mini-Tool (PvE)
+//notes:PvE-
+dimwishlist:item=2490988246&perks=839105230,3142289711,3108830275,4293542123
+dimwishlist:item=2490988246&perks=839105230,3142289711,855168139,2675184851
+
+
+//17_season
+
+// Lunulata-4b (PvE)
+//notes:PvE-
+dimwishlist:item=2513965917&perks=,2846385770,124408337
+
+// Lunulata-4b (PvP)
+//notes:PvP-
+dimwishlist:item=2513965917&perks=,2846385770,124408337
+dimwishlist:item=2513965917&perks=,2846385770,2610012052
+
+// Enyo-D (PvE)
+//notes:PvE-
+dimwishlist:item=1601177201&perks=,2779035018,2458213969
+dimwishlist:item=1601177201&perks=,2779035018,3425386926
+dimwishlist:item=1601177201&perks=,2779035018,3708227201
+
+// Staccato-46 (PvE)
+//notes:PvE-
+dimwishlist:item=4019668921&perks=,1168162263,4293542123
+
+// Staccato-46 (PvP)
+//notes:PvP-
+dimwishlist:item=4019668921&perks=,1168162263,3038247973
+
+// Gallu RR3 (PvE)
+//notes:
+dimwishlist:item=-617501162
+
+
+//18_kings_fall
+
+// Smite of Merain (PvE)
+//notes:PvE-
+dimwishlist:item=2221264583&perks=,3523296417,11612903
+dimwishlist:item=2221264583&perks=,3523296417,3824105627
+dimwishlist:item=2221264583&perks=,1906147653,1183436451
+dimwishlist:item=2221264583&perks=,1906147653,2422968039
+
+// Doom of Chelchis (PvE)
+//notes:PvE-
+dimwishlist:item=1937552980&perks=,3824105627,2848615171
+dimwishlist:item=1937552980&perks=,1183436451,169755979
+dimwishlist:item=1937552980&perks=,1048183818,4104185692
+
+// Doom of Chelchis (PvP)
+//notes:PvP-
+dimwishlist:item=1937552980&perks=,3038247973,3108830275
+
+// Zaouli's Bane (PvE)
+//notes:PvE-
+dimwishlist:item=431721920&perks=,3038247973,4293542123
+dimwishlist:item=431721920&perks=,64866129,2675184851
+
+// Midha's Reckoning (PvP)
+//notes:PvP-
+dimwishlist:item=3969066556&perks=,1600092898,1754714824
+
+// Defiance of Yasmin (PvE)
+//notes:PvE-
+dimwishlist:item=3228096719&perks=,1556840489,1771339417
+dimwishlist:item=3228096719&perks=,3442762221,395388285
+
+// Defiance of Yasmin (PvP)
+//notes:PvP-
+dimwishlist:item=3228096719&perks=,957782887,588594999
+dimwishlist:item=3228096719&perks=,4116820839,2717805783
+
+// Qullim's Terminus (PvE)
+//notes:PvE-
+dimwishlist:item=1321506184&perks=,3108830275,124408337
+dimwishlist:item=1321506184&perks=,3108830275,3824105627
+dimwishlist:item=1321506184&perks=,855168139,1183436451
+dimwishlist:item=1321506184&perks=,855168139,1171887445
+
+
+//18_plunder
+
+// Tarnished Mettle (PvE)
+//notes:PvE-
+dimwishlist:item=2218569744&perks=,3523296417,2173046394
+dimwishlist:item=2218569744&perks=,1906147653,1720528630
+
+// Tarnished Mettle (PvP)
+//notes:PvP-
+dimwishlist:item=2218569744&perks=,588594999,3038247973
+dimwishlist:item=2218569744&perks=,2717805783,64866129
+
+// Blood Feud (PvE)
+//notes:PvE-
+dimwishlist:item=1509167284&perks=,2010801679,124408337
+dimwishlist:item=1509167284&perks=,3797647183,1171887445
+dimwishlist:item=1509167284&perks=,2010801679,4104185692
+dimwishlist:item=1509167284&perks=,3797647183,3007133316
+dimwishlist:item=1509167284&perks=,691659142,4082225868
+dimwishlist:item=1509167284&perks=,536173722,1161469972
+
+// No Reprieve (PvE)
+//notes:PvE-
+dimwishlist:item=2531963421&perks=,1168162263,124408337
+dimwishlist:item=2531963421&perks=,1347741687,1171887445
+dimwishlist:item=2531963421&perks=,691659142,4082225868
+dimwishlist:item=2531963421&perks=,536173722,1161469972
+
+// Sailspy Pitchglass (PvE)
+//notes:PvE-
+dimwishlist:item=1184309824&perks=,2621346526,4104185692
+dimwishlist:item=1184309824&perks=,2495011826,3007133316
+dimwishlist:item=1184309824&perks=,2284787283,4104185692
+dimwishlist:item=1184309824&perks=,3563868667,3007133316
+
+// Brigand's Law (PvE)
+//notes:PvE-
+dimwishlist:item=1298815317&perks=,691659142,4082225868
+dimwishlist:item=1298815317&perks=,536173722,1161469972
+dimwishlist:item=1298815317&perks=,1428297954,3523296417
+dimwishlist:item=1298815317&perks=,2014892510,1906147653
+dimwishlist:item=1298815317&perks=,1428297954,2173046394
+dimwishlist:item=1298815317&perks=,2014892510,1720528630
+
+// Brigand's Law (PvP)
+//notes:PvP-
+dimwishlist:item=1298815317&perks=,1428297954,2846385770
+dimwishlist:item=1298815317&perks=,2014892510,509594246
+
+// Planck's Stride (PvP)
+//notes:PvP-
+dimwishlist:item=820890091&perks=,1428297954,2726471870
+dimwishlist:item=820890091&perks=,2014892510,1172413778
+
+
+//18_season
+
+// Taipan-4fr (PvE)
+//notes:PvE-
+dimwishlist:item=1911060537&perks=839105230,1687452232,573122728,395388285
+dimwishlist:item=1911060537&perks=839105230,1687452232,573122728,3007133316
+
+// Boudica-C (PvE)
+//notes:PvE-
+dimwishlist:item=1916287826&perks=,691659142,4082225868
+dimwishlist:item=1916287826&perks=,2010801679,4104185692
+dimwishlist:item=1916287826&perks=,2010801679,1774574192
+
+// Boudica-C (PvP)
+//notes:PvP-
+dimwishlist:item=1916287826&perks=,588594999,4104185692
+
+// Pizzicato-22 (PvE)
+//notes:PvE-
+dimwishlist:item=4100775158&perks=,2010801679,1774574192
+dimwishlist:item=4100775158&perks=,2010801679,3523296417
+
+// Pizzicato-22 (PvP)
+//notes:PvP-
+dimwishlist:item=4100775158&perks=,1428297954,2846385770
+
+// Ammit AR2 (PvE)
+//notes:PvE-
+dimwishlist:item=2119346509&perks=839105230,1561002382,3797647183,2675184851
