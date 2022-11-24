@@ -37,6 +37,7 @@ dimwishlist:item=3055192515&perks=3275789089,1683379515#notes:PvE situational
 //Jian 7 Rifle
 //Full-Auto, Rampage
 dimwishlist:item=1162247618&perks=4267945040,3425386926#notes:PvE
+//Disruption Break, Dragonfly
 
 //Distant Tumulus
 //Clown Cartridge, Firing Line
