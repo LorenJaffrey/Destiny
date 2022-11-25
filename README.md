@@ -3,25 +3,26 @@
 ## ToC
 
 - [ ] Activities
-    - [ ] pinnacle
-    - [ ] iron_banner
-    - [ ] crucible
-    - [ ] vanguard
-    - [ ] gambit
-    - [ ] nightfall
-- [ ] Season 11
-    - [ ] prophecy
-    - [ ] contact
-    - [x] season_11
-- [ ] Season 10
-    - [x] season_10
-    - [ ] trials
-    - [x] seventh_seraph
-- [x] Season 9
-    - [x] season_9
-    - [x] sundial
-- [ ] Season 8
-    - [x] season_8
-    - [ ] garden_of_salvation 
-    - [x] moon
-    - [x] vex_offensive
+    - [ ] 0_crucible
+    - [ ] 0_festival_of_the_lost
+    - [ ] 0_gambit
+    - [ ] 0_iron_banner
+    - [ ] 0_nightfall
+    - [ ] 0_pinnacle
+    - [ ] 0_trials
+    - [ ] 0_vanguard
+- [x] Season 16
+    - [x] 16_risen
+    - [x] 16_season
+    - [x] 16_vow_of_the_disciple
+    - [x] 16_wellspring
+    - [x] 16_witch_queen_campaign
+- [x] Season 17
+    - [x] 17_duality
+    - [x] 17_haunted
+    - [x] 17_opulent
+    - [x] 17_season
+- [x] Season 18
+    - [x] 18_kings_fall
+    - [x] 18_plunder
+    - [x] 18_season
