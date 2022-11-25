@@ -3,7 +3,7 @@
 ## ToC
 
 - [ ] Activities
-    - [ ] 0_crucible
+    - [x] 0_crucible
     - [ ] 0_festival_of_the_lost
     - [ ] 0_gambit
     - [ ] 0_iron_banner
