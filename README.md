@@ -12,7 +12,7 @@
     - [x] 0_vanguard
 - [ ] Activities
     - [x] 0_festival_of_the_lost
-    - [ ] 0_guardian_games
+    - [x] 0_guardian_games
 - [x] Season 16
     - [x] 16_risen
     - [x] 16_season
