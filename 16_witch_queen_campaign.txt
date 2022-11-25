@@ -1,0 +1,66 @@
+// Empirical Evidence (PvE)
+//notes:PvE-
+dimwishlist:item=2607304614&perks=,1428297954,4082225868
+dimwishlist:item=2607304614&perks=,2014892510,1161469972
+dimwishlist:item=2607304614&perks=,1428297954,3673922083
+dimwishlist:item=2607304614&perks=,2014892510,2889515627
+dimwishlist:item=2607304614&perks=,1428297954,3592538738
+dimwishlist:item=2607304614&perks=,2014892510,2675361166
+
+// Empirical Evidence (PvP)
+//notes:PvP-
+dimwishlist:item=2607304614&perks=,1428297954,4082225868
+dimwishlist:item=2607304614&perks=,2014892510,1161469972
+
+// The Enigma (PvE)
+//notes:PvE-
+dimwishlist:item=2595497736&perks=,951095735,4104185692
+dimwishlist:item=2595497736&perks=,3878366039,3007133316
+
+// Red Herring (PvP)
+//notes:PvP-
+dimwishlist:item=3175851496&perks=,3977735242,3927722942
+dimwishlist:item=3175851496&perks=,406461158,1167468626
+
+// Red Herring (PvE)
+//notes:PvE-
+dimwishlist:item=3175851496&perks=,2869569095,4104185692
+dimwishlist:item=3175851496&perks=,2308090567,3007133316
+
+// Forensic Nightmare (PvE)
+//notes:PvE-
+dimwishlist:item=1526296434&perks=,1428297954,124408337
+dimwishlist:item=1526296434&perks=,2014892510,1171887445
+dimwishlist:item=1526296434&perks=,1631667848,4082225868
+dimwishlist:item=1526296434&perks=,402033656,1161469972
+dimwishlist:item=1526296434&perks=,1631667848,124408337
+dimwishlist:item=1526296434&perks=,402033656,1171887445
+
+// Forensic Nightmare (PvP)
+//notes:PvP-
+dimwishlist:item=1526296434&perks=,1428297954,1015611457
+dimwishlist:item=1526296434&perks=,2014892510,2923251173
+
+// Likely Suspect (PvP)
+//notes:PvP-
+dimwishlist:item=1994645182&perks=,280464955,2652708987
+dimwishlist:item=1994645182&perks=,3920370755,617966211
+
+// Likely Suspect (PvE)
+//notes:PvE-
+dimwishlist:item=1994645182&perks=,1428297954,3673922083
+dimwishlist:item=1994645182&perks=,2014892510,2889515627
+
+// Pointed Inquiry (PvE)
+//notes:PvE-
+dimwishlist:item=297296830&perks=,3096702027,1048183818
+dimwishlist:item=297296830&perks=,1658784563,3431277734
+dimwishlist:item=297296830&perks=,3096702027,2848615171
+dimwishlist:item=297296830&perks=,1658784563,169755979
+dimwishlist:item=297296830&perks=,1354429876,1048183818
+dimwishlist:item=297296830&perks=,848860060,3431277734
+dimwishlist:item=297296830&perks=,1354429876,3523296417
+dimwishlist:item=297296830&perks=,848860060,1906147653
+dimwishlist:item=297296830&perks=,1354429876,2848615171
+dimwishlist:item=297296830&perks=,848860060,169755979
+

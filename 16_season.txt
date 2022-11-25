@@ -1,0 +1,89 @@
+// Krait (PvE)
+//notes:PvE-
+dimwishlist:item=2852052802&perks=,1820235745,124408337
+
+// Krait (PvP)
+//notes:PvP-
+dimwishlist:item=2852052802&perks=,3643424744,588594999
+
+// Syncopation-53 (PvE)
+//notes:PvE-
+dimwishlist:item=2856514843&perks=,1168162263,124408337
+dimwishlist:item=2856514843&perks=,1347741687,1171887445
+dimwishlist:item=2856514843&perks=,1168162263,4104185692
+dimwishlist:item=2856514843&perks=,1347741687,3007133316
+
+// Syncopation-53 (PvP)
+//notes:PvP-
+dimwishlist:item=2856514843&perks=,588594999,2846385770
+dimwishlist:item=2856514843&perks=,2717805783,509594246
+
+// Perses-D (PvE)
+//notes:PvE-
+dimwishlist:item=1019000888&perks=,247725512,124408337
+
+// Perses-D (PvP)
+//notes:PvP-
+dimwishlist:item=1019000888&perks=,247725512,3038247973
+
+// Ragnhild-D (PvE)
+//notes:PvE-
+dimwishlist:item=4225322581&perks=,3300816228,2679249093
+dimwishlist:item=4225322581&perks=,3528046508,788178929
+dimwishlist:item=4225322581&perks=,1820235745,3523296417
+dimwishlist:item=4225322581&perks=,4245865861,1906147653
+dimwishlist:item=4225322581&perks=,1820235745,4104185692
+dimwishlist:item=4225322581&perks=,4245865861,3007133316
+
+// Snorri FR5 (PvP)
+//notes:PvP-
+dimwishlist:item=4114929480&perks=,280464955,2213355989
+
+// Cantata-57 (PvP)
+//notes:PvP-
+dimwishlist:item=372697604&perks=,247725512,2846385770
+dimwishlist:item=372697604&perks=,247725512,1954620775
+
+// Ogma PR6 (PvE)
+//notes:PvE-
+dimwishlist:item=2342054803&perks=,3523296417,11612903
+dimwishlist:item=2342054803&perks=,3523296417,3592538738
+dimwishlist:item=2342054803&perks=,3523296417,2848615171
+dimwishlist:item=2342054803&perks=,1048183818,1683379515
+
+// Redback-5si (PvE)
+//notes:PvE-
+dimwishlist:item=1687353095&perks=,1820235745,3425386926
+dimwishlist:item=1687353095&perks=,1820235745,3708227201
+dimwishlist:item=1687353095&perks=,1428297954,3708227201
+dimwishlist:item=1687353095&perks=,1428297954,3425386926
+
+// Fugue-55 (PvE)
+//notes:PvE-
+dimwishlist:item=2233545123&perks=,1354429876,1771339417
+
+// Fugue-55 (PvP)
+//notes:PvP-
+dimwishlist:item=2233545123&perks=,2866798147,957782887
+
+// Funnelweb (PvE)
+//notes:PvE-
+dimwishlist:item=3341893443&perks=,1820235745,4104185692
+dimwishlist:item=3341893443&perks=,1428297954,4104185692
+dimwishlist:item=3341893443&perks=,1820235745,11612903
+
+// Funnelweb (PvP)
+//notes:PvP-
+dimwishlist:item=3341893443&perks=,1428297954,2846385770
+
+// Typhon GL5 (PvE)
+//notes:PvE-
+dimwishlist:item=3568377122&perks=,3523296417,11612903
+dimwishlist:item=3568377122&perks=,3523296417,4104185692
+dimwishlist:item=3568377122&perks=,3523296417,2978966579
+
+// Palmyra-B (PvE)
+//notes:PvE-
+dimwishlist:item=3489657138&perks=,3300816228,3194351027
+dimwishlist:item=3489657138&perks=,3528046508,2275087323
+
