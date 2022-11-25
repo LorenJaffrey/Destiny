@@ -4,7 +4,7 @@
 
 - [ ] Activities
     - [x] 0_crucible
-    - [ ] 0_gambit
+    - [x] 0_gambit
     - [ ] 0_iron_banner
     - [ ] 0_nightfall
     - [ ] 0_pinnacle
