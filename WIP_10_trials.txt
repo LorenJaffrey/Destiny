@@ -1,5 +1,3 @@
-//Season 18
-
 // Whistler's Whim (PvP)
 //notes:PvP-
 dimwishlist:item=1574601402&perks=,588594999,1015611457
@@ -32,4 +30,8 @@ dimwishlist:item=933455006&perks=,1428297954,2978966579
 //notes:PvE-
 dimwishlist:item=2345794502&perks=,3523296417,11612903
 dimwishlist:item=2345794502&perks=,1820235745,11612903
+
+// Aisha's Embrace (PvE)
+//notes:PvE-
+dimwishlist:item=2638190703&perks=,3400784728,3673922083
 

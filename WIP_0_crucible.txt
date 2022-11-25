@@ -27,3 +27,15 @@ dimwishlist:item=2715240478&perks=,2779035018,3523296417
 //notes:PvP-
 dimwishlist:item=2715240478&perks=,1645158859,2610012052
 
+// Crisis Inverted (PvE)
+//notes:PvE-
+dimwishlist:item=2888266564&perks=,3523296417,11612903
+dimwishlist:item=2888266564&perks=,3523296417,1048183818
+
+// Crisis Inverted (PvP)
+//notes:PvP-
+dimwishlist:item=2888266564&perks=,1168162263,1015611457
+dimwishlist:item=2888266564&perks=,588594999,2846385770
+dimwishlist:item=2888266564&perks=,247725512,1015611457
+dimwishlist:item=2888266564&perks=,247725512,2846385770
+

@@ -7,8 +7,10 @@ description:only containing traits (excludes barrels, scopes, magazines, etc.)
 //WIP_0_iron_banner
 //WIP_0_nightfall
 //WIP_0_pinnacle
+//WIP_0_trials
 //WIP_0_vanguard
 //16_risen
+//16_vow_of_the_disciple
 //16_wellspring
 //17_duality
 //17_haunted
@@ -95,6 +97,36 @@ dimwishlist:item=3738678140&perks=,1820235745,2360754333
 dimwishlist:item=3738678140&perks=,2779035018,2360754333
 dimwishlist:item=3738678140&perks=,1428297954,4104185692
 
+// Yesteryear (PvE)
+//notes:PvE-
+dimwishlist:item=1141927949&perks=,1820235745,776531651
+dimwishlist:item=1141927949&perks=,1820235745,2610012052
+dimwishlist:item=1141927949&perks=,1168162263,3047969693
+dimwishlist:item=1141927949&perks=,1428297954,3047969693
+
+// Yesteryear (PvP)
+//notes:PvP-
+dimwishlist:item=1141927949&perks=,1168162263,3047969693
+dimwishlist:item=1141927949&perks=,1428297954,3047969693
+dimwishlist:item=1141927949&perks=,1428297954,2610012052
+
+// Dead Weight (PvE)
+//notes:PvE-
+dimwishlist:item=3738678140&perks=,1631667848,2679249093
+dimwishlist:item=3738678140&perks=,1820235745,2360754333
+dimwishlist:item=3738678140&perks=,2779035018,2360754333
+dimwishlist:item=3738678140&perks=,1428297954,4104185692
+
+// Herod-C (PvE)
+//notes:PvE-
+dimwishlist:item=1788603939&perks=,1428297954,124408337
+dimwishlist:item=1788603939&perks=,1428297954,3523296417
+dimwishlist:item=1788603939&perks=,1428297954,4104185692
+dimwishlist:item=1788603939&perks=,1820235745,124408337
+dimwishlist:item=1788603939&perks=,1820235745,3523296417
+dimwishlist:item=1788603939&perks=,1820235745,4104185692
+dimwishlist:item=1788603939&perks=,1428297954,2458213969
+
 
 //0_iron_banner
 
@@ -127,6 +159,16 @@ dimwishlist:item=2488587246&perks=,2779035018,1015611457
 // The Hero's Burden (PvE)
 //notes:PvE-
 dimwishlist:item=2488587246&perks=,2779035018,776531651
+
+// Frontier's Cry (PvE)
+//notes:PvE-
+dimwishlist:item=-1141547457
+
+// Razor's Edge (PvE)
+//notes:PvE-
+dimwishlist:item=1796949035&perks=,1749209109,2396489472
+dimwishlist:item=1796949035&perks=,1749209109,4104185692
+dimwishlist:item=1796949035&perks=,1749209109,354401740
 
 
 //0_nightfall
@@ -174,6 +216,116 @@ dimwishlist:item=3355385170&perks=,3400784728,4104185692
 dimwishlist:item=3355385170&perks=,957782887,47981717
 
 
+//0_pinnacle
+
+//Mountaintop
+dimwishlist:item=3993415705
+
+//Revoker
+dimwishlist:item=654608616
+
+//Luna's Howl
+dimwishlist:item=153979396
+
+//Not Forgotten
+dimwishlist:item=153979399
+
+//Redrix's Broadsword
+dimwishlist:item=1161276682
+
+//Komodo-4FR
+dimwishlist:item=2697058914
+
+//The Recluse
+dimwishlist:item=3354242550
+
+//Randy's Throwing Knife
+dimwishlist:item=3535742959
+
+//Exit Strategy
+dimwishlist:item=4227181568
+
+//Breakneck
+dimwishlist:item=324382200
+
+//Hush
+dimwishlist:item=1584643826
+
+//Python
+dimwishlist:item=838556752
+
+//21% Delirium
+dimwishlist:item=1600633250
+
+//Wendigo GL3
+dimwishlist:item=578459533
+
+//Edgewise
+dimwishlist:item=847329160
+
+//Oxygen SR3
+dimwishlist:item=3907337522
+
+//Loaded Question
+dimwishlist:item=580961571
+
+//Buzzard
+dimwishlist:item=805677041
+
+//Point of the Stag
+dimwishlist:item=3434944005
+
+// Cry Mutiny
+dimwishlist:item=616582330
+
+// Chain of Command
+dimwishlist:item=3105930175
+
+// Reckless Endangerment (PvE)
+//notes:PvE-
+dimwishlist:item=3216652511
+
+
+//0_trials
+
+// Whistler's Whim (PvP)
+//notes:PvP-
+dimwishlist:item=1574601402&perks=,588594999,1015611457
+dimwishlist:item=1574601402&perks=,2846385770,1015611457
+
+// Whistler's Whim (PvE)
+//notes:PvE-
+dimwishlist:item=1574601402&perks=,247725512,201365942
+dimwishlist:item=1574601402&perks=,2726471870,201365942
+
+// The Inquisitor (PvE)
+//notes:PvE-
+dimwishlist:item=2185327324&perks=,1820235745,11612903
+dimwishlist:item=2185327324&perks=,3523296417,11612903
+
+// The Inquisitor (PvP)
+//notes:PvP-
+dimwishlist:item=2185327324&perks=,1428297954,2610012052
+dimwishlist:item=2185327324&perks=,1428297954,47981717
+
+// Burden of Guilt (PvP)
+//notes:PvP-
+dimwishlist:item=933455006&perks=,1428297954,2213355989
+
+// Burden of Guilt (PvE)
+//notes:PvE-
+dimwishlist:item=933455006&perks=,1428297954,2978966579
+
+// Forgiveness (PvE)
+//notes:PvE-
+dimwishlist:item=2345794502&perks=,3523296417,11612903
+dimwishlist:item=2345794502&perks=,1820235745,11612903
+
+// Aisha's Embrace (PvE)
+//notes:PvE-
+dimwishlist:item=2638190703&perks=,3400784728,3673922083
+
+
 //0_vanguard
 
 // Pure Poetry (PvE)
@@ -185,6 +337,13 @@ dimwishlist:item=2671639706&perks=,2010801679,4104185692
 //notes:PvE-
 dimwishlist:item=2591241074&perks=,201365942,4293542123
 dimwishlist:item=2591241074&perks=,201365942,2848615171
+
+// Fortissimo-11 (PvE)
+//notes:PvE-
+dimwishlist:item=2821430069&perks=,1428297954,4104185692
+dimwishlist:item=2821430069&perks=,3523296417,11612903
+dimwishlist:item=2821430069&perks=,1820235745,4104185692
+dimwishlist:item=2821430069&perks=,3523296417,1774574192
 
 
 //16_risen
@@ -249,6 +408,70 @@ dimwishlist:item=2097055732&perks=,2014892510,2422968039
 //notes:PvE-
 dimwishlist:item=2097055732&perks=,1428297954,11612903
 dimwishlist:item=2097055732&perks=,2014892510,2422968039
+
+// Under Your Skin (PvE)
+//notes:PvE-
+dimwishlist:item=232928045&perks=,201365942,1048183818
+dimwishlist:item=232928045&perks=,3523746922,3431277734
+dimwishlist:item=232928045&perks=,201365942,2848615171
+dimwishlist:item=232928045&perks=,3523746922,169755979
+
+// Under Your Skin (PvP)
+//notes:PvP-
+dimwishlist:item=232928045&perks=,1428297954,3365897133
+dimwishlist:item=232928045&perks=,2014892510,1551736345
+dimwishlist:item=232928045&perks=,1428297954,2848615171
+dimwishlist:item=232928045&perks=,2014892510,169755979
+
+
+//16_vow_of_the_disciple
+
+// Deliverance (PvE)
+//notes:PvE-
+dimwishlist:item=768621510&perks=,3523296417,11612903
+dimwishlist:item=768621510&perks=,1906147653,2422968039
+dimwishlist:item=768621510&perks=,2172504645,3078487919
+dimwishlist:item=768621510&perks=,1428297954,2978966579
+dimwishlist:item=768621510&perks=,2014892510,344235611
+dimwishlist:item=768621510&perks=,1172098417,3744057135
+dimwishlist:item=768621510&perks=,2172504645,438098033
+dimwishlist:item=768621510&perks=,1172098417,2748801589
+
+// Submission (PvE)
+//notes:PvE-
+dimwishlist:item=3886416794&perks=,1820235745,4104185692
+dimwishlist:item=3886416794&perks=,4245865861,3007133316
+dimwishlist:item=3886416794&perks=,1428297954,4104185692
+dimwishlist:item=3886416794&perks=,2014892510,3007133316
+dimwishlist:item=3886416794&perks=,1820235745,3523296417
+dimwishlist:item=3886416794&perks=,4245865861,1906147653
+dimwishlist:item=3886416794&perks=,1820235745,4082225868
+dimwishlist:item=3886416794&perks=,4245865861,1161469972
+
+// Lubrae's Ruin (PvE)
+//notes:PvE-
+dimwishlist:item=2534546147&perks=,1631667848,4082225868
+dimwishlist:item=2534546147&perks=,402033656,1161469972
+
+// Forbearance (PvE)
+//notes:PvE-
+dimwishlist:item=613334176&perks=,2010801679,2396489472
+dimwishlist:item=613334176&perks=,3797647183,598607952
+
+// Insidious (PvE)
+//notes:PvE-
+dimwishlist:item=3428521585&perks=,3523296417,11612903
+dimwishlist:item=3428521585&perks=,1906147653,2422968039
+dimwishlist:item=3428521585&perks=,247725512,3425386926
+dimwishlist:item=3428521585&perks=,2938480696,288411554
+dimwishlist:item=3428521585&perks=,247725512,1048183818
+dimwishlist:item=3428521585&perks=,2938480696,3431277734
+
+// Cataclysmic (PvE)
+//notes:PvE-
+dimwishlist:item=999767358&perks=,1354429876,3078487919
+dimwishlist:item=999767358&perks=,848860060,3744057135
+
 
 
 //16_wellspring

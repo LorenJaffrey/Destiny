@@ -63,3 +63,7 @@ dimwishlist:item=616582330
 
 // Chain of Command
 dimwishlist:item=3105930175
+
+// Reckless Endangerment (PvE)
+//notes:PvE-
+dimwishlist:item=3216652511
