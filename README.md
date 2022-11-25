@@ -4,13 +4,15 @@
 
 - [ ] Activities
     - [x] 0_crucible
-    - [ ] 0_festival_of_the_lost
     - [ ] 0_gambit
     - [ ] 0_iron_banner
     - [ ] 0_nightfall
     - [ ] 0_pinnacle
     - [ ] 0_trials
-    - [ ] 0_vanguard
+    - [x] 0_vanguard
+- [ ] Activities
+    - [x] 0_festival_of_the_lost
+    - [ ] 0_guardian_games
 - [x] Season 16
     - [x] 16_risen
     - [x] 16_season
