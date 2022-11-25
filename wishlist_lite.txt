@@ -307,6 +307,9 @@ dimwishlist:item=3355385170&perks=,957782887,47981717
 
 //0_pinnacle
 
+title:pinnacle
+description:contains all pinnacle and signature weapons
+
 //Mountaintop
 dimwishlist:item=3993415705
 
@@ -373,6 +376,46 @@ dimwishlist:item=3105930175
 // Reckless Endangerment (PvE)
 //notes:PvE-
 dimwishlist:item=3216652511
+
+// Felwinter's Lie (PvE)
+//notes:PvE-
+dimwishlist:item=1179141605
+
+// Felwinter's Lie (PvP)
+//notes:PvP-
+dimwishlist:item=1179141605
+
+// Adored (PvP)
+//notes:PvP-
+dimwishlist:item=4184808992
+
+// Adored (PvE)
+//notes:PvE-
+dimwishlist:item=4184808992
+
+// Salvager's Salvo (PvE)
+//notes:PvE-
+dimwishlist:item=2060863616
+
+// Salvager's Salvo (PvP)
+//notes:PvP-
+dimwishlist:item=2060863616
+
+// Null Composure (PvP)
+//notes:PvP-
+dimwishlist:item=1644680957
+
+// Null Composure (PvE)
+//notes:PvE-
+dimwishlist:item=1644680957
+
+// Ascendancy (PvE)
+//notes:PvE-
+dimwishlist:item=725408022
+
+// Ascendancy (PvP)
+//notes:PvP-
+dimwishlist:item=725408022
 
 //------------------------------------------------------------------------------------------------------------------------------------------------------------
 
