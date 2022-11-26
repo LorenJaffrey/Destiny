@@ -1,0 +1,100 @@
+// The Militia's Birthright (PvE)
+//notes:PvE-
+dimwishlist:item=40394833&perks=,2010801679,4104185692
+
+// Mindbender's Ambition (PvE)
+//notes:PvE-
+dimwishlist:item=1094005544&perks=,691659142,2679249093
+dimwishlist:item=1094005544&perks=,1556840489,4293542123
+
+// Dead Weight (PvE)
+//notes:PvE-
+dimwishlist:item=3738678140&perks=,1631667848,2679249093
+dimwishlist:item=3738678140&perks=,1820235745,2360754333
+dimwishlist:item=3738678140&perks=,2779035018,2360754333
+dimwishlist:item=3738678140&perks=,1428297954,4104185692
+
+// Horror's Least (PvE)
+//notes:PvE-
+dimwishlist:item=216983039&perks=,1428297954,4104185692
+
+// Horror's Least (PvP)
+//notes:PvP-
+dimwishlist:item=216983039&perks=,1428297954,1015611457
+dimwishlist:item=216983039&perks=,1645158859,2213355989
+
+// D.F.A. (PvE)
+//notes:
+dimwishlist:item=-575830664
+
+// Duty Bound (PvE)
+//notes:PvE-
+dimwishlist:item=435216110&perks=,1428297954,4104185692
+
+// Silicon Neuroma (PvE)
+//notes:PvE-
+dimwishlist:item=3355385170&perks=,3400784728,1771339417
+dimwishlist:item=3355385170&perks=,3400784728,4104185692
+
+// Silicon Neuroma (PvP)
+//notes:PvP-
+dimwishlist:item=3355385170&perks=,957782887,47981717
+
+// Hung Jury SR4 (PvE)
+//notes:PvE-
+dimwishlist:item=4281371574&perks=,1820235745,11612903
+dimwishlist:item=4281371574&perks=,1820235745,3824105627
+dimwishlist:item=4281371574&perks=,247725512,3824105627
+dimwishlist:item=4281371574&perks=,247725512,11612903
+
+// Hung Jury SR4 (PvP)
+//notes:PvP-
+dimwishlist:item=4281371574&perks=,247725512,3038247973
+
+// Shadow Price (PvE)
+//notes:PvE-
+dimwishlist:item=2633186522&perks=,3643424744,1683379515
+dimwishlist:item=2633186522&perks=,3643424744,2848615171
+dimwishlist:item=2633186522&perks=,3643424744,4082225868
+dimwishlist:item=2633186522&perks=,2779035018,2848615171
+
+// PLUG ONE.1 (PvE)
+//notes:PvE-
+dimwishlist:item=1289000550&perks=,2779035018,1427256713
+dimwishlist:item=1289000550&perks=,1048183818,1427256713
+dimwishlist:item=1289000550&perks=,1048183818,11612903
+
+// The Palindrome (PvP)
+//notes:PvP-
+dimwishlist:item=432476743&perks=,1168162263,2846385770
+dimwishlist:item=432476743&perks=,706527188,2846385770
+
+// The Comedian (PvE)
+//notes:PvE-
+dimwishlist:item=1028582252&perks=,1820235745,11612903
+dimwishlist:item=1028582252&perks=,1820235745,2360754333
+
+// Uzume RR4 (PvP)
+//notes:PvP-
+dimwishlist:item=2065081837&perks=,957782887,2213355989
+dimwishlist:item=2065081837&perks=,957782887,3038247973
+
+// Uzume RR4 (PvE)
+//notes:PvE-
+dimwishlist:item=2065081837&perks=,2284787283,1546637391
+dimwishlist:item=2065081837&perks=,2284787283,11612903
+dimwishlist:item=2065081837&perks=,3400784728,11612903
+
+// THE SWARM (PvE)
+//notes:PvE-
+dimwishlist:item=47772649
+
+// The Hothead (PvE)
+//notes:PvE-
+dimwishlist:item=4255171531&perks=,3977735242,3194351027
+dimwishlist:item=4255171531&perks=,2869569095,2284787283
+
+// The Hothead (PvP)
+//notes:PvP-
+dimwishlist:item=4255171531&perks=,3977735242,1546637391
+
