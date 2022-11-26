@@ -1,0 +1,140 @@
+// Roar of the Bear (PvE)
+//notes:PvE-
+dimwishlist:item=4009352833&perks=,3977735242,1275731761
+dimwishlist:item=4009352833&perks=,951095735,1275731761
+dimwishlist:item=4009352833&perks=,2010801679,1275731761
+dimwishlist:item=4009352833&perks=,2869569095,1275731761
+
+// Roar of the Bear (PvP)
+//notes:PvP-
+dimwishlist:item=4009352833&perks=,957782887,1275731761
+
+// Allied Demand (PvE)
+//notes:PvE-
+dimwishlist:item=1532276803&perks=,1820235745,4104185692
+
+// Allied Demand (PvP)
+//notes:PvP-
+dimwishlist:item=1532276803&perks=,2846385770,1365187766
+
+// The Wizened Rebuke
+dimwishlist:item=-1999697514
+
+// The Hero's Burden (PvP)
+//notes:PvP-
+dimwishlist:item=2488587246&perks=,2779035018,1015611457
+
+// The Hero's Burden (PvE)
+//notes:PvE-
+dimwishlist:item=2488587246&perks=,2779035018,776531651
+
+// Frontier's Cry (PvE)
+//notes:PvE-
+dimwishlist:item=-1141547457
+
+// Razor's Edge (PvE)
+//notes:PvE-
+dimwishlist:item=1796949035&perks=,1749209109,2396489472
+dimwishlist:item=1796949035&perks=,1749209109,4104185692
+dimwishlist:item=1796949035&perks=,1749209109,354401740
+
+// The Forward Path (PvE)
+//notes:PvE-
+dimwishlist:item=1690783811&perks=,1631667848,4082225868
+dimwishlist:item=1690783811&perks=,2779035018,2458213969
+
+// Crimil's Dagger (PvP)
+//notes:PvP-
+dimwishlist:item=4292849692&perks=,1168162263,1015611457
+dimwishlist:item=4292849692&perks=,2846385770,1954620775
+dimwishlist:item=4292849692&perks=,2846385770,3038247973
+dimwishlist:item=4292849692&perks=,2846385770,1015611457
+dimwishlist:item=4292849692&perks=,2846385770,47981717
+
+// The Steady Hand (PvP)
+//notes:PvP-
+dimwishlist:item=2220884262&perks=,706527188,957782887
+dimwishlist:item=2220884262&perks=,588594999,957782887
+
+// Talons of the Eagle (PvE)
+//notes:PvE-
+dimwishlist:item=1982711279&perks=,1168162263,3425386926
+
+// The Guiding Sight (PvE)
+//notes:PvE-
+dimwishlist:item=1641430382&perks=,247725512,1774574192
+dimwishlist:item=1641430382&perks=,2010801679,1774574192
+
+// Riiswalker (PvP)
+//notes:PvP-
+dimwishlist:item=108221785&perks=,706527188,591790007
+dimwishlist:item=108221785&perks=,2039302152,591790007
+
+// Peacebond (PvE)
+//notes:PvE-
+dimwishlist:item=829330711&perks=,1820235745,124408337
+dimwishlist:item=829330711&perks=,1820235745,3523296417
+dimwishlist:item=829330711&perks=,1428297954,4082225868
+dimwishlist:item=829330711&perks=,1428297954,124408337
+dimwishlist:item=829330711&perks=,1820235745,4082225868
+
+// Peacebond (PvP)
+//notes:PvP-
+dimwishlist:item=829330711&perks=,2846385770,124408337
+
+// Bite of the Fox (PvP)
+//notes:PvP-
+dimwishlist:item=3169616514&perks=,957782887,588594999
+dimwishlist:item=3169616514&perks=,957782887,47981717
+dimwishlist:item=3169616514&perks=,247725512,588594999
+
+// Bite of the Fox (PvE)
+//notes:PvE-
+dimwishlist:item=3169616514&perks=,247725512,2010801679
+
+// Orewing's Maul (PvP)
+//notes:PvP-
+dimwishlist:item=2108920981&perks=,409831596,706527188,3300816228
+dimwishlist:item=2108920981&perks=,409831596,706527188,957782887
+
+// Orewing's Maul (PvE)
+//notes:PvE-
+dimwishlist:item=2108920981&perks=,3301904089,2869569095,3523296417
+
+// Finite Impactor (PvE)
+//notes:PvE-
+dimwishlist:item=3813153080
+
+// Forge's Pledge (PvE)
+//notes:PvE-
+dimwishlist:item=1076810832
+
+// The Fool's Remedy (PvP)
+//notes:PvP-
+dimwishlist:item=65611680&perks=,2779035018,1015611457
+dimwishlist:item=65611680&perks=,588594999,706527188
+
+// Occluded Finality (PvE)
+//notes:PvE-
+dimwishlist:item=852551895&perks=,247725512,1771339417
+
+// Occluded Finality (PvP)
+//notes:PvP-
+dimwishlist:item=852551895&perks=,957782887,47981717
+dimwishlist:item=852551895&perks=,1645158859,47981717
+
+// Swarm of the Raven (PvP)
+//notes:PvP-
+dimwishlist:item=1972985595&perks=,409831596,957782887,706527188
+
+// Archon's Thunder (PvP)
+//notes:PvP-
+dimwishlist:item=1967303408&perks=,588594999,2726471870
+
+// Shining Sphere (PvP)
+//notes:PvP-
+dimwishlist:item=136525518&perks=,957782887,706527188
+dimwishlist:item=136525518&perks=,957782887,3977735242
+dimwishlist:item=136525518&perks=,3300816228,3977735242
+dimwishlist:item=136525518&perks=,3300816228,706527188
+

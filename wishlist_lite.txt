@@ -257,6 +257,106 @@ dimwishlist:item=1796949035&perks=,1749209109,2396489472
 dimwishlist:item=1796949035&perks=,1749209109,4104185692
 dimwishlist:item=1796949035&perks=,1749209109,354401740
 
+// The Forward Path (PvE)
+//notes:PvE-
+dimwishlist:item=1690783811&perks=,1631667848,4082225868
+dimwishlist:item=1690783811&perks=,2779035018,2458213969
+
+// Crimil's Dagger (PvP)
+//notes:PvP-
+dimwishlist:item=4292849692&perks=,1168162263,1015611457
+dimwishlist:item=4292849692&perks=,2846385770,1954620775
+dimwishlist:item=4292849692&perks=,2846385770,3038247973
+dimwishlist:item=4292849692&perks=,2846385770,1015611457
+dimwishlist:item=4292849692&perks=,2846385770,47981717
+
+// The Steady Hand (PvP)
+//notes:PvP-
+dimwishlist:item=2220884262&perks=,706527188,957782887
+dimwishlist:item=2220884262&perks=,588594999,957782887
+
+// Talons of the Eagle (PvE)
+//notes:PvE-
+dimwishlist:item=1982711279&perks=,1168162263,3425386926
+
+// The Guiding Sight (PvE)
+//notes:PvE-
+dimwishlist:item=1641430382&perks=,247725512,1774574192
+dimwishlist:item=1641430382&perks=,2010801679,1774574192
+
+// Riiswalker (PvP)
+//notes:PvP-
+dimwishlist:item=108221785&perks=,706527188,591790007
+dimwishlist:item=108221785&perks=,2039302152,591790007
+
+// Peacebond (PvE)
+//notes:PvE-
+dimwishlist:item=829330711&perks=,1820235745,124408337
+dimwishlist:item=829330711&perks=,1820235745,3523296417
+dimwishlist:item=829330711&perks=,1428297954,4082225868
+dimwishlist:item=829330711&perks=,1428297954,124408337
+dimwishlist:item=829330711&perks=,1820235745,4082225868
+
+// Peacebond (PvP)
+//notes:PvP-
+dimwishlist:item=829330711&perks=,2846385770,124408337
+
+// Bite of the Fox (PvP)
+//notes:PvP-
+dimwishlist:item=3169616514&perks=,957782887,588594999
+dimwishlist:item=3169616514&perks=,957782887,47981717
+dimwishlist:item=3169616514&perks=,247725512,588594999
+
+// Bite of the Fox (PvE)
+//notes:PvE-
+dimwishlist:item=3169616514&perks=,247725512,2010801679
+
+// Orewing's Maul (PvP)
+//notes:PvP-
+dimwishlist:item=2108920981&perks=,409831596,706527188,3300816228
+dimwishlist:item=2108920981&perks=,409831596,706527188,957782887
+
+// Orewing's Maul (PvE)
+//notes:PvE-
+dimwishlist:item=2108920981&perks=,3301904089,2869569095,3523296417
+
+// Finite Impactor
+dimwishlist:item=-3813153080
+
+// Forge's Pledge
+dimwishlist:item=-1076810832
+
+// The Fool's Remedy (PvP)
+//notes:PvP-
+dimwishlist:item=65611680&perks=,2779035018,1015611457
+dimwishlist:item=65611680&perks=,588594999,706527188
+
+// Occluded Finality (PvE)
+//notes:PvE-
+dimwishlist:item=852551895&perks=,247725512,1771339417
+
+// Occluded Finality (PvP)
+//notes:PvP-
+dimwishlist:item=852551895&perks=,957782887,47981717
+dimwishlist:item=852551895&perks=,1645158859,47981717
+
+// Swarm of the Raven (PvP)
+//notes:PvP-
+dimwishlist:item=1972985595&perks=,409831596,957782887,706527188
+
+// Archon's Thunder (PvP)
+//notes:PvP-
+dimwishlist:item=1967303408&perks=,588594999,2726471870
+
+// Shining Sphere (PvP)
+//notes:PvP-
+dimwishlist:item=136525518&perks=,957782887,706527188
+dimwishlist:item=136525518&perks=,957782887,3977735242
+dimwishlist:item=136525518&perks=,3300816228,3977735242
+dimwishlist:item=136525518&perks=,3300816228,706527188
+
+
+
 //------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 //0_nightfall
@@ -457,6 +557,108 @@ dimwishlist:item=2345794502&perks=,1820235745,11612903
 // Aisha's Embrace (PvE)
 //notes:PvE-
 dimwishlist:item=2638190703&perks=,3400784728,3673922083
+
+// Reed's Regret (PvE)
+//notes:PvE-
+dimwishlist:item=1399243961&perks=,2284787283,1546637391
+dimwishlist:item=1399243961&perks=,3400784728,1546637391
+dimwishlist:item=1399243961&perks=,3400784728,1771339417
+dimwishlist:item=1399243961&perks=,2284787283,1771339417
+dimwishlist:item=1399243961&perks=,3300816228,1771339417
+
+// Tomorrow's Answer (PvE)
+//notes:PvE-
+dimwishlist:item=958384347&perks=,3977735242,1275731761
+
+// Tomorrow's Answer (PvP)
+//notes:PvP-
+dimwishlist:item=958384347&perks=,3977735242,1275731761
+
+// Sola's Scar (PvE)
+//notes:PvE-
+dimwishlist:item=1313528549&perks=,1749209109,2396489472
+dimwishlist:item=1313528549&perks=,2590710093,2396489472
+dimwishlist:item=1313528549&perks=,1749209109,4104185692
+
+// Shayura's Wrath (PvP)
+//notes:PvP-
+dimwishlist:item=3682803680&perks=,1359896290,1015611457
+dimwishlist:item=3682803680&perks=,1428297954,1015611457
+dimwishlist:item=3682803680&perks=,1428297954,2610012052
+
+// Shayura's Wrath (PvE)
+//notes:PvE-
+dimwishlist:item=3682803680&perks=,1428297954,11612903
+
+// Igneous Hammer (PvP)
+//notes:PvP-
+dimwishlist:item=2351180975&perks=,247725512,588594999
+dimwishlist:item=2351180975&perks=,1168162263,957782887
+dimwishlist:item=2351180975&perks=,247725512,957782887
+dimwishlist:item=2351180975&perks=,1168162263,588594999
+dimwishlist:item=2351180975&perks=,706527188,957782887
+
+// Igneous Hammer (PvE)
+//notes:PvE-
+dimwishlist:item=2351180975&perks=,1820235745,3425386926
+dimwishlist:item=2351180975&perks=,3643424744,3425386926
+
+// Exile's Curse (PvP)
+//notes:PvP-
+dimwishlist:item=679281855&perks=,706527188,1600092898
+dimwishlist:item=679281855&perks=,3161816588,1754714824
+dimwishlist:item=679281855&perks=,706527188,2213355989
+
+// The Summoner (PvE)
+//notes:PvE-
+dimwishlist:item=1907698332&perks=,3643424744,3425386926
+dimwishlist:item=1907698332&perks=,1428297954,3425386926
+
+// The Summoner (PvP)
+//notes:PvP-
+dimwishlist:item=1907698332&perks=,1428297954,2610012052
+dimwishlist:item=1907698332&perks=,2846385770,2610012052
+
+// Eye of Sol (PvP)
+//notes:PvP-
+dimwishlist:item=3164743584&perks=,588594999,2213355989
+dimwishlist:item=3164743584&perks=,588594999,957782887
+dimwishlist:item=3164743584&perks=,588594999,47981717
+
+// Astral Horizon (PvP)
+//notes:PvP-
+dimwishlist:item=1697682876&perks=,3436462433,47981717
+dimwishlist:item=1697682876&perks=,3300816228,47981717
+
+// Astral Horizon (PvE)
+//notes:PvE-
+dimwishlist:item=1697682876&perks=,3300816228,2360754333
+
+// The Scholar
+dimwishlist:item=-2478792241
+
+// The Messenger (PvP)
+//notes:PvP-
+dimwishlist:item=3658188704&perks=,1168162263,3047969693
+dimwishlist:item=3658188704&perks=,1168162263,4104185692
+dimwishlist:item=3658188704&perks=,1168162263,1015611457
+dimwishlist:item=3658188704&perks=,1428297954,1015611457
+dimwishlist:item=3658188704&perks=,1428297954,3047969693
+dimwishlist:item=3658188704&perks=,1428297954,4104185692
+dimwishlist:item=3658188704&perks=,247725512,4104185692
+dimwishlist:item=3658188704&perks=,247725512,3047969693
+dimwishlist:item=3658188704&perks=,588594999,3047969693
+dimwishlist:item=3658188704&perks=,588594999,1015611457
+dimwishlist:item=3658188704&perks=,588594999,4104185692
+
+// The Messenger (PvE)
+//notes:PvE-
+dimwishlist:item=3658188704&perks=,247725512,3047969693
+dimwishlist:item=3658188704&perks=,247725512,4104185692
+dimwishlist:item=3658188704&perks=,1168162263,3047969693
+dimwishlist:item=3658188704&perks=,1168162263,4104185692
+dimwishlist:item=3658188704&perks=,1428297954,3047969693
+dimwishlist:item=3658188704&perks=,1428297954,4104185692
 
 //------------------------------------------------------------------------------------------------------------------------------------------------------------
 

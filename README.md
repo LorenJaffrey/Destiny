@@ -5,10 +5,10 @@
 - [ ] Activities
     - [x] 0_crucible
     - [x] 0_gambit
-    - [ ] 0_iron_banner
+    - [x] 0_iron_banner
     - [ ] 0_nightfall
     - [x] 0_pinnacle
-    - [ ] 0_trials
+    - [x] 0_trials
     - [x] 0_vanguard
 - [ ] Activities
     - [x] 0_festival_of_the_lost
