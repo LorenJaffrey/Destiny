@@ -31,5 +31,5 @@
     - [x] 18_season
 - [ ] Season 19
     - [ ] 19_ikelos
-    - [ ] 19_seraph
+    - [x] 19_seraph
     - [ ] 19_season
