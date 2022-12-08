@@ -13,6 +13,7 @@
 - [ ] Activities
     - [x] 0_festival_of_the_lost
     - [x] 0_guardian_games
+    - [ ] 0_dawning
 - [x] Season 16
     - [x] 16_risen
     - [x] 16_season
@@ -28,3 +29,7 @@
     - [x] 18_kings_fall
     - [x] 18_plunder
     - [x] 18_season
+- [ ] Season 19
+    - [ ] 19_ikelos
+    - [ ] 19_seraph
+    - [ ] 19_season

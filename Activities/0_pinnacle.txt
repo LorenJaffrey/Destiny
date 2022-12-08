@@ -108,3 +108,10 @@ dimwishlist:item=725408022
 //notes:PvP-
 dimwishlist:item=725408022
 
+// Veles-X (PvP)
+//notes:PvP-
+dimwishlist:item=2276328320
+
+// Veles-X (PvE)
+//notes:PvE-
+dimwishlist:item=2276328320

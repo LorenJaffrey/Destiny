@@ -89,3 +89,23 @@ dimwishlist:item=3473290087&perks=,588594999,957782887
 //notes:PvE-
 dimwishlist:item=4230993599&perks=,1749209109,3913600130
 
+// Blowout (PvP)
+//notes:PvP-
+dimwishlist:item=1903182562&perks=,3977735242,1275731761
+
+// Blowout (PvE)
+//notes:PvE-
+dimwishlist:item=1903182562&perks=,2869569095,4104185692
+dimwishlist:item=1903182562&perks=,2869569095,1546637391
+dimwishlist:item=1903182562&perks=,3977735242,2396489472
+
+// Rose (PvP)
+//notes:PvP-
+dimwishlist:item=882778888&perks=,247725512,957782887
+dimwishlist:item=882778888&perks=,247725512,2846385770
+dimwishlist:item=882778888&perks=,247725512,47981717
+dimwishlist:item=882778888&perks=,588594999,957782887
+dimwishlist:item=882778888&perks=,588594999,3038247973
+dimwishlist:item=882778888&perks=,1428297954,3038247973
+dimwishlist:item=882778888&perks=,1428297954,957782887
+dimwishlist:item=882778888&perks=,1428297954,2846385770

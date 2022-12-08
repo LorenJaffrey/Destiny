@@ -138,3 +138,11 @@ dimwishlist:item=136525518&perks=,957782887,3977735242
 dimwishlist:item=136525518&perks=,3300816228,3977735242
 dimwishlist:item=136525518&perks=,3300816228,706527188
 
+// Dark Decider (PvE)
+//notes:PvE-
+dimwishlist:item=540880995&perks=,1820235745,2848615171
+dimwishlist:item=540880995&perks=,1820235745,1365187766
+
+// Gunnora's Axe (PvE)
+//notes:PvE-
+dimwishlist:item=487361141&perks=,4071163871,2173046394
