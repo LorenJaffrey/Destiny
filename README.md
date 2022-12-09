@@ -30,6 +30,6 @@
     - [x] 18_plunder
     - [x] 18_season
 - [ ] Season 19
-    - [ ] 19_ikelos
+    - [x] 19_ikelos
     - [x] 19_seraph
     - [ ] 19_season
