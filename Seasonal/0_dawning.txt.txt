@@ -1,0 +1,8 @@
+// Glacioclasm (PvE)
+//notes:PvE-
+dimwishlist:item=3573686365&perks=,776531651,2610012052
+dimwishlist:item=3573686365&perks=,1820235745,2610012052
+
+// Glacioclasm (PvP)
+//notes:PvP-
+dimwishlist:item=3573686365&perks=,3161816588,1754714824

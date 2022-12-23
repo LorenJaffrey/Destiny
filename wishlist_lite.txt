@@ -2,13 +2,14 @@ title:wishlist_lite
 description:only containing traits (excludes barrels, scopes, magazines, etc.)
 //toc
 //0_crucible
-//WIP_0_gambit
-//WIP_0_iron_banner
-//WIP_0_nightfall
-//WIP_0_pinnacle
-//WIP_0_trials
+//0_gambit
+//0_iron_banner
+//0_nightfall
+//0_pinnacle
+//0_trials
 //0_vanguard
 //0_festival_of_the_lost
+//0_dawning
 //16_risen
 //16_season
 //16_vow_of_the_disciple
@@ -144,6 +145,8 @@ dimwishlist:item=1141927949&perks=,1820235745,776531651
 dimwishlist:item=1141927949&perks=,1820235745,2610012052
 dimwishlist:item=1141927949&perks=,1168162263,3047969693
 dimwishlist:item=1141927949&perks=,1428297954,3047969693
+dimwishlist:item=1141927949&perks=,1168162263,776531651
+dimwishlist:item=1141927949&perks=,2010801679,776531651
 
 // Yesteryear (PvP)
 //notes:PvP-
@@ -915,6 +918,19 @@ dimwishlist:item=1280894514&perks=,957782887,2213355989
 
 //------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+//0_dawning
+
+// Glacioclasm (PvE)
+//notes:PvE-
+dimwishlist:item=3573686365&perks=,776531651,2610012052
+dimwishlist:item=3573686365&perks=,1820235745,2610012052
+
+// Glacioclasm (PvP)
+//notes:PvP-
+dimwishlist:item=3573686365&perks=,3161816588,1754714824
+
+//------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 //0_guardian_games
 
 // The Title
@@ -1282,6 +1298,8 @@ dimwishlist:item=2263839058&perks=,4116820839,509594246
 //notes:PvE-
 dimwishlist:item=2263839058&perks=,3436462433,776531651
 dimwishlist:item=2263839058&perks=,2658083589,2541826827
+dimwishlist:item=2263839058&perks=,2779035018,776531651
+dimwishlist:item=2263839058&perks=,1171147302,2541826827
 
 // Unforgiven (PvE)
 //notes:PvE-
@@ -1299,6 +1317,8 @@ dimwishlist:item=3652506829&perks=,2284787283,4104185692
 //notes:PvE-
 dimwishlist:item=2194955522&perks=,2779035018,4293542123
 dimwishlist:item=2194955522&perks=,1171147302,2675184851
+
+
 
 //------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -1332,6 +1352,7 @@ dimwishlist:item=2323544076&perks=,1048183818,557221067
 dimwishlist:item=2323544076&perks=,3436462433,776531651
 dimwishlist:item=2323544076&perks=,2658083589,2541826827
 dimwishlist:item=2323544076&perks=,2658083589,2896748467
+dimwishlist:item=2323544076&perks=,1048183818,776531651
 
 // Bump in the Night (PvE)
 //notes:PvE-
@@ -1443,6 +1464,8 @@ dimwishlist:item=2221264583&perks=,1906147653,2422968039
 dimwishlist:item=1937552980&perks=,3824105627,2848615171
 dimwishlist:item=1937552980&perks=,1183436451,169755979
 dimwishlist:item=1937552980&perks=,1048183818,4104185692
+dimwishlist:item=1937552980&perks=,1048183818,776531651
+dimwishlist:item=1937552980&perks=,3824105627,776531651
 
 // Doom of Chelchis (PvP)
 //notes:PvP-
@@ -1473,6 +1496,8 @@ dimwishlist:item=1321506184&perks=,3108830275,124408337
 dimwishlist:item=1321506184&perks=,3108830275,3824105627
 dimwishlist:item=1321506184&perks=,855168139,1183436451
 dimwishlist:item=1321506184&perks=,855168139,1171887445
+
+
 
 //------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -1698,3 +1723,10 @@ dimwishlist:item=2149683300&perks=,1171147302,1720528630
 dimwishlist:item=2149683300&perks=,1428297954,2846385770
 dimwishlist:item=2149683300&perks=,2014892510,509594246
 
+//------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+//19_season
+
+// Fioritura-59 (PvE)
+//notes:PvE-
+dimwishlist:item=2566006935&perks=,4071163871,776531651

@@ -23,6 +23,8 @@ dimwishlist:item=2263839058&perks=,4116820839,509594246
 //notes:PvE-
 dimwishlist:item=2263839058&perks=,3436462433,776531651
 dimwishlist:item=2263839058&perks=,2658083589,2541826827
+dimwishlist:item=2263839058&perks=,2779035018,776531651
+dimwishlist:item=2263839058&perks=,1171147302,2541826827
 
 // Unforgiven (PvE)
 //notes:PvE-
