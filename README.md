@@ -13,7 +13,7 @@
 - [ ] Activities
     - [x] 0_festival_of_the_lost
     - [x] 0_guardian_games
-    - [ ] 0_dawning
+    - [x] 0_dawning
 - [x] Season 16
     - [x] 16_risen
     - [x] 16_season
@@ -32,4 +32,5 @@
 - [ ] Season 19
     - [x] 19_ikelos
     - [x] 19_seraph
-    - [ ] 19_season
+    - [x] 19_season
+    - [ ] 19_spire_of_the_watchers

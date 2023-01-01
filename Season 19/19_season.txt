@@ -1,3 +1,47 @@
+// Lodbrok-C (PvE)
+//notes:PvE-
+dimwishlist:item=2328531378&perks=,3523296417,11612903
+dimwishlist:item=2328531378&perks=,1774574192,11612903
+dimwishlist:item=2328531378&perks=,3523296417,365154968
+dimwishlist:item=2328531378&perks=,1774574192,365154968
+
+// Lodbrok-C (PvP)
+//notes:PvP-
+dimwishlist:item=2328531378&perks=,1428297954,1015611457
+
+// Aurvandil FR6 (PvE)
+//notes:PvE-
+dimwishlist:item=963710795&perks=,1820235745,2610012052
+dimwishlist:item=963710795&perks=,1820235745,2978966579
+dimwishlist:item=963710795&perks=,1820235745,3523296417
+dimwishlist:item=963710795&perks=,1820235745,4082225868
+dimwishlist:item=963710795&perks=,1523832109,2978966579
+dimwishlist:item=963710795&perks=,1523832109,2610012052
+dimwishlist:item=963710795&perks=,1523832109,3523296417
+dimwishlist:item=963710795&perks=,1523832109,4082225868
+
+// Jararaca-3sr (PvE)
+//notes:PvE-
+dimwishlist:item=1851521408&perks=,1428297954,124408337
+dimwishlist:item=1851521408&perks=,1428297954,2610012052
+dimwishlist:item=1851521408&perks=,247725512,124408337
+dimwishlist:item=1851521408&perks=,247725512,2610012052
+dimwishlist:item=1851521408&perks=,1354429876,2610012052
+dimwishlist:item=1851521408&perks=,1354429876,124408337
+
+// Jararaca-3sr (PvP)
+//notes:PvP-
+dimwishlist:item=1851521408&perks=,247725512,1015611457
+dimwishlist:item=1851521408&perks=,1428297954,1015611457
+
 // Fioritura-59 (PvE)
 //notes:PvE-
 dimwishlist:item=2566006935&perks=,4071163871,776531651
+dimwishlist:item=2566006935&perks=,691659142,4082225868
+dimwishlist:item=2566006935&perks=,4071163871,2610012052
+dimwishlist:item=2566006935&perks=,4071163871,4082225868
+
+// Fioritura-59 (PvP)
+//notes:PvP-
+dimwishlist:item=2566006935&perks=,4071163871,1015611457
+dimwishlist:item=2566006935&perks=,4071163871,2610012052
