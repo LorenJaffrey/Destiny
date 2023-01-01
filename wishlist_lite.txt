@@ -920,14 +920,38 @@ dimwishlist:item=1280894514&perks=,957782887,2213355989
 
 //0_dawning
 
+// Cold Front (PvE)
+//notes:PvE-
+dimwishlist:item=2814093983&perks=,1820235745,4104185692
+dimwishlist:item=2814093983&perks=,3108830275,4104185692
+
 // Glacioclasm (PvE)
 //notes:PvE-
-dimwishlist:item=3573686365&perks=,776531651,2610012052
 dimwishlist:item=3573686365&perks=,1820235745,2610012052
+dimwishlist:item=3573686365&perks=,776531651,2610012052
 
 // Glacioclasm (PvP)
 //notes:PvP-
 dimwishlist:item=3573686365&perks=,3161816588,1754714824
+dimwishlist:item=3573686365&perks=,1645158859,2213355989
+
+// Avalanche (PvE)
+//notes:PvE-
+dimwishlist:item=495940989&perks=,1820235745,4293542123
+dimwishlist:item=495940989&perks=,3300816228,4293542123
+dimwishlist:item=495940989&perks=,1820235745,11612903
+dimwishlist:item=495940989&perks=,3300816228,11612903
+dimwishlist:item=495940989&perks=,2010801679,365154968
+dimwishlist:item=495940989&perks=,3300816228,365154968
+dimwishlist:item=495940989&perks=,3300816228,4082225868
+dimwishlist:item=495940989&perks=,1820235745,4082225868
+
+// Stay Frosty (PvE)
+//notes:PvE-
+dimwishlist:item=2812100428&perks=,588594999,3047969693
+dimwishlist:item=2812100428&perks=,588594999,1048183818
+dimwishlist:item=2812100428&perks=,588594999,2610012052
+dimwishlist:item=2812100428&perks=,588594999,124408337
 
 //------------------------------------------------------------------------------------------------------------------------------------------------------------
 
