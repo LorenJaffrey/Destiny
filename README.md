@@ -13,7 +13,10 @@
 - [ ] Activities
     - [x] 0_festival_of_the_lost
     - [x] 0_guardian_games
-    - [x] 0_dawning
+- [ ] Season 16
+    - [ ] 15_grasp_of_avarice
+    - [ ] 15_prophecy_dungeon
+    - [ ] 15_treasure_hoard
 - [x] Season 16
     - [x] 16_risen
     - [x] 16_season
