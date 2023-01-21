@@ -36,4 +36,4 @@
     - [x] 19_ikelos
     - [x] 19_seraph
     - [x] 19_season
-    - [ ] 19_spire_of_the_watchers
+    - [x] 19_spire_of_the_watcher
